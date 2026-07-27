@@ -5,7 +5,12 @@
     <h1 class="post-title">{{ .Title }}</h1>
   </div>
 </div>
-<div class="post-body">
+<div class="post-body kontakt-body">
+  {{ with .Params.avatar }}
+  <div class="kontakt-avatar">
+    <img src="{{ . }}" alt="Esko Österbacka">
+  </div>
+  {{ end }}
   {{ .Content }}
 </div>
 {{ end }}
