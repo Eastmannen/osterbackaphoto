@@ -4,7 +4,7 @@ date: 2025-02-21T07:43:36
 slug: "vastra-together-fc-red-lions-uk"
 post_type: "match"
 sports:
-  - "futsal"
+  - "fotboll"
 home_team: "Västra Together FC"
 away_team: "Red Lions UK"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/02/e7404856.jpg"

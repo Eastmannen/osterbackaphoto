@@ -4,7 +4,7 @@ date: 2026-06-07T11:05:40
 slug: "kvittering-i-95e-minuten"
 post_type: "other"
 sports:
-  - "annat"
+  - "fotboll"
 club: "Ulricehamns IFK"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2026/06/e7407695.jpg"
 excerpt: "Ulricehamns IFK är fortsatt obesegrade i div 1 mellersta. 4 segrar och 6 oavgjorda. Tar man även hänsyn till serien förra året innebär detta att UIFK är obesegrade i 31 raka matcher i seriesammanhang.…"

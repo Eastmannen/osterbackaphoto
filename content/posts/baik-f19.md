@@ -4,7 +4,7 @@ date: 2025-01-12T20:41:35
 slug: "baik-f19"
 post_type: "other"
 sports:
-  - "annat"
+  - "fotboll"
 club: "Borås AIK"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/01/e7401048-1.jpg"
 excerpt: "Bilder från F19 Futsal DM i Lyckehallen, Kinna 2025-01-11.…"
