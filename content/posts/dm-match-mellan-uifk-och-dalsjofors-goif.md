@@ -7,8 +7,6 @@ sport: "fotboll"
 club: "Ulricehamns IFK"
 home_team: "DM"
 away_team: "match mellan UIFK och Dalsjöfors GoIF"
-home_score: 2025
-away_score: 3
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/03/e7408745.jpg"
 excerpt: "Lassalyckan, Ulricehamn, 2025-03-16. DM-match mellan Ulricehamns IFK och Dalsjöfors GoIF. 2-2 efter full tid. Ulricehamn vinner på straffar.…"
 images:

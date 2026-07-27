@@ -6,8 +6,6 @@ post_type: "match"
 club: "Alingsås IF"
 home_team: "Mariebo IK (F17)"
 away_team: "Alingsås IF (F17)"
-home_score: 2023
-away_score: 7
 venue: "Mariebovallen, Jönköping"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/07/e7403658.jpg"
 excerpt: "Mariebovallen, Jönköping, 2023-07-02. 1-2. Seger för Alingsås.…"

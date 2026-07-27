@@ -11,8 +11,22 @@
 </head>
 <body>
   {{ block "main" . }}{{ end }}
+
   <footer>
-    <p>© {{ now.Year }} Osterbacka Photo</p>
+    <div class="footer-inner">
+      <div class="footer-instagram">
+        <a href="https://www.instagram.com/osterbackaphoto/" target="_blank" rel="noopener">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg>
+          @osterbackaphoto
+        </a>
+      </div>
+      <p class="footer-bildtext">Bilderna är fria att användas på sociala medier om du taggar @osterbackaphoto på Instagram.</p>
+      <nav class="footer-nav">
+        <a href="/">Startsidan</a>
+        <a href="/kontakt">Kontakt</a>
+      </nav>
+      <p class="footer-copy">© {{ now.Year }} Osterbacka Photo</p>
+    </div>
   </footer>
 </body>
 </html>

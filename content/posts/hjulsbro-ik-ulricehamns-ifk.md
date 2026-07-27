@@ -7,8 +7,6 @@ sport: "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Hjulsbro IK"
 away_team: "Ulricehamns IFK"
-home_score: 2025
-away_score: 6
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/06/e7407192-1.jpg"
 excerpt: "Linköping, 2025-06-08. 3 poäng borta mot Hjulsbro IK för Ulricehamns. Målskyttar Lina Lindgren och Elina Österbacka.…"
 images:

@@ -6,8 +6,6 @@ post_type: "match"
 sport: "basket"
 home_team: "Borås Basket"
 away_team: "Högsbo Basket"
-home_score: 53
-away_score: 66
 venue: "Kyllaredshallen 20241222. Tyvärr förlust för Borås basket. Matchen sluta, de"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2024/12/e7408808-enhanced-nr.jpg"
 excerpt: "Kyllaredshallen 20241222. Tyvärr förlust för Borås basket. Matchen slutade 53-66.…"

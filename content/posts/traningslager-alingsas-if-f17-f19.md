@@ -4,8 +4,6 @@ date: 2023-08-03T22:34:06
 slug: "traningslager-alingsas-if-f17-f19"
 post_type: "match"
 club: "Alingsås IF"
-home_score: 2023
-away_score: 7
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/08/e7400089.jpg"
 excerpt: "Några bilder från träningslägret för Alingsås IF F17 och F19 , Kungshamn (2023-07-31 - 2027-08-03)…"
 images:

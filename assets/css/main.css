@@ -418,17 +418,81 @@ a { color: inherit; text-decoration: none; }
 .lightbox-prev { left: 12px; }
 .lightbox-next { right: 12px; }
 
-/* ── FOOTER ── */
-footer {
-  text-align: center;
-  padding: 30px 20px 50px;
+/* ── FILTER BAR ── */
+.filter-bar {
+  max-width: 720px;
+  margin: 32px auto 0;
+  padding: 0 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.filter-btn {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 11px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: var(--pitch);
-  filter: brightness(1.6);
+  padding: 7px 16px;
+  background: transparent;
+  border: 1px solid var(--pitch);
+  border-radius: 3px;
+  color: var(--chalk);
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s, background 0.2s;
+}
+.filter-btn:hover { border-color: var(--amber); color: var(--amber); }
+.filter-btn.active { background: var(--amber); border-color: var(--amber); color: var(--bg); }
+
+/* ── FOOTER ── */
+footer {
+  margin-top: 60px;
   border-top: 1px solid var(--surface);
+  padding: 40px 20px 50px;
+}
+.footer-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  text-align: center;
+}
+.footer-instagram a {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  color: var(--amber);
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  transition: opacity 0.2s;
+}
+.footer-instagram a:hover { opacity: 0.75; }
+.footer-bildtext {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 13px;
+  color: var(--chalk);
+  max-width: 46ch;
+  line-height: 1.5;
+}
+.footer-nav {
+  display: flex;
+  gap: 20px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.footer-nav a { color: var(--pitch); filter: brightness(1.7); transition: color 0.2s; }
+.footer-nav a:hover { color: var(--amber); filter: none; }
+.footer-copy {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--pitch);
+  filter: brightness(1.4);
 }
 
 /* ── RESPONSIVE ── */

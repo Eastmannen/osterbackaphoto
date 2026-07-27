@@ -6,8 +6,6 @@ post_type: "match"
 club: "Alingsås IF"
 home_team: "IFK Örby (F17)"
 away_team: "Alingsås IF (F17)"
-home_score: 2023
-away_score: 6
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/06/e7400094-1.jpg"
 excerpt: "Örby IP, 2023-06-07, 3-1.…"
 images:

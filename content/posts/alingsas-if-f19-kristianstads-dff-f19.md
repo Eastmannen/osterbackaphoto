@@ -7,8 +7,6 @@ sport: "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF F19"
 away_team: "Kristianstads DFF F19"
-home_score: 2024
-away_score: 6
 venue: "Alströmervallen, Alingsås"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2024/06/e7406622.jpg"
 excerpt: "Alströmervallen, Alingsås, 2024-06-24.…"

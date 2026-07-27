@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="post-hero">
+  <div class="post-hero-inner">
+    <a href="/" class="post-back">← Startsidan</a>
+    <h1 class="post-title">{{ .Title }}</h1>
+  </div>
+</div>
+<div class="post-body">
+  {{ .Content }}
+</div>
+{{ end }}

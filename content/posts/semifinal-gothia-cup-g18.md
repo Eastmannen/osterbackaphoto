@@ -4,8 +4,6 @@ date: 2023-07-22T00:17:31
 slug: "semifinal-gothia-cup-g18"
 post_type: "match"
 club: "Alingsås IF"
-home_score: 2023
-away_score: 7
 venue: "lagen möttes blev det 1-1 hemma på Mjörnvallen. Men idag var tyvärr Jitex lite vassare och piggare än Alingsås IF F19. Mitt stalltips är att Jitex även vinner final, en"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/07/e7409311.jpg"
 excerpt: "Överåsvallen, 2023-07-23. I semifinalen ställdes Alingsås IF F19 mot Jitex F19 som under våren spelade i samma serie, F19 Allsvenskan Södra. Senast lagen möttes blev det 1-1 hemma på Mjörnvallen. Me…"

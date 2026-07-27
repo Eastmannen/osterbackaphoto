@@ -7,8 +7,6 @@ sport: "fotboll"
 club: "Alingsås IF"
 home_team: "Eskilstuna United F19"
 away_team: "Alingsås IF F19"
-home_score: 2023
-away_score: 9
 venue: "Tunavallen, Eskilstuna"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/09/e7405647.jpg"
 excerpt: "Tunavallen, Eskilstuna, 2023-09-03. 1-1.…"

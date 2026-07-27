@@ -6,8 +6,6 @@ post_type: "match"
 sport: "fotboll"
 home_team: "Västra Together FC"
 away_team: "Red Lions UK"
-home_score: 2025
-away_score: 2
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/02/e7404856.jpg"
 excerpt: "2025-02-20, Betty Wilson Soccer Complex, Las Vegas. Träningsmatch mellan Västra Together och Red Lions som slutade med seger för Västra Together.…"
 images:

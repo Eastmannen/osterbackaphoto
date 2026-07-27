@@ -7,8 +7,6 @@ sport: "innebandy"
 club: "Fristad GoIF"
 home_team: "Fristad GoIF"
 away_team: "FBC Lerum"
-home_score: 2023
-away_score: 8
 venue: "Fristadhallen 2023-08-13, träningsmatch"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/08/e7403546-enhanced-nr.jpg"
 excerpt: "Fristadhallen 2023-08-13, träningsmatch mellan Fristad GoIF - FBC Lerum.…"

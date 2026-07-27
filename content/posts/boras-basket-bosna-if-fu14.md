@@ -6,8 +6,6 @@ post_type: "match"
 sport: "basket"
 home_team: "Borås Basket"
 away_team: "Bosna IF (FU14)"
-home_score: 2023
-away_score: 12
 venue: "Kyllaredshallen, Borås"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/12/e7407033.jpg"
 excerpt: "Kyllaredshallen, Borås, 2023-12-16.…"

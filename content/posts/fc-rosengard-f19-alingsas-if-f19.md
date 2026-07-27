@@ -6,8 +6,6 @@ post_type: "match"
 club: "Alingsås IF"
 home_team: "FC Rosengård (F19)"
 away_team: "Alingsås IF (F19)"
-home_score: 2023
-away_score: 5
 venue: "Malmö IP. Alingsås inleder matchen väldigt lamt och redan efter 21 minuter står det 3-0 till FC Rosengård. Under inledningen av andra halvlek kommer Alingsås tillbaka och pressar Rosengård. 3-1 i 61:e minuten och med lite stolpe in hade Alingsås känn på både 3-2 och 3-3. Men sen rinner tyvärr siffrorna iväg. FC Rosengård var det bättre laget, men"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/05/e7407896.jpg"
 excerpt: "2023-05-21, Malmö IP. Alingsås inleder matchen väldigt lamt och redan efter 21 minuter står det 3-0 till FC Rosengård. Under inledningen av andra halvlek kommer Alingsås tillbaka och pressar Rosengård…"

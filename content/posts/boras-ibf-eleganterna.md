@@ -6,8 +6,6 @@ post_type: "match"
 sport: "fotboll"
 home_team: "Borås IBF"
 away_team: "Eleganterna"
-home_score: 2024
-away_score: 2
 venue: "Daltorpshallen, Borås"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2024/02/e7404030-2.jpg"
 excerpt: "Daltorpshallen, Borås, 2024-02-24. En het, och emellanåt hetsig, match mellan Borås IBF och Eleganterna.…"

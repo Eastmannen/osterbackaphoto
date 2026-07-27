@@ -7,8 +7,6 @@ sport: "innebandy"
 club: "Fristad GoIF"
 home_team: "Fristad GoIF"
 away_team: "Skoghalls IBK"
-home_score: 2023
-away_score: 10
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/10/e7404646.jpg"
 excerpt: "Damer Allsvenskan Södra, Fristadhallen, 2023-10-15. En jämn match som slutar med seger för bortlaget Skoghalls IBK. 5-6.…"
 images:

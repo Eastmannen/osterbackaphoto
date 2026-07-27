@@ -7,8 +7,6 @@ sport: "futsal"
 club: "Borås AIK"
 home_team: "FC Rosengård"
 away_team: "BAIK Futsal"
-home_score: 2025
-away_score: 1
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/01/e7402155.jpg"
 excerpt: "Stadions Sporthall, Malmö 2025-01-18. Seger för BAIK Futsal 7-3.…"
 images:

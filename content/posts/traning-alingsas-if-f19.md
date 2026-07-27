@@ -4,8 +4,6 @@ date: 2023-01-13T22:23:24
 slug: "traning-alingsas-if-f19"
 post_type: "match"
 club: "Alingsås IF"
-home_score: 2023
-away_score: 1
 venue: "Träning på Alströmersvallen, Alingsås"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/01/e7404804-1.jpg"
 excerpt: "Träning på Alströmersvallen, Alingsås 2023-01-11.…"

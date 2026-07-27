@@ -7,8 +7,6 @@ sport: "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås FC"
 away_team: "FC Djursholm"
-home_score: 2022
-away_score: 12
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2022/12/e7400754-1.jpg"
 excerpt: "Träningsmatch 2022-12-03, Prioritet Serneke Arena.…"
 images:

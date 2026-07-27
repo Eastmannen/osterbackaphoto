@@ -7,8 +7,6 @@ sport: "futsal"
 club: "Borås AIK"
 home_team: "BAIK Futsal"
 away_team: "Skoftebyns IF"
-home_score: 2024
-away_score: 12
 venue: "Boråshallen 2024-12-29, BAIK"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2024/12/e7400840-2.jpg"
 excerpt: "Boråshallen 2024-12-29, BAIK Futsal - Skoftebyns IF. En jämn match som 2-2.…"
