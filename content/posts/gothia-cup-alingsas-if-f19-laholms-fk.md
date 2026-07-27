@@ -3,6 +3,7 @@ title: "Gothia Cup, Alingsås IF (F19) - Laholms FK"
 date: 2023-07-21T00:25:01
 slug: "gothia-cup-alingsas-if-f19-laholms-fk"
 post_type: "match"
+sport: "fotboll"
 club: "Alingsås IF"
 home_team: "Gothia Cup, Alingsås IF (F19)"
 away_team: "Laholms FK"

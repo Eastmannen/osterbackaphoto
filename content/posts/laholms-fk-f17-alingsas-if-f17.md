@@ -3,6 +3,7 @@ title: "Laholms FK (F17) - Alingsås IF (F17)"
 date: 2023-10-01T21:53:54
 slug: "laholms-fk-f17-alingsas-if-f17"
 post_type: "match"
+sport: "fotboll"
 club: "Alingsås IF"
 home_team: "Laholms FK (F17)"
 away_team: "Alingsås IF (F17)"

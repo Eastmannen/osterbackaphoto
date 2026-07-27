@@ -3,6 +3,7 @@ title: "Seriepremiär"
 date: 2026-04-03T22:11:15
 slug: "seriepremiar"
 post_type: "match"
+sport: "fotboll"
 club: "Ulricehamns IFK"
 series: "Smedbyn Ais I Div 1 Me"
 home_score: 2

@@ -3,6 +3,7 @@ title: "Vinst efter förlängning"
 date: 2025-11-02T14:18:49
 slug: "vinst-efter-forlangning"
 post_type: "match"
+sport: "fotboll"
 club: "Fristad GoIF"
 home_score: 3
 away_score: 2

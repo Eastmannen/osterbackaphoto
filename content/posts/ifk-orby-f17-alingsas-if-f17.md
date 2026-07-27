@@ -3,6 +3,7 @@ title: "IFK Örby (F17) - Alingsås IF (F17)"
 date: 2023-06-08T23:04:19
 slug: "ifk-orby-f17-alingsas-if-f17"
 post_type: "match"
+sport: "fotboll"
 club: "Alingsås IF"
 home_team: "IFK Örby (F17)"
 away_team: "Alingsås IF (F17)"

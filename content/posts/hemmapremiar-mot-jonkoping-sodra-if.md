@@ -3,6 +3,7 @@ title: "Hemmapremiär mot Jönköping Södra IF"
 date: 2025-04-20T15:01:52
 slug: "hemmapremiar-mot-jonkoping-sodra-if"
 post_type: "match"
+sport: "fotboll"
 club: "Ulricehamns IFK"
 home_score: 2
 away_score: 0

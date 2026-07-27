@@ -3,6 +3,7 @@ title: "Träningsmatch inför Gothia"
 date: 2024-07-14T20:55:56
 slug: "traningsmatch-infor-gothia"
 post_type: "match"
+sport: "fotboll"
 club: "Alingsås IF"
 home_score: 7
 away_score: 0

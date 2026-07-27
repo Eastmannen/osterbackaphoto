@@ -3,6 +3,7 @@ title: "3 poäng hemma mot Mallbackens IF Sunne F19"
 date: 2024-09-21T21:16:40
 slug: "3-poang-hemma-mot-mallbackens-if-sunne-f19"
 post_type: "match"
+sport: "fotboll"
 club: "Alingsås IF"
 home_score: 9
 away_score: 1

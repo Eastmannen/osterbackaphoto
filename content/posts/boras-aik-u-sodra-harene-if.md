@@ -3,6 +3,7 @@ title: "Borås AIK (U) - Södra Härene IF"
 date: 2023-01-07T23:03:37
 slug: "boras-aik-u-sodra-harene-if"
 post_type: "match"
+sport: "fotboll"
 club: "Borås AIK"
 home_team: "Borås AIK (U)"
 away_team: "Södra Härene IF"

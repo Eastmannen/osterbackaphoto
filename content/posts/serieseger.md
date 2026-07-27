@@ -3,6 +3,7 @@ title: "Serieseger"
 date: 2025-09-20T17:20:57
 slug: "serieseger"
 post_type: "match"
+sport: "fotboll"
 club: "Ulricehamns IFK"
 series: "Div 1 Med 2 Omgångar Kvar Av Serien"
 home_score: 4

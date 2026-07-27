@@ -3,6 +3,7 @@ title: "Seriepremiär för UIFK"
 date: 2025-04-12T17:03:40
 slug: "seriepremiar-for-uifk"
 post_type: "match"
+sport: "fotboll"
 club: "Ulricehamns IFK"
 home_score: 3
 away_score: 2

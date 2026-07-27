@@ -3,6 +3,7 @@ title: "Växjö DFF (F19) - Alingsås IF (F19)"
 date: 2024-04-28T19:55:05
 slug: "vaxjo-dff-f19-alingsas-if-f19-2"
 post_type: "match"
+sport: "fotboll"
 club: "Alingsås IF"
 home_team: "Växjö DFF (F19)"
 away_team: "Alingsås IF (F19)"

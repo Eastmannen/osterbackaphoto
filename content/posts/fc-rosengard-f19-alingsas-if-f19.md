@@ -3,6 +3,7 @@ title: "FC Rosengård (F19) - Alingsås IF (F19)"
 date: 2023-05-21T23:43:38
 slug: "fc-rosengard-f19-alingsas-if-f19"
 post_type: "match"
+sport: "fotboll"
 club: "Alingsås IF"
 home_team: "FC Rosengård (F19)"
 away_team: "Alingsås IF (F19)"

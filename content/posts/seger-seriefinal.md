@@ -3,6 +3,7 @@ title: "Seger seriefinal"
 date: 2025-09-13T20:33:10
 slug: "seger-seriefinal"
 post_type: "match"
+sport: "fotboll"
 club: "Ulricehamns IFK"
 home_score: 2
 away_score: 1

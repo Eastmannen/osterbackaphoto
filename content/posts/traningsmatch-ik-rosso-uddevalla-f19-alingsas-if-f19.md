@@ -3,6 +3,7 @@ title: "Träningsmatch IK Rössö Uddevalla (F19) - Alingsås IF (F19)"
 date: 2023-02-06T08:40:47
 slug: "traningsmatch-ik-rosso-uddevalla-f19-alingsas-if-f19"
 post_type: "match"
+sport: "fotboll"
 club: "Alingsås IF"
 home_team: "IK Rössö Uddevalla (F19)"
 away_team: "Alingsås IF (F19)"

@@ -3,6 +3,7 @@ title: "Gothia Cup, Alingsås IF (F17) - Maverics SC"
 date: 2023-07-20T08:33:08
 slug: "gothia-cup-alingsas-if-f17-maverics-sc"
 post_type: "match"
+sport: "fotboll"
 club: "Alingsås IF"
 home_team: "Gothia Cup, Alingsås IF (F17)"
 away_team: "Maverics SC"

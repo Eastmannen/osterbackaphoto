@@ -3,6 +3,7 @@ title: "Oavgjort mot Degerfors"
 date: 2026-04-11T17:37:46
 slug: "oavgjort-mot-degerfors"
 post_type: "match"
+sport: "fotboll"
 club: "Ulricehamns IFK"
 series: "Division 1 Mellersta.</P>"
 home_score: 1

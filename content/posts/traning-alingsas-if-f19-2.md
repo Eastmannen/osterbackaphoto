@@ -3,6 +3,7 @@ title: "Träning Alingsås IF F19"
 date: 2024-02-24T00:19:33
 slug: "traning-alingsas-if-f19-2"
 post_type: "match"
+sport: "fotboll"
 club: "Alingsås IF"
 venue: "Noltorpsvallen. Träning för Alingsås, IF"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2024/02/e7403507-1.jpg"

@@ -3,6 +3,7 @@ title: "Alingsås IF (F17) - IFK Värnamo (F17)"
 date: 2023-05-01T19:51:46
 slug: "alingsas-if-f17-ifk-varnamo-f17"
 post_type: "match"
+sport: "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF (F17)"
 away_team: "IFK Värnamo (F17)"

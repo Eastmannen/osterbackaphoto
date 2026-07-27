@@ -3,6 +3,7 @@ title: "Fristad GoIF (P13) - Rydboholm (P12)"
 date: 2023-11-20T19:44:10
 slug: "fristad-goif-p13-rydboholm-p12"
 post_type: "match"
+sport: "fotboll"
 club: "Fristad GoIF"
 home_team: "Fristad GoIF (P13)"
 away_team: "Rydboholm (P12)"

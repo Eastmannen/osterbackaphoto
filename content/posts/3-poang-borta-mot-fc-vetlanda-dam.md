@@ -3,6 +3,7 @@ title: "3 poäng borta mot FC Vetlanda Dam"
 date: 2025-05-10T16:13:57
 slug: "3-poang-borta-mot-fc-vetlanda-dam"
 post_type: "match"
+sport: "fotboll"
 club: "Ulricehamns IFK"
 home_score: 7
 away_score: 1

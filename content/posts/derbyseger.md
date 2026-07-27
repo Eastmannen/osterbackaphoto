@@ -3,6 +3,7 @@ title: "Derbyseger"
 date: 2025-11-08T00:53:12
 slug: "derbyseger"
 post_type: "match"
+sport: "fotboll"
 club: "Fristad GoIF"
 home_score: 7
 away_score: 3

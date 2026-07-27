@@ -3,6 +3,7 @@ title: "Kvartsfinal Gothia Cup G18"
 date: 2024-07-19T22:31:02
 slug: "kvartsfinal-gothia-cup-g18"
 post_type: "match"
+sport: "fotboll"
 club: "Alingsås IF"
 home_score: 6
 away_score: 0
