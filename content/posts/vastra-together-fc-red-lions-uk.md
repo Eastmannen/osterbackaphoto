@@ -1,0 +1,48 @@
+---
+title: "Västra Together FC - Red Lions UK"
+date: 2025-02-21T07:43:36
+slug: "vastra-together-fc-red-lions-uk"
+post_type: "match"
+sport: "fotboll"
+home_team: "Västra Together FC"
+away_team: "Red Lions UK"
+home_score: 2025
+away_score: 2
+featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/02/e7404856.jpg"
+excerpt: "2025-02-20, Betty Wilson Soccer Complex, Las Vegas. Träningsmatch mellan Västra Together och Red Lions som slutade med seger för Västra Together.…"
+images:
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404675.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404720.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404731.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404737-enhanced-nr.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404751.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404764.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404776-enhanced-nr.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404784-enhanced-nr.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404804.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404810-enhanced-nr.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404823-enhanced-nr.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404835.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404853.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404856.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404861.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404880.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404896.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404906.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404921.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404944.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404953.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404964-enhanced-nr.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404976.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404982.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404988-enhanced-nr.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7404993.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7405004-enhanced-nr.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7405007-enhanced-nr.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7405034.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7405085.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7405122.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/02/e7405125.jpg"
+---
+
+2025-02-20, Betty Wilson Soccer Complex, Las Vegas. Träningsmatch mellan Västra Together och Red Lions som slutade med seger för Västra Together.

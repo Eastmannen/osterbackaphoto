@@ -1,0 +1,38 @@
+---
+title: "3x3 Basket"
+date: 2025-08-10T19:46:54
+slug: "3x3-basket"
+post_type: "other"
+featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/08/e7409626-1.jpg"
+excerpt: "Nocco Sweden 3x3 Tour – Stop #5 i Borås Idag spelade Jolines lag 3x3 på Borås Torg – och Osterbackaphoto var givetvis på plats med kameran 📸 I första matchen mötte de Skokloster. Skokloster gick hela …"
+images:
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409626.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409629.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409635.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409637.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409643.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409650.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409653.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409677.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409689.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409717.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409729.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409742.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409762.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409776.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409778.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409781.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409787.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409792.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409824.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409826.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409835.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409842.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409851.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409852.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409858.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409864.jpg"
+  - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2025/08/e7409867.jpg"
+---
+
+Nocco Sweden 3x3 Tour – Stop #5 i Borås Idag spelade Jolines lag 3x3 på Borås Torg – och Osterbackaphoto var givetvis på plats med kameran 📸 I första matchen mötte de Skokloster. Skokloster gick hela vägen till final – och vann hela turneringen för F16 🏆 Jolines lag – Lianna, Ariella och Zanneta – kämpade starkt och bjöd på härlig basketglädje mitt på torget i Borås 🏀💪

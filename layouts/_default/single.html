@@ -1,0 +1,80 @@
+{{ define "main" }}
+<div class="post-hero">
+  <div class="post-hero-inner">
+    <a href="/" class="post-back">← Alla poster</a>
+    <div class="post-meta">
+      {{ .Date.Format "2 January 2006" }}
+      {{ with .Params.sport }} · {{ . }}{{ end }}
+      {{ with .Params.club }} · {{ . }}{{ end }}
+      {{ with .Params.series }} · {{ . }}{{ end }}
+    </div>
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{ if eq .Params.post_type "match" }}
+      {{ if and (ne .Params.home_score nil) (ne .Params.away_score nil) }}
+        <div class="post-score">{{ .Params.home_score }}<span>–</span>{{ .Params.away_score }}</div>
+      {{ end }}
+    {{ end }}
+    {{ with .Params.venue }}
+      <div class="post-venue">📍 {{ . }}</div>
+    {{ end }}
+  </div>
+</div>
+
+{{ with .Params.body }}
+<div class="post-body">
+  {{ . | markdownify }}
+</div>
+{{ end }}
+
+{{ if .Params.images }}
+<div class="gallery">
+  {{ range $i, $img := .Params.images }}
+    <div class="gallery-item" data-index="{{ $i }}">
+      <img src="{{ $img }}" alt="{{ $.Title }}" loading="lazy">
+    </div>
+  {{ end }}
+</div>
+
+<div class="lightbox" id="lightbox">
+  <button class="lightbox-close" onclick="closeLightbox()">✕ Stäng</button>
+  <button class="lightbox-prev" onclick="moveLightbox(-1)">← Föregående</button>
+  <img id="lightbox-img" src="" alt="">
+  <button class="lightbox-next" onclick="moveLightbox(1)">Nästa →</button>
+</div>
+
+<script>
+  const images = {{ .Params.images | jsonify }};
+  let current = 0;
+  const lb = document.getElementById('lightbox');
+  const lbImg = document.getElementById('lightbox-img');
+
+  document.querySelectorAll('.gallery-item').forEach(el => {
+    el.addEventListener('click', () => {
+      current = parseInt(el.dataset.index);
+      openLightbox();
+    });
+  });
+
+  function openLightbox() {
+    lbImg.src = images[current];
+    lb.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  }
+  function closeLightbox() {
+    lb.classList.remove('active');
+    document.body.style.overflow = '';
+  }
+  function moveLightbox(dir) {
+    current = (current + dir + images.length) % images.length;
+    lbImg.src = images[current];
+  }
+  lb.addEventListener('click', e => { if (e.target === lb) closeLightbox(); });
+  document.addEventListener('keydown', e => {
+    if (!lb.classList.contains('active')) return;
+    if (e.key === 'Escape') closeLightbox();
+    if (e.key === 'ArrowLeft') moveLightbox(-1);
+    if (e.key === 'ArrowRight') moveLightbox(1);
+  });
+</script>
+{{ end }}
+{{ end }}

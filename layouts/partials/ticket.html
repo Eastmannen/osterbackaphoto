@@ -1,0 +1,29 @@
+<a href="{{ .RelPermalink }}" class="ticket">
+  {{ if .Params.featured_image }}
+    <div class="ticket-photo" style="background-image:url('{{ .Params.featured_image }}');"></div>
+  {{ else }}
+    <div class="ticket-photo ticket-photo-empty"><span>Inga bilder</span></div>
+  {{ end }}
+  <div class="ticket-stub">
+    <div class="ticket-meta">
+      {{ .Date.Format "2 January 2006" }}
+      {{ with .Params.sport }} · {{ . }}{{ end }}
+      {{ with .Params.series }} · {{ . }}{{ end }}
+    </div>
+    <h2>{{ .Title }}</h2>
+    {{ if eq .Params.post_type "match" }}
+      {{ if and (ne .Params.home_score nil) (ne .Params.away_score nil) }}
+        <div class="score">{{ .Params.home_score }}<span>–</span>{{ .Params.away_score }}</div>
+      {{ end }}
+    {{ end }}
+    {{ with .Params.tag }}
+      <div class="tag">{{ . }}</div>
+    {{ end }}
+    {{ with .Params.excerpt }}
+      <div class="excerpt">{{ . }}</div>
+    {{ end }}
+    {{ with .Params.venue }}
+      <div class="venue">{{ . }}</div>
+    {{ end }}
+  </div>
+</a>

@@ -1,0 +1,143 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+locale: sv
+
+collections:
+  - name: "posts"
+    label: "Bildposter"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: title
+    fields:
+      - label: "Rubrik"
+        name: "title"
+        widget: "string"
+
+      - label: "Datum"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DDTHH:mm:ss"
+        date_format: "YYYY-MM-DD"
+        time_format: "HH:mm"
+
+      - label: "Typ av post"
+        name: "post_type"
+        widget: "select"
+        options:
+          - { label: "Match / sport", value: "match" }
+          - { label: "Övrigt", value: "other" }
+        default: "match"
+
+      - label: "Sport"
+        name: "sport"
+        widget: "select"
+        required: false
+        options:
+          - { label: "Fotboll", value: "fotboll" }
+          - { label: "Futsal", value: "futsal" }
+          - { label: "Innebandy", value: "innebandy" }
+          - { label: "Basket", value: "basket" }
+          - { label: "Tennis", value: "tennis" }
+          - { label: "Annat", value: "annat" }
+        condition:
+          field: post_type
+          value: match
+
+      - label: "Klubb"
+        name: "club"
+        widget: "select"
+        required: false
+        options:
+          - { label: "Ulricehamns IFK", value: "Ulricehamns IFK" }
+          - { label: "Alingsås IF", value: "Alingsås IF" }
+          - { label: "Borås AIK", value: "Borås AIK" }
+          - { label: "Fristad GoIF", value: "Fristad GoIF" }
+          - { label: "IBK Alingsås", value: "IBK Alingsås" }
+          - { label: "Annan", value: "annan" }
+
+      - label: "Serie / tävling"
+        name: "series"
+        widget: "string"
+        required: false
+        hint: "T.ex. 'Div 1 Mellersta', 'SM-final', 'Gothia Cup'"
+        condition:
+          field: post_type
+          value: match
+
+      - label: "Hemmalag"
+        name: "home_team"
+        widget: "string"
+        required: false
+        condition:
+          field: post_type
+          value: match
+
+      - label: "Bortalag"
+        name: "away_team"
+        widget: "string"
+        required: false
+        condition:
+          field: post_type
+          value: match
+
+      - label: "Hemmamål"
+        name: "home_score"
+        widget: "number"
+        required: false
+        value_type: int
+        condition:
+          field: post_type
+          value: match
+
+      - label: "Bortamål"
+        name: "away_score"
+        widget: "number"
+        required: false
+        value_type: int
+        condition:
+          field: post_type
+          value: match
+
+      - label: "Plats / arena"
+        name: "venue"
+        widget: "string"
+        required: false
+        hint: "T.ex. 'Stenbocksvallen, Ulricehamn'"
+
+      - label: "Omslagsbild (URL)"
+        name: "featured_image"
+        widget: "string"
+        required: false
+        hint: "URL till bilden som visas på kortkortet"
+
+      - label: "Kort beskrivning"
+        name: "excerpt"
+        widget: "text"
+        required: false
+        hint: "Visas på kortet på startsidan (max ~200 tecken)"
+
+      - label: "Bildgalleri (URLer)"
+        name: "images"
+        widget: "list"
+        required: false
+        field:
+          label: "Bild-URL"
+          name: "url"
+          widget: "string"
+
+      - label: "Etikett / tag"
+        name: "tag"
+        widget: "string"
+        required: false
+        hint: "T.ex. '31 matcher obesegrad' – visas som gulmarkerat märke på kortet"
+
+      - label: "Brödtext"
+        name: "body"
+        widget: "markdown"
+        required: false
