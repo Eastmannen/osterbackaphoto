@@ -2,7 +2,7 @@
 title: "Kontakt"
 date: 2024-01-01
 type: "page"
-avatar: "https://i.imgur.com/placeholder.jpg"
+avatar: "/uploads/esko-avatar.jpg"
 ---
 
 Jag heter Esko Österbacka och fotar matcher och annat jag tycker är kul att fånga med kameran – mest fotboll, futsal och innebandy i Västsverige.
