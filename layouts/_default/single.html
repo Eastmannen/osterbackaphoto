@@ -20,9 +20,9 @@
   </div>
 </div>
 
-{{ with .Params.body }}
+{{ with .Content }}
 <div class="post-body">
-  {{ . | markdownify }}
+  {{ . }}
 </div>
 {{ end }}
 

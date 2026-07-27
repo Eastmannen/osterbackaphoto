@@ -110,11 +110,11 @@ collections:
         required: false
         hint: "T.ex. 'Stenbocksvallen, Ulricehamn'"
 
-      - label: "Omslagsbild (URL)"
+      - label: "Omslagsbild"
         name: "featured_image"
-        widget: "string"
+        widget: "image"
         required: false
-        hint: "URL till bilden som visas på kortkortet"
+        hint: "Bilden som visas på kortet på startsidan"
 
       - label: "Kort beskrivning"
         name: "excerpt"
