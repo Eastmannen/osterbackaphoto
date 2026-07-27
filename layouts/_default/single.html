@@ -43,7 +43,7 @@
 </div>
 
 <script>
-  const images = {{ .Params.images | jsonify }};
+  const images = {{ .Params.images | jsonify | safeJS }};
   let current = 0;
   const lb = document.getElementById('lightbox');
   const lbImg = document.getElementById('lightbox-img');
