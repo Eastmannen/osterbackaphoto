@@ -182,6 +182,15 @@ a.eyebrow:hover { opacity: 0.8; }
   padding: 8px;
 }
 
+.ticket-nr {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--pitch);
+  filter: brightness(1.8);
+}
+
 .ticket-meta {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 11px;

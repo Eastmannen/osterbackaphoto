@@ -5,6 +5,12 @@
     <div class="ticket-photo ticket-photo-empty"><span>Inga bilder</span></div>
   {{ end }}
   <div class="ticket-stub">
+    {{ $nr := 0 }}
+    {{ $allPosts := where .Site.RegularPages "Section" "posts" }}
+    {{ range $i, $p := $allPosts.ByDate }}
+      {{ if $p.Eq $ }}{{ $nr = add $i 1 }}{{ end }}
+    {{ end }}
+    <div class="ticket-nr">Nr. {{ printf "%03d" $nr }}</div>
     <div class="ticket-meta">
       {{ .Date.Format "2 January 2006" }}
       {{ with .Params.sport }} · {{ . }}{{ end }}
