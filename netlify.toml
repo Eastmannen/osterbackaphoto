@@ -6,6 +6,6 @@
   HUGO_VERSION = "0.147.0"
 
 [[redirects]]
-  from = "/admin"
-  to = "/admin/index.html"
+  from = "/cms"
+  to = "/cms/index.html"
   status = 200
