@@ -3,7 +3,8 @@ title: "Alingsås IF (F19) - Jitex BK (F19)"
 date: 2023-04-23T23:10:17
 slug: "alingsas-if-f19-jitex-bk-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF (F19)"
 away_team: "Jitex BK (F19)"

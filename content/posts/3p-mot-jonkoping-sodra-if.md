@@ -3,7 +3,8 @@ title: "3p mot Jönköping Södra IF"
 date: 2025-06-28T21:12:16
 slug: "3p-mot-jonkoping-sodra-if"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_score: 3
 away_score: 1

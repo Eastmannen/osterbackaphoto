@@ -3,7 +3,8 @@ title: "Borås AIK - Svärtinge SK"
 date: 2023-01-29T18:06:00
 slug: "boras-aik-svartinge-sk"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "Borås AIK"
 away_team: "Svärtinge SK"

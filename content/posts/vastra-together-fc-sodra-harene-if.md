@@ -3,7 +3,8 @@ title: "Västra Together FC - Södra Härene IF"
 date: 2024-12-01T19:06:09
 slug: "vastra-together-fc-sodra-harene-if"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "futsal"
 home_team: "Västra Together FC"
 away_team: "Södra Härene IF"
 home_score: 0

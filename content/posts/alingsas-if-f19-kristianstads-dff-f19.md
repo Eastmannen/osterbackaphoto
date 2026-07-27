@@ -3,7 +3,8 @@ title: "Alingsås IF F19 - Kristianstads DFF F19"
 date: 2024-06-27T23:10:41
 slug: "alingsas-if-f19-kristianstads-dff-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF F19"
 away_team: "Kristianstads DFF F19"

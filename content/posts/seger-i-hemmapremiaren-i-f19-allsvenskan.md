@@ -3,7 +3,8 @@ title: "Seger i hemmapremiären i F19 Allsvenskan"
 date: 2024-04-21T21:26:16
 slug: "seger-i-hemmapremiaren-i-f19-allsvenskan"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_score: 2
 away_score: 0

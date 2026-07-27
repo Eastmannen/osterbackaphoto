@@ -3,7 +3,8 @@ title: "BAIK Futsal U- Västra Together FC"
 date: 2024-11-16T16:40:58
 slug: "baik-futsal-u-vastra-together-fc"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "BAIK Futsal U"
 away_team: "Västra Together FC"

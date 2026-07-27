@@ -3,7 +3,8 @@ title: "Gothia Cup, kvartsfinal Näsets SK - Alingsås IF"
 date: 2023-07-21T23:00:37
 slug: "gothia-cup-kvartsfinal-nasets-sk-alingsas-if"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Gothia Cup, kvartsfinal Näsets SK"
 away_team: "Alingsås IF"

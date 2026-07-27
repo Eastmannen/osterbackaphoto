@@ -3,7 +3,8 @@ title: "Mariebo IK (F17) - Alingsås IF (F17)"
 date: 2023-07-02T22:46:06
 slug: "mariebo-ik-f17-alingsas-if-f17"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Mariebo IK (F17)"
 away_team: "Alingsås IF (F17)"

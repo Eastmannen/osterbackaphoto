@@ -3,6 +3,8 @@ title: "Allsvensk premiär för Fristad GoIF"
 date: 2023-09-24T18:06:26
 slug: "allsvensk-premiar-for-fristad-goif"
 post_type: "other"
+sports:
+  - "innebandy"
 club: "Fristad GoIF"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/09/fristadgoif20230924-41.jpg"
 excerpt: "Allsvensk premiär för Fristad GoIF hemma i Fristadhallen mot Olofströms IBK. En jämn match som tyvärr slutade med förlust med 9-10.…"

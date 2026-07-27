@@ -3,7 +3,8 @@ title: "Gothia Cup, Alingsås IF - Umedalens IF"
 date: 2023-07-18T22:32:30
 slug: "gothia-cup-alingsas-if-umedalens-if"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 series: "Smatchen I Gothia Cup."
 home_team: "Gothia Cup, Alingsås IF"

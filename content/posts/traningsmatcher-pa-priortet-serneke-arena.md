@@ -3,7 +3,8 @@ title: "Träningsmatcher på Priortet Serneke Arena"
 date: 2023-12-10T19:08:04
 slug: "traningsmatcher-pa-priortet-serneke-arena"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/12/e7404950-enhanced-nr.jpg"
 excerpt: "Under helgen har Alingsås IF F19 spelat fyra träningsmatcher. Laget har mött IFK Göteborg, Aalborg, Djurgårdens IF och Älvsjö AIK. Alingsås IF F19 vann mot de svenska lagen men förlorade mot danska Aa…"

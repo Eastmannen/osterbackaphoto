@@ -3,7 +3,8 @@ title: "Alingsås IF F19 - Umeå IK FF F19"
 date: 2024-09-01T20:23:45
 slug: "alingsas-if-f19-umea-ik-ff-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF F19"
 away_team: "Umeå IK FF F19"

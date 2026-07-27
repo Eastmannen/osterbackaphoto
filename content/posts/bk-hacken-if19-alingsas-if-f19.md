@@ -3,7 +3,8 @@ title: "BK Häcken F19 - Alingsås IF F19"
 date: 2024-06-11T22:12:31
 slug: "bk-hacken-if19-alingsas-if-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "BK Häcken F19"
 away_team: "Alingsås IF F19"

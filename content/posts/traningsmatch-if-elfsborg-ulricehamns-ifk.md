@@ -3,7 +3,8 @@ title: "Träningsmatch IF Elfsborg - Ulricehamns IFK"
 date: 2025-03-14T23:10:00
 slug: "traningsmatch-if-elfsborg-ulricehamns-ifk"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "IF Elfsborg"
 away_team: "Ulricehamns IFK"

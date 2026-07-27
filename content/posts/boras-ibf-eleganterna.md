@@ -3,7 +3,8 @@ title: "Borås IBF - Eleganterna"
 date: 2024-02-27T21:38:36
 slug: "boras-ibf-eleganterna"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "innebandy"
 home_team: "Borås IBF"
 away_team: "Eleganterna"
 venue: "Daltorpshallen, Borås"

@@ -3,7 +3,8 @@ title: "Derby i div III innebandy"
 date: 2023-11-26T20:57:31
 slug: "derby-i-div-iii-innebandy"
 post_type: "match"
-sport: "innebandy"
+sports:
+  - "innebandy"
 club: "Fristad GoIF"
 home_score: 6
 away_score: 5

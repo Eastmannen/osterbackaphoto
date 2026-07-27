@@ -3,7 +3,8 @@ title: "3P mot Svärtinge SK"
 date: 2025-04-26T18:29:40
 slug: "3p-mot-svartinge-sk"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_score: 1
 away_score: 0

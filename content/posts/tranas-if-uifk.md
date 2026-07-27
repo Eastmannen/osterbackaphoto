@@ -3,7 +3,8 @@ title: "Tranås IF - UIFK"
 date: 2025-08-30T15:57:34
 slug: "tranas-if-uifk"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 series: "Div 2 För Ulriehamns Ifk. </P>"
 home_team: "Tranås IF"

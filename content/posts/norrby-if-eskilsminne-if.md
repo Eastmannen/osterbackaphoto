@@ -3,7 +3,8 @@ title: "Norrby IF - Eskilsminne IF"
 date: 2025-06-15T21:22:16
 slug: "norrby-if-eskilsminne-if"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 series: "Superettan Södra"
 home_team: "Norrby IF"
 away_team: "Eskilsminne IF"

@@ -3,7 +3,8 @@ title: "Ulrichehamns IFK - IFK Värnamo"
 date: 2026-03-28T21:53:08
 slug: "ulrichehamns-ifk-ifk-varnamo"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Ulrichehamns IFK"
 away_team: "IFK Värnamo"

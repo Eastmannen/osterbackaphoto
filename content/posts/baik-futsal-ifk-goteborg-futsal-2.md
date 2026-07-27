@@ -3,7 +3,8 @@ title: "BAIK Futsal - IFK Göteborg Futsal"
 date: 2024-01-28T19:52:38
 slug: "baik-futsal-ifk-goteborg-futsal-2"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "BAIK Futsal"
 away_team: "IFK Göteborg Futsal"

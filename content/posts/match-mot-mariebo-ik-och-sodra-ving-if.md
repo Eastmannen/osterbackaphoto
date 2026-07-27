@@ -3,7 +3,8 @@ title: "Match mot Mariebo IK och Södra Ving IF"
 date: 2025-03-22T21:22:49
 slug: "match-mot-mariebo-ik-och-sodra-ving-if"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_score: 4
 away_score: 5

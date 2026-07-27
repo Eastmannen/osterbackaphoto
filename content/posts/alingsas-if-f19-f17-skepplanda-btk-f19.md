@@ -3,7 +3,8 @@ title: "Alingsås IF (F19/F17) - Skepplanda BTK (F19)"
 date: 2023-06-29T20:30:09
 slug: "alingsas-if-f19-f17-skepplanda-btk-f19"
 post_type: "match"
-sport: "tennis"
+sports:
+  - "tennis"
 club: "Alingsås IF"
 home_team: "Alingsås IF (F19/F17)"
 away_team: "Skepplanda BTK (F19)"

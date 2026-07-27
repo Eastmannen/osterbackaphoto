@@ -3,7 +3,8 @@ title: "FC Rosengård - BAIK Futsal"
 date: 2025-01-18T17:33:05
 slug: "fc-rosengard-baik-futsal"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "FC Rosengård"
 away_team: "BAIK Futsal"

@@ -3,7 +3,8 @@ title: "Ulricehamns IFK - FC Vetlanda"
 date: 2025-08-23T20:03:44
 slug: "ulricehamns-ifk-fc-vetlanda"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 series: "Div 2 Nö Götaland. </P>"
 home_team: "Ulricehamns IFK"

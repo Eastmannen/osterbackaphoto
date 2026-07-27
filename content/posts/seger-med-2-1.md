@@ -3,7 +3,8 @@ title: "Seger med 2-1"
 date: 2026-05-25T22:02:31
 slug: "seger-med-2-1"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 series: "Div 1 Mellersta. </P>"
 home_team: "Seger med 2"

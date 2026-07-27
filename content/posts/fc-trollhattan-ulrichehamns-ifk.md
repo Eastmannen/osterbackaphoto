@@ -3,7 +3,8 @@ title: "FC Trollhättan - Ulrichehamns IFK"
 date: 2026-02-21T16:56:37
 slug: "fc-trollhattan-ulrichehamns-ifk"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 home_team: "FC Trollhättan"
 away_team: "Ulrichehamns IFK"
 home_score: 2

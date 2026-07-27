@@ -3,7 +3,8 @@ title: "Kvartsfinal BAIK Futsal - Södertälje FC"
 date: 2024-03-03T22:05:24
 slug: "kvartsfinal-baik-futsal-sodertalje-fc"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "Kvartsfinal BAIK Futsal"
 away_team: "Södertälje FC"

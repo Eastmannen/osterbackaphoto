@@ -3,7 +3,8 @@ title: "Träningsmatch Fristad GoIF - FBC Lerum"
 date: 2023-08-13T20:56:08
 slug: "traningsmatch-fristad-goif-fbc-lerum"
 post_type: "match"
-sport: "innebandy"
+sports:
+  - "innebandy"
 club: "Fristad GoIF"
 home_team: "Fristad GoIF"
 away_team: "FBC Lerum"

@@ -3,7 +3,8 @@ title: "Alingsås IF - Lunds FF"
 date: 2024-07-17T16:56:53
 slug: "alingsas-if-lunds-if"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF"
 away_team: "Lunds FF"

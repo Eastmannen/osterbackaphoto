@@ -3,7 +3,8 @@ title: "Fristad GoIF - FBC Kalmarsund Ungdom"
 date: 2023-09-30T21:20:22
 slug: "fristad-goif-fbc-kalmarsund-ungdom"
 post_type: "match"
-sport: "innebandy"
+sports:
+  - "innebandy"
 club: "Fristad GoIF"
 home_team: "Fristad GoIF"
 away_team: "FBC Kalmarsund Ungdom"

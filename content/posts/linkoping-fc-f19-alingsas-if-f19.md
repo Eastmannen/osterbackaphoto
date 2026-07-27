@@ -3,7 +3,8 @@ title: "Linköping FC F19- Alingsås IF F19"
 date: 2024-04-14T22:14:19
 slug: "linkoping-fc-f19-alingsas-if-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Linköping FC F19"
 away_team: "Alingsås IF F19"

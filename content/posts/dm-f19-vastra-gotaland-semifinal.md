@@ -3,7 +3,8 @@ title: "DM F19 Västra Götaland, Semifinal"
 date: 2023-08-16T22:56:36
 slug: "dm-f19-vastra-gotaland-semifinal"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 venue: "F19/F17 mot Vara SK F19 borta på Bendersvallen i Vara klockan 19:00 en onsdagkväll. Trots en mycket blek insats av Alingsås så vinner man matchen lekande lätt mot Vara. Målskyttar Ida Peterson, Elina"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/08/omslag-1.jpg"

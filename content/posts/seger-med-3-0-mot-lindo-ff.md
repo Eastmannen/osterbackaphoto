@@ -3,7 +3,8 @@ title: "Seger med 3-0 mot Lindö FF"
 date: 2025-05-24T17:28:57
 slug: "seger-med-3-0-mot-lindo-ff"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Seger med 3"
 away_team: "0 mot Lindö FF"

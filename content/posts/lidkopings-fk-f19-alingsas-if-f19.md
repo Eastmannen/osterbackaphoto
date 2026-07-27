@@ -3,7 +3,8 @@ title: "Lidköpings FK F19 - Alingsås IF F19"
 date: 2024-05-19T20:52:06
 slug: "lidkopings-fk-f19-alingsas-if-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Lidköpings FK F19"
 away_team: "Alingsås IF F19"

@@ -3,7 +3,8 @@ title: "5-0 seger för UIFK"
 date: 2026-04-26T19:46:31
 slug: "5-0-seger-for-uifk"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "5"
 away_team: "0 seger för UIFK"

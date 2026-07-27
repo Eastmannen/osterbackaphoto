@@ -3,7 +3,8 @@ title: "Fristad GoIF U - Svenljunga IBK"
 date: 2025-02-09T18:18:37
 slug: "fristad-goif-u-svenljunga-ibk"
 post_type: "match"
-sport: "innebandy"
+sports:
+  - "innebandy"
 club: "Fristad GoIF"
 home_team: "Fristad GoIF U"
 away_team: "Svenljunga IBK"

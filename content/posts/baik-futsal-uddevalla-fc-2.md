@@ -3,7 +3,8 @@ title: "BAIK Futsal - Uddevalla FC"
 date: 2025-03-29T23:56:57
 slug: "baik-futsal-uddevalla-fc-2"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "BAIK Futsal"
 away_team: "Uddevalla FC"

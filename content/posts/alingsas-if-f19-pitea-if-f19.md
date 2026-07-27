@@ -3,7 +3,8 @@ title: "Alingsås IF F19 - Piteå IF F19"
 date: 2023-09-10T21:46:13
 slug: "alingsas-if-f19-pitea-if-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF F19"
 away_team: "Piteå IF F19"

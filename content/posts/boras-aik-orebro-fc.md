@@ -3,7 +3,8 @@ title: "Borås AIK - Örebro FC"
 date: 2022-12-11T23:40:14
 slug: "boras-aik-orebro-fc"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "Borås AIK"
 away_team: "Örebro FC"

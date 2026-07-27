@@ -3,7 +3,8 @@ title: "Hertzöga BK - Ulrichehamns IFK"
 date: 2026-05-30T18:14:31
 slug: "hertzoga-bk-ulrichehamns-ifk"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Hertzöga BK"
 away_team: "Ulrichehamns IFK"

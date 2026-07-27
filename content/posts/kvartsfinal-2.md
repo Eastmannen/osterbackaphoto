@@ -3,7 +3,8 @@ title: "Kvartsfinal 2"
 date: 2025-03-09T21:43:44
 slug: "kvartsfinal-2"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_score: 14
 away_score: 1

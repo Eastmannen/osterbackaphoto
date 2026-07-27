@@ -3,7 +3,8 @@ title: "Träningsmatch IF Elfsborg U-lag - Alingsås IF F19"
 date: 2024-03-15T22:26:04
 slug: "traningsmatch-if-elfsborg-u-lag-alingsas-if-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "IF Elfsborg U"
 away_team: "lag - Alingsås IF F19"

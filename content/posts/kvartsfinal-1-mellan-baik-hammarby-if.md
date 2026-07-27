@@ -3,7 +3,8 @@ title: "Kvartsfinal 1 mellan BAIK - Hammarby IF"
 date: 2023-03-26T21:32:15
 slug: "kvartsfinal-1-mellan-baik-hammarby-if"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "Kvartsfinal 1 mellan BAIK"
 away_team: "Hammarby IF"

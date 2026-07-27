@@ -3,7 +3,8 @@ title: "SM final 2"
 date: 2025-04-27T21:05:22
 slug: "sm-final-2"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 series: "Sm-Final 2 Slutar Med"
 home_score: 3

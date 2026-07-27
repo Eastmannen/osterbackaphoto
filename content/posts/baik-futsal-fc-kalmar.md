@@ -3,7 +3,8 @@ title: "BAIK Futsal - FC Kalmar"
 date: 2023-12-03T21:28:10
 slug: "baik-futsal-fc-kalmar"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "BAIK Futsal"
 away_team: "FC Kalmar"

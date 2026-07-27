@@ -3,7 +3,8 @@ title: "Träningsmatch för Alingsås IF (F17/F19) borta mot Näsets SK"
 date: 2023-07-14T22:52:07
 slug: "traningsmatch-for-alingsas-if-f17-f19-borta-mot-nasets-sk"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_score: 3
 away_score: 0

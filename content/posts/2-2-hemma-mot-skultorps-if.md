@@ -3,7 +3,8 @@ title: "2-2 hemma mot Skultorps IF"
 date: 2026-05-10T17:49:57
 slug: "2-2-hemma-mot-skultorps-if"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "2"
 away_team: "2 hemma mot Skultorps IF"

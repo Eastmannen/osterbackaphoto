@@ -3,7 +3,8 @@ title: "Träningsmatch Alingsås IF (F19) - Ljungskile SK (A-lag)"
 date: 2024-03-30T21:02:14
 slug: "traningsmatch-alingsas-if-f19-ljungskile-sk-a-lag"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF (F19)"
 away_team: "Ljungskile SK (A-lag)"

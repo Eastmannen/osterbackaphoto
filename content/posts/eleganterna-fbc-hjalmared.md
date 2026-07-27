@@ -3,7 +3,8 @@ title: "Eleganterna - FBC Hjälmared"
 date: 2024-01-27T00:15:12
 slug: "eleganterna-fbc-hjalmared"
 post_type: "match"
-sport: "innebandy"
+sports:
+  - "innebandy"
 club: "Fristad GoIF"
 home_team: "Eleganterna"
 away_team: "FBC Hjälmared"

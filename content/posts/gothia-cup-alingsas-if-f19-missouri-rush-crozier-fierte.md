@@ -3,7 +3,8 @@ title: "Gothia Cup Alingsås IF (F19) - Missouri Rush Crozier Fierte"
 date: 2023-07-17T16:54:13
 slug: "gothia-cup-alingsas-if-f19-missouri-rush-crozier-fierte"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Gothia Cup Alingsås IF (F19)"
 away_team: "Missouri Rush Crozier Fierte"

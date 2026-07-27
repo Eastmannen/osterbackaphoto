@@ -3,7 +3,8 @@ title: "FBC Hjälmared - Fristad GoIF (U-lag)"
 date: 2024-10-19T23:02:51
 slug: "fbc-hjalmared-fristad-goif-u-lag"
 post_type: "match"
-sport: "innebandy"
+sports:
+  - "innebandy"
 club: "Fristad GoIF"
 home_team: "FBC Hjälmared"
 away_team: "Fristad GoIF (U-lag)"

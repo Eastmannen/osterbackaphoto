@@ -3,7 +3,8 @@ title: "BAIK Futsal (U-lag) - Falköping FC"
 date: 2023-11-05T21:13:48
 slug: "baik-futsal-u-lag-falkoping-fc"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "BAIK Futsal (U"
 away_team: "lag) - Falköping FC"

@@ -3,7 +3,8 @@ title: "Fristad GoIF - Skoghalls IBK"
 date: 2023-10-15T23:16:06
 slug: "fristad-goif-skoghalls-ibk"
 post_type: "match"
-sport: "innebandy"
+sports:
+  - "innebandy"
 club: "Fristad GoIF"
 home_team: "Fristad GoIF"
 away_team: "Skoghalls IBK"

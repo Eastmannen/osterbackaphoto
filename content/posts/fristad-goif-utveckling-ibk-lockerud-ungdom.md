@@ -3,7 +3,8 @@ title: "Fristad GoIF Utveckling - IBK Lockerud Ungdom"
 date: 2023-09-29T23:33:35
 slug: "fristad-goif-utveckling-ibk-lockerud-ungdom"
 post_type: "match"
-sport: "innebandy"
+sports:
+  - "innebandy"
 club: "Fristad GoIF"
 series: "Div 3 Västra Götaland. Matchen Slut"
 home_team: "Fristad GoIF Utveckling"

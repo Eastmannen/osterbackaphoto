@@ -3,7 +3,8 @@ title: "Seger med 6-1"
 date: 2025-09-06T22:09:24
 slug: "seger-med-6-1"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Seger med 6"
 away_team: "1"

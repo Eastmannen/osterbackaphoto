@@ -3,7 +3,8 @@ title: "FBC Hjälmared - Eleganterna (Fristad GoIF Utveckling)"
 date: 2023-11-05T21:01:27
 slug: "fbc-hjalmared-eleganterna-fristad-goif-utveckling"
 post_type: "match"
-sport: "innebandy"
+sports:
+  - "innebandy"
 club: "Fristad GoIF"
 series: "Div 3. Eleganterna Intar Hjälmared."
 home_team: "FBC Hjälmared"

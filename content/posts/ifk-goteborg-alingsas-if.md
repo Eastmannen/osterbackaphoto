@@ -3,7 +3,8 @@ title: "IFK Göteborg - Alingsås IF"
 date: 2023-03-11T22:11:34
 slug: "ifk-goteborg-alingsas-if"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "IFK Göteborg"
 away_team: "Alingsås IF"

@@ -3,7 +3,8 @@ title: "Kval till Allsvenskan"
 date: 2023-04-05T23:45:45
 slug: "kval-till-allsvenskan"
 post_type: "match"
-sport: "innebandy"
+sports:
+  - "innebandy"
 club: "Fristad GoIF"
 home_score: 6
 away_score: 2

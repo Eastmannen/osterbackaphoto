@@ -3,7 +3,8 @@ title: "Vinninga AIF (A-lag)- Alingsås IF (F19)"
 date: 2023-03-29T23:51:12
 slug: "vinninga-aif-a-lag-alingsas-if-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 series: "Div 3) Tisdag Kväll Den 28 Mars 202"
 home_team: "Vinninga AIF (A"

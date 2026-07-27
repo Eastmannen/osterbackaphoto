@@ -3,7 +3,8 @@ title: "BAIK Futsal - Norrköping FK"
 date: 2024-02-18T20:42:23
 slug: "baik-futsal-norrkoping-fk"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "BAIK Futsal"
 away_team: "Norrköping FK"

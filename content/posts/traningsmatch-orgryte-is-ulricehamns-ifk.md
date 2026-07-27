@@ -3,7 +3,8 @@ title: "Träningsmatch Örgryte IS - Ulricehamns IFK"
 date: 2026-07-26T18:11:53
 slug: "traningsmatch-orgryte-is-ulricehamns-ifk"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Örgryte IS"
 away_team: "Ulricehamns IFK"

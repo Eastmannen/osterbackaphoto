@@ -3,7 +3,8 @@ title: "Fristad GoIF - IBK Tygriket 99"
 date: 2024-11-23T21:11:06
 slug: "fristad-goif-ibk-tygriket-99"
 post_type: "match"
-sport: "innebandy"
+sports:
+  - "innebandy"
 club: "Fristad GoIF"
 home_team: "Fristad GoIF"
 away_team: "IBK Tygriket 99"

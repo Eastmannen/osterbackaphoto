@@ -3,7 +3,8 @@ title: "Seger med 4-2 mot Tranås FF"
 date: 2025-05-17T21:33:40
 slug: "seger-med-4-2-mot-tranas-ff"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Seger med 4"
 away_team: "2 mot Tranås FF"

@@ -3,7 +3,8 @@ title: "Alingsås IF F19 - Eskilstuna United DFF F19"
 date: 2024-10-06T20:33:28
 slug: "alingsas-if-f19-eskilstuna-united-dff-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF F19"
 away_team: "Eskilstuna United DFF F19"

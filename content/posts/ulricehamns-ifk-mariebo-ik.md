@@ -3,7 +3,8 @@ title: "Ulricehamns IFK - Mariebo IK"
 date: 2025-05-28T23:40:03
 slug: "ulricehamns-ifk-mariebo-ik"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Ulricehamns IFK"
 away_team: "Mariebo IK"

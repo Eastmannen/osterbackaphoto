@@ -3,7 +3,8 @@ title: "BAIK Futsal - Hammarby IF"
 date: 2025-01-12T19:41:45
 slug: "baik-futsal-hammarby-if"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "BAIK Futsal"
 away_team: "Hammarby IF"

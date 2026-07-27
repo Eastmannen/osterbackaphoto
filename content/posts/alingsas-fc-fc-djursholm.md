@@ -3,7 +3,8 @@ title: "Alingsås FC - FC Djursholm"
 date: 2022-12-04T21:09:55
 slug: "alingsas-fc-fc-djursholm"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås FC"
 away_team: "FC Djursholm"

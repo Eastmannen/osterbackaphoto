@@ -8,23 +8,19 @@
 </div>
 
 <div class="filter-bar">
-  <button class="filter-btn active" data-filter="alla">Alla</button>
-  <button class="filter-btn" data-filter="fotboll">Fotboll</button>
-  <button class="filter-btn" data-filter="futsal">Futsal</button>
-  <button class="filter-btn" data-filter="innebandy">Innebandy</button>
-  <button class="filter-btn" data-filter="basket">Basket</button>
-  <button class="filter-btn" data-filter="other">Övrigt</button>
+  <a class="filter-btn active" href="/">Alla</a>
+  <a class="filter-btn" href="/sports/fotboll">Fotboll</a>
+  <a class="filter-btn" href="/sports/futsal">Futsal</a>
+  <a class="filter-btn" href="/sports/innebandy">Innebandy</a>
+  <a class="filter-btn" href="/sports/basket">Basket</a>
+  <a class="filter-btn" href="/sports/annat">Övrigt</a>
 </div>
 
 <div class="section-label">Senaste bildposter</div>
 
-<div class="tickets" id="tickets">
+<div class="tickets">
   {{ range (.Paginate (where .Site.RegularPages "Type" "posts").ByDate.Reverse).Pages }}
-    <div class="ticket-wrap"
-      data-sport="{{ .Params.sport | default "other" }}"
-      data-type="{{ .Params.post_type | default "other" }}">
-      {{ partial "ticket.html" . }}
-    </div>
+    {{ partial "ticket.html" . }}
   {{ end }}
 </div>
 
@@ -40,28 +36,4 @@
   {{ end }}
 </nav>
 {{ end }}
-
-<script>
-  const btns = document.querySelectorAll('.filter-btn');
-  const wraps = document.querySelectorAll('.ticket-wrap');
-
-  btns.forEach(btn => {
-    btn.addEventListener('click', () => {
-      btns.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      const f = btn.dataset.filter;
-      wraps.forEach(w => {
-        const sport = w.dataset.sport;
-        const type = w.dataset.type;
-        if (f === 'alla') {
-          w.style.display = '';
-        } else if (f === 'other') {
-          w.style.display = (type === 'other' || !sport || sport === 'other') ? '' : 'none';
-        } else {
-          w.style.display = (sport === f) ? '' : 'none';
-        }
-      });
-    });
-  });
-</script>
 {{ end }}

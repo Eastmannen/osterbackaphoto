@@ -3,7 +3,8 @@ title: "Borås Basket - Bosna IF (FU14)"
 date: 2023-12-16T20:32:19
 slug: "boras-basket-bosna-if-fu14"
 post_type: "match"
-sport: "basket"
+sports:
+  - "basket"
 home_team: "Borås Basket"
 away_team: "Bosna IF (FU14)"
 venue: "Kyllaredshallen, Borås"

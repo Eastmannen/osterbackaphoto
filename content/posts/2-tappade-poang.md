@@ -3,7 +3,8 @@ title: "2 tappade poäng"
 date: 2026-05-02T20:08:53
 slug: "2-tappade-poang"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_score: 2
 away_score: 2

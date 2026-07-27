@@ -3,7 +3,8 @@ title: "IBK Alingsås - FBC Lerum"
 date: 2023-01-15T19:58:36
 slug: "ibk-alingsas-fbc-lerum"
 post_type: "match"
-sport: "innebandy"
+sports:
+  - "innebandy"
 club: "IBK Alingsås"
 home_team: "IBK Alingsås"
 away_team: "FBC Lerum"

@@ -3,7 +3,8 @@ title: "BAIK - Ulricehamn U-lag"
 date: 2025-06-23T22:20:56
 slug: "baik-ulricehamn-u-lag"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 series: "Div 5 Serien. Tyvärr Blev Det Förlu"
 home_team: "BAIK"

@@ -3,7 +3,8 @@ title: "SM-final Futsal"
 date: 2023-04-02T00:12:09
 slug: "sm-final-futsal"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 series: "Sm-Final Mellan Baik F"
 home_team: "SM"

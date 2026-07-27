@@ -3,7 +3,8 @@ title: "Hjulsbro IK - Ulricehamns IFK"
 date: 2025-06-08T20:52:53
 slug: "hjulsbro-ik-ulricehamns-ifk"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Hjulsbro IK"
 away_team: "Ulricehamns IFK"

@@ -3,7 +3,8 @@ title: "Semifinal Gothia Cup G18"
 date: 2024-07-19T22:45:59
 slug: "semifinal-gothia-cup-g18-2"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2024/07/e7400456.jpg"
 excerpt: "I semifinalen tog tyvärr äventyret slut för Alingsås IF. Där väntade IK Uppsala Fotboll där flertalet av spelarna redan har stor erfarenhet av fotboll på Elitettan-nivå. Stolt över våra tjejer som gjo…"

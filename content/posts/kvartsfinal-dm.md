@@ -3,7 +3,8 @@ title: "Kvartsfinal DM"
 date: 2025-08-13T21:46:07
 slug: "kvartsfinal-dm"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 series: "Div 2) Besegrade Lidköpings Fk (Div"
 home_score: 5

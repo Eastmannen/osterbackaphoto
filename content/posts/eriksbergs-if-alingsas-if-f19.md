@@ -3,7 +3,8 @@ title: "Eriksbergs IF - Alingsås IF F19"
 date: 2024-04-06T22:49:55
 slug: "eriksbergs-if-alingsas-if-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Eriksbergs IF"
 away_team: "Alingsås IF F19"

@@ -3,7 +3,8 @@ title: "Malmö FF F19 - Alingsås IF F19"
 date: 2024-09-15T19:20:46
 slug: "malmo-ff-f19-alingsas-if-f19-2"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Malmö FF F19"
 away_team: "Alingsås IF F19"

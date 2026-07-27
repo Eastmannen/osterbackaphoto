@@ -3,7 +3,8 @@ title: "Seger 1/8-final DM"
 date: 2025-05-21T17:36:25
 slug: "seger-1-8-final-dm"
 post_type: "match"
-sport: "tennis"
+sports:
+  - "tennis"
 home_team: "Seger 1/8"
 away_team: "final DM"
 home_score: 2

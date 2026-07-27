@@ -3,7 +3,8 @@ title: "Alingsås IF F19 - Sunnanå SK F19"
 date: 2024-09-08T21:42:55
 slug: "alingsas-if-f19-sunnana-sk-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF F19"
 away_team: "Sunnanå SK F19"

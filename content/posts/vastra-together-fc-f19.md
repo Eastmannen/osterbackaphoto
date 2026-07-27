@@ -3,7 +3,8 @@ title: "Västra Together FC F19"
 date: 2024-11-03T18:29:58
 slug: "vastra-together-fc-f19"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 home_score: 1
 away_score: 0
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2024/11/e7406032-2.jpg"

@@ -3,7 +3,8 @@ title: "Eleganterna - Smedjans IF"
 date: 2024-02-10T14:43:33
 slug: "eleganterna-smedjans-if"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "innebandy"
 club: "Fristad GoIF"
 series: "Div 3 Västra Götaland"
 home_team: "Eleganterna"

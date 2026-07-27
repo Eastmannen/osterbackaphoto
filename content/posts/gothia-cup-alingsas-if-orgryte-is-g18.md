@@ -3,7 +3,8 @@ title: "Gothia Cup, Alingsås IF - Örgryte IS, G18."
 date: 2023-07-20T00:06:07
 slug: "gothia-cup-alingsas-if-orgryte-is-g18"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Gothia Cup, Alingsås IF"
 away_team: "Örgryte IS, G18."

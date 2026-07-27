@@ -3,7 +3,8 @@ title: "Borås Basket - Högsbo Basket"
 date: 2024-12-23T12:29:55
 slug: "boras-basket-hogsbo-basket"
 post_type: "match"
-sport: "basket"
+sports:
+  - "basket"
 home_team: "Borås Basket"
 away_team: "Högsbo Basket"
 venue: "Kyllaredshallen 20241222. Tyvärr förlust för Borås basket. Matchen sluta, de"

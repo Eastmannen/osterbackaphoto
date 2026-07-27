@@ -3,7 +3,8 @@ title: "BAIK Futsal - Skoftebyns IF"
 date: 2024-12-22T23:03:58
 slug: "baik-futsal-skoftebyns-if"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "BAIK Futsal"
 away_team: "Skoftebyns IF"

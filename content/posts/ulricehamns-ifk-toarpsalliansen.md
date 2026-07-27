@@ -3,7 +3,8 @@ title: "Ulricehamns IFK - Toarpsalliansen"
 date: 2025-05-07T20:53:17
 slug: "ulricehamns-ifk-toarpsalliansen"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Ulricehamns IFK"
 away_team: "Toarpsalliansen"

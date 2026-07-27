@@ -3,7 +3,8 @@ title: "Säsongens sista match"
 date: 2025-10-05T17:10:23
 slug: "sasongens-sista-match"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 series: "Division 1. </P>"
 home_score: 3

@@ -3,7 +3,8 @@ title: "Ulricehamns IFK (U) - Borås AIK"
 date: 2025-09-27T00:17:45
 slug: "ulricehamns-ifk-u-boras-aik"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 series: "Div 5 Matchen Mellan Ulricehamns If"
 home_team: "Ulricehamns IFK (U)"

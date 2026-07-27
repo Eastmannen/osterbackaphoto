@@ -3,7 +3,8 @@ title: "UIFK - AIF"
 date: 2026-03-20T20:28:11
 slug: "uifk-aif"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "UIFK"
 away_team: "AIF"

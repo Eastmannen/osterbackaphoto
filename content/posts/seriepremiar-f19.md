@@ -3,7 +3,8 @@ title: "Seriepremiär F19"
 date: 2023-04-16T00:05:47
 slug: "seriepremiar-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_score: 4
 away_score: 0

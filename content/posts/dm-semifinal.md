@@ -3,7 +3,8 @@ title: "DM Semifinal"
 date: 2024-09-04T21:34:35
 slug: "dm-semifinal"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_score: 1
 away_score: 1

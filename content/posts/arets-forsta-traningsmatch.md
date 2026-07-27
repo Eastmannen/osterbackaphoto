@@ -3,7 +3,8 @@ title: "Årets första träningsmatch"
 date: 2026-02-07T20:51:52
 slug: "arets-forsta-traningsmatch"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_score: 1
 away_score: 0

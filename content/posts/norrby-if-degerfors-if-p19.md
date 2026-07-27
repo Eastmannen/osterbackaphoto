@@ -3,7 +3,8 @@ title: "Norrby IF - Degerfors IF P19"
 date: 2025-08-17T19:17:59
 slug: "norrby-if-degerfors-if-p19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 series: "Superettan Södra Där Norrby If"
 home_team: "Norrby IF"
 away_team: "Degerfors IF P19"

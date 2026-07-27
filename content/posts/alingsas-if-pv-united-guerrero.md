@@ -3,7 +3,8 @@ title: "Alingsås IF - PV United Guerrero"
 date: 2024-07-15T21:14:55
 slug: "alingsas-if-pv-united-guerrero"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF"
 away_team: "PV United Guerrero"

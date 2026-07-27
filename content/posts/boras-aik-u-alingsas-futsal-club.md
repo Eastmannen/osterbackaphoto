@@ -3,7 +3,8 @@ title: "Borås AIK (U) - Alingsås Futsal Club"
 date: 2023-01-21T00:29:07
 slug: "boras-aik-u-alingsas-futsal-club"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "Borås AIK (U)"
 away_team: "Alingsås Futsal Club"

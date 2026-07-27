@@ -3,7 +3,8 @@ title: "Lidköping FK - Alingsås IF"
 date: 2024-08-24T20:22:30
 slug: "lidkoping-fk-alingsas-if"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Lidköping FK"
 away_team: "Alingsås IF"

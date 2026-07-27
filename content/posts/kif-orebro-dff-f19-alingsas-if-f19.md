@@ -3,7 +3,8 @@ title: "KIF Örebro DFF (F19) - Alingsås IF (F19)"
 date: 2023-06-07T23:54:37
 slug: "kif-orebro-dff-f19-alingsas-if-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "KIF Örebro DFF (F19)"
 away_team: "Alingsås IF (F19)"

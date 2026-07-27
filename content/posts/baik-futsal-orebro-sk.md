@@ -3,7 +3,8 @@ title: "BAIK Futsal - Örebro SK"
 date: 2024-03-10T21:29:16
 slug: "baik-futsal-orebro-sk"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "BAIK Futsal"
 away_team: "Örebro SK"

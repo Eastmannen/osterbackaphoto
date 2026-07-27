@@ -3,7 +3,8 @@ title: "Ulricehamns IFK - Vimmerby IF"
 date: 2025-06-23T21:44:57
 slug: "ulricehamns-ifk-vimmerby-if"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Ulricehamns IFK"
 away_team: "Vimmerby IF"

@@ -3,7 +3,8 @@ title: "Alingsås IF F19 - Mallbackens IF Sunne F19"
 date: 2024-05-05T20:05:44
 slug: "alingsas-if-f19-mallbackens-if-sunne-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF F19"
 away_team: "Mallbackens IF Sunne F19"

@@ -3,7 +3,8 @@ title: "Champions League, gruppfinal."
 date: 2025-08-31T17:23:45
 slug: "champions-league-gruppfinal"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_score: 1
 away_score: 5

@@ -3,7 +3,8 @@ title: "DM-semifinal"
 date: 2025-09-18T23:05:43
 slug: "dm-semifinal-2"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "DM"
 away_team: "semifinal"

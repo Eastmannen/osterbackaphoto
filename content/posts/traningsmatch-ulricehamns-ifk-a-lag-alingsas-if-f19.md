@@ -3,7 +3,8 @@ title: "Träningsmatch Ulricehamns IFK (A-lag) - Alingsås IF F19"
 date: 2024-03-08T23:48:01
 slug: "traningsmatch-ulricehamns-ifk-a-lag-alingsas-if-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Ulricehamns IFK (A"
 away_team: "lag) - Alingsås IF F19"

@@ -3,7 +3,8 @@ title: "Alingsås IF F19 - Sävedalens IF (A-lag)"
 date: 2023-02-26T22:16:32
 slug: "alingsas-if-f19-savedalens-if-a-lag"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF F19"
 away_team: "Sävedalens IF (A-lag)"

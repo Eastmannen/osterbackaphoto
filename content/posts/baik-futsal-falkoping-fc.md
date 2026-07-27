@@ -3,7 +3,8 @@ title: "BAIK Futsal - Falköping FC"
 date: 2024-12-16T23:20:47
 slug: "baik-futsal-falkoping-fc"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "BAIK Futsal"
 away_team: "Falköping FC"

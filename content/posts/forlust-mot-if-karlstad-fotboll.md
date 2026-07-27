@@ -3,7 +3,8 @@ title: "Förlust mot IF Karlstad Fotboll"
 date: 2026-06-14T21:31:16
 slug: "forlust-mot-if-karlstad-fotboll"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_score: 0
 away_score: 2

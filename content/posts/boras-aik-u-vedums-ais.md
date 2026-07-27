@@ -3,7 +3,8 @@ title: "Borås AIK (U) - Vedums AIS"
 date: 2023-02-08T22:54:37
 slug: "boras-aik-u-vedums-ais"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 home_team: "Borås AIK (U)"
 away_team: "Vedums AIS"

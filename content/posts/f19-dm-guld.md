@@ -3,7 +3,8 @@ title: "F19 DM Guld"
 date: 2023-09-16T00:30:02
 slug: "f19-dm-guld"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_score: 2
 away_score: 1

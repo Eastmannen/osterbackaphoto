@@ -3,7 +3,8 @@ title: "1/8-dels final"
 date: 2024-07-18T23:50:07
 slug: "1-8-dels-final"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "1/8"
 away_team: "dels final"

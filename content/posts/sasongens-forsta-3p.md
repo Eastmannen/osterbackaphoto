@@ -3,7 +3,8 @@ title: "Säsongens första 3P"
 date: 2026-04-19T18:41:28
 slug: "sasongens-forsta-3p"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_score: 2
 away_score: 0

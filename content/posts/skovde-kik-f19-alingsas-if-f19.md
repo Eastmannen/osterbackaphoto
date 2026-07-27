@@ -3,7 +3,8 @@ title: "Skövde KIK F19- Alingsås IF F19"
 date: 2024-06-06T17:45:09
 slug: "skovde-kik-f19-alingsas-if-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Skövde KIK F19"
 away_team: "Alingsås IF F19"

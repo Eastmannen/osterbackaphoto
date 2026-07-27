@@ -3,7 +3,8 @@ title: "BAIK Futsal - FC Real Internactional"
 date: 2023-11-25T21:55:24
 slug: "baik-futsal-fc-real-internactional"
 post_type: "match"
-sport: "futsal"
+sports:
+  - "futsal"
 club: "Borås AIK"
 series: "Div 1 Södra. Seger Med 4-1 För Baik"
 home_team: "BAIK Futsal"

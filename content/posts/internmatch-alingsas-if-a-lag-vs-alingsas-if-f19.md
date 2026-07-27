@@ -3,7 +3,8 @@ title: "Internmatch Alingsås IF (A-lag) vs Alingsås IF (F19)"
 date: 2023-08-09T00:00:52
 slug: "internmatch-alingsas-if-a-lag-vs-alingsas-if-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Internmatch Alingsås IF (A"
 away_team: "lag) vs Alingsås IF (F19)"

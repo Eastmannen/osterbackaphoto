@@ -3,7 +3,8 @@ title: "Ulricehamns IFK - Alingsås KIK"
 date: 2025-02-16T11:13:02
 slug: "ulricehamns-ifk-alingsas-kik"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Ulricehamns IFK"
 away_team: "Alingsås KIK"

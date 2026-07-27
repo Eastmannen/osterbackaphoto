@@ -5,6 +5,9 @@ title = "Osterbacka Photo"
 [pagination]
   pagerSize = 10
 
+[taxonomies]
+  sport = "sports"
+
 [params]
   description = "Jag fotar matcher – och annat jag tycker är kul att fånga med kameran."
   author = "Esko Österbacka"

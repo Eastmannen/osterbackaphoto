@@ -3,7 +3,8 @@ title: "Ulricehamns IFK - Bankeryds SK"
 date: 2025-06-14T17:14:11
 slug: "ulricehamns-ifk-bankeryds-sk"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Ulricehamns IFK"
 away_team: "Bankeryds SK"

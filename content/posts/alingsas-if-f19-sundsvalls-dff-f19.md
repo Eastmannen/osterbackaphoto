@@ -3,7 +3,8 @@ title: "Alingsås IF F19 - Sundsvalls DFF F19"
 date: 2023-10-22T19:46:01
 slug: "alingsas-if-f19-sundsvalls-dff-f19"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Alingsås IF F19"
 away_team: "Sundsvalls DFF F19"

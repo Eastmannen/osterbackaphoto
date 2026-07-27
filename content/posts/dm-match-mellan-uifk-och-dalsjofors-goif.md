@@ -3,7 +3,8 @@ title: "DM-match mellan UIFK och Dalsjöfors GoIF"
 date: 2025-03-16T19:04:12
 slug: "dm-match-mellan-uifk-och-dalsjofors-goif"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "DM"
 away_team: "match mellan UIFK och Dalsjöfors GoIF"

@@ -3,7 +3,8 @@ title: "IFK Tidaholm - Ulricehamns IFK"
 date: 2025-03-08T19:50:04
 slug: "ifk-tidaholm-ulricehamns-ifk"
 post_type: "match"
-sport: "fotboll"
+sports:
+  - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "IFK Tidaholm"
 away_team: "Ulricehamns IFK"
