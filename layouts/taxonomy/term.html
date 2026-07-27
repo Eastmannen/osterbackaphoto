@@ -1,30 +1,53 @@
 {{ define "main" }}
 <div class="hero">
   <div class="hero-inner">
-    <div class="eyebrow">Osterbackaphoto · Sport</div>
+    <a href="/" class="eyebrow">Osterbackaphoto · Sport</a>
     <h1>{{ .Title | upper }}</h1>
     <p>{{ len .Pages }} bildposter</p>
   </div>
 </div>
 
+{{ $years := slice }}
+{{ range .Pages }}
+  {{ $y := .Date.Format "2006" }}
+  {{ if not (in $years $y) }}
+    {{ $years = $years | append $y }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $years) 1 }}
+<div class="filter-bar year-filter">
+  <button class="filter-btn active" data-year="all">Alla</button>
+  {{ range $years }}
+    <button class="filter-btn" data-year="{{ . }}">{{ . }}</button>
+  {{ end }}
+</div>
+{{ end }}
+
 <div class="section-label">Bildposter</div>
 
-<div class="tickets">
-  {{ range (.Paginate .Pages.ByDate.Reverse).Pages }}
-    {{ partial "ticket.html" . }}
+<div class="tickets" id="tickets-grid">
+  {{ range .Pages.ByDate.Reverse }}
+    <div class="ticket-wrap" data-year="{{ .Date.Format "2006" }}">
+      {{ partial "ticket.html" . }}
+    </div>
   {{ end }}
 </div>
 
-{{ $paginator := .Paginator }}
-{{ if gt $paginator.TotalPages 1 }}
-<nav class="pagination">
-  {{ if $paginator.HasPrev }}
-    <a href="{{ $paginator.Prev.URL }}">← Nyare</a>
-  {{ end }}
-  <span class="current">Sida {{ $paginator.PageNumber }} av {{ $paginator.TotalPages }}</span>
-  {{ if $paginator.HasNext }}
-    <a href="{{ $paginator.Next.URL }}">Äldre →</a>
-  {{ end }}
-</nav>
-{{ end }}
+<script>
+(function() {
+  var btns = document.querySelectorAll('.year-filter .filter-btn');
+  if (!btns.length) return;
+  btns.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var year = this.dataset.year;
+      btns.forEach(function(b) { b.classList.remove('active'); });
+      this.classList.add('active');
+      document.querySelectorAll('.ticket-wrap').forEach(function(wrap) {
+        wrap.style.display = (year === 'all' || wrap.dataset.year === year) ? '' : 'none';
+      });
+    });
+  });
+})();
+</script>
 {{ end }}
