@@ -1,9 +1,10 @@
 ---
 title: Kvittering i 95:e minuten
 date: 2026-06-07T11:05:40
-post_type: other
+post_type: match
 sport: fotboll
 club: Ulricehamns IFK
+series: Div 1 Mellersta
 home_team: Ulricehamns IFK
 away_team: Karlbergs BK
 home_score: 1
