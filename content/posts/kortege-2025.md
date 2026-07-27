@@ -3,6 +3,8 @@ title: "Kortege 2025"
 date: 2025-05-01T17:05:39
 slug: "kortege-2025"
 post_type: "other"
+sports:
+  - "annat"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/05/e7403625.jpg"
 excerpt: "Teknis kortege 2025.…"
 images:

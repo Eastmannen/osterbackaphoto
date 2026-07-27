@@ -3,6 +3,8 @@ title: "Elganterna 3P mot Sandared"
 date: 2025-10-26T23:07:07
 slug: "elganterna-3p-mot-sandared"
 post_type: "other"
+sports:
+  - "annat"
 club: "Fristad GoIF"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/10/e7409450-1.jpg"
 excerpt: "2025-10-25, Eleganterna (Fristad GoIF Utveckling) tog säsongens andra seger genom hemmasegern mot Sandareds IBS.…"

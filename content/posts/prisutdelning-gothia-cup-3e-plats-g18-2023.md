@@ -3,6 +3,8 @@ title: "Prisutdelning Gothia Cup, 3:e plats G18 2023"
 date: 2023-07-22T21:19:07
 slug: "prisutdelning-gothia-cup-3e-plats-g18-2023"
 post_type: "other"
+sports:
+  - "annat"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/07/e7409863.jpg"
 excerpt: "Några bilder från prisutdelningen på Gamla Ullevi, 2023-07-22…"
 images:

@@ -3,6 +3,8 @@ title: "Seger i Torslanda Cup 2025"
 date: 2025-11-02T13:45:22
 slug: "seger-i-torslanda-cup-2025"
 post_type: "other"
+sports:
+  - "annat"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/11/e7402064.jpg"
 excerpt: "2025-11-02, Västra Together FC F19 tog hem seger Torslanda Cup.…"
 images:

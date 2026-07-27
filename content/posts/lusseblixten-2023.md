@@ -3,6 +3,8 @@ title: "Lusseblixten 2023"
 date: 2023-12-02T10:41:24
 slug: "lusseblixten-2023"
 post_type: "other"
+sports:
+  - "annat"
 club: "Borås AIK"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/12/e7402901-enhanced-nr.jpg"
 excerpt: "Lusseblixten 2023 i Boråshallen, 2023-12-01, blev en seger för BAIK Futsal för både herrar och damer.…"

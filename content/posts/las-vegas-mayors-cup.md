@@ -3,6 +3,8 @@ title: "Las Vegas Mayor's Cup"
 date: 2025-02-23T19:19:15
 slug: "las-vegas-mayors-cup"
 post_type: "other"
+sports:
+  - "annat"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/02/e7405872.jpg"
 excerpt: "Bilder från sista gruppspelsmatchen i Las Vegas Mayor's Cup.…"
 images:

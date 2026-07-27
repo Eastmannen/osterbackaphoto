@@ -3,6 +3,8 @@ title: "Student 2026"
 date: 2026-06-13T23:26:40
 slug: "student-2026"
 post_type: "other"
+sports:
+  - "annat"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2026/06/e7409419.jpg"
 excerpt: "Bilder från EKE23A och Elinas student…"
 images:

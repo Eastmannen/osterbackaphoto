@@ -3,6 +3,8 @@ title: "3x3 Basket"
 date: 2025-08-10T19:46:54
 slug: "3x3-basket"
 post_type: "other"
+sports:
+  - "annat"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/08/e7409626-1.jpg"
 excerpt: "Nocco Sweden 3x3 Tour – Stop #5 i Borås Idag spelade Jolines lag 3x3 på Borås Torg – och Osterbackaphoto var givetvis på plats med kameran 📸 I första matchen mötte de Skokloster. Skokloster gick hela …"
 images:

@@ -3,6 +3,8 @@ title: "Kortegen med teknis elever genom Borås"
 date: 2024-04-30T21:14:00
 slug: "kortegen-med-teknis-elever-genom-boras"
 post_type: "other"
+sports:
+  - "annat"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2024/04/e7403056.jpg"
 excerpt: "Valborgsafton i Borås.…"
 images:

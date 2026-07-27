@@ -3,6 +3,8 @@ title: "Skandinaviska Mästerskapen i P17-klassen"
 date: 2022-12-20T16:25:53
 slug: "skandinaviska-masterskapen-i-p17-klassen"
 post_type: "other"
+sports:
+  - "annat"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2022/12/e7401843-1.jpg"
 excerpt: "Några bilder från Halmstad - Rosenborgs BK samt IFK Göteborg - FC Köpenhamn. Bilder från 10 och 11 december 2022. Rydahallen, Borås.…"
 images:

@@ -3,6 +3,8 @@ title: "Futsal SM Ungdom"
 date: 2023-01-15T21:36:03
 slug: "futsal-sm-ungdom"
 post_type: "other"
+sports:
+  - "annat"
 club: "Borås AIK"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2023/01/e7406166-1.jpg"
 excerpt: "Gruppspel för Borås AIK F16/07 mot Dalsjöfors GoIF, Bergdalens IK och Brämhults IK 2023-01-14. Direkt från Stadsskogshallen i Alingsås till Daltorpshallen i Borås för gruppspel mot andra Boråslag. BA…"

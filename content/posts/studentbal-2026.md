@@ -3,6 +3,8 @@ title: "Studentbal 2026"
 date: 2026-05-30T10:41:40
 slug: "studentbal-2026"
 post_type: "other"
+sports:
+  - "annat"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2026/05/e7405775.jpg"
 images:
   - "https://osterbackaphoto.wordpress.com/wp-content/uploads/2026/05/e7405211.jpg"

@@ -3,6 +3,8 @@ title: "Las Vegas Mayor's cup"
 date: 2025-02-22T18:52:42
 slug: "las-vegas-mayors-cup-dag-2"
 post_type: "other"
+sports:
+  - "annat"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/02/e7405616-enhanced-nr-1.jpg"
 excerpt: "Västra Togheter FC F19 spelade två matcher under fredagen den 21 februari 2025 som tyvärr slutade med förluster. Idag väntar sista gruppspelsmatchen.…"
 images:

@@ -3,6 +3,8 @@ title: "Julmarknad Sven Eriksonsgymnasiet"
 date: 2025-11-13T23:48:43
 slug: "julmarknad-sven-eriksonsgymnasiet"
 post_type: "other"
+sports:
+  - "annat"
 featured_image: "https://osterbackaphoto.com/wp-content/uploads/2025/11/e7403735.jpg"
 excerpt: "Elever på Sven Eriksonsgymnasiet med sina UF-företag.…"
 images:
