@@ -1,65 +1,69 @@
 ---
-title: "Vinst efter förlängning"
+title: Vinst efter förlängning
 date: 2025-11-02T14:18:49
-slug: "vinst-efter-forlangning"
-post_type: "match"
-sports:
-  - "fotboll"
-club: "Fristad GoIF"
-home_score: 3
-away_score: 2
-featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400199-1.jpg"
-excerpt: "Eleganterna (Fristad GoIF Utveckling) vann över Fritsla IF efter förlängning med 3-2.…"
+post_type: match
+sport: innebandy
+club: Fristad GoIF
+home_team: Fritsla IF
+away_team: Fristad GoIF Utveckling
+home_score: 2
+away_score: 3
+featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400199-1.jpg
+excerpt: Eleganterna (Fristad GoIF Utveckling) vann över Fritsla IF efter
+  förlängning med 3-2.…
+slug: vinst-efter-forlangning
 images:
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400004.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400007.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400022.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400063.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400073.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400109.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400137.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400143.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400199.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400209.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400247.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400282.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400320.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400348.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400416.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409600.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409602.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409631.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409635.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409653.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409655.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409659.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409660.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409667.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409680.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409687.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409707.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409721.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409722.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409727.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409736.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409750.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409758.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409764.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409766.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409774.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409778.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409785.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409801.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409844.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409876.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409902.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409914.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409919.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409921.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409928.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409961.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409966.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409991.jpg"
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400004.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400007.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400022.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400063.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400073.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400109.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400137.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400143.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400199.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400209.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400247.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400282.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400320.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400348.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400416.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409600.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409602.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409631.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409635.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409653.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409655.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409659.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409660.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409667.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409680.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409687.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409707.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409721.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409722.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409727.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409736.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409750.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409758.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409764.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409766.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409774.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409778.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409785.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409801.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409844.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409876.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409902.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409914.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409919.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409921.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409928.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409961.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409966.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409991.jpg
+sports:
+  - fotboll
 ---
 
 Eleganterna (Fristad GoIF Utveckling) vann över Fritsla IF efter förlängning med 3-2.
