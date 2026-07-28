@@ -1,0 +1,75 @@
+{{ define "main" }}
+<div id="form-success" class="form-success" style="display:none">Tack för ditt meddelande! Jag hör av mig så snart jag kan.</div>
+
+<div class="contact-grid">
+  <div class="contact-info">
+    {{ with .Params.avatar }}
+    <div class="kontakt-avatar" style="margin-bottom:24px;justify-content:flex-start">
+      <img src="{{ . }}" alt="Esko Österbacka" style="width:72px;height:72px;">
+    </div>
+    {{ end }}
+    <div class="contact-kicker">Kontakt</div>
+    <h1>Hör av dig</h1>
+    {{ with .Params.lead }}<p class="lead">{{ . }}</p>{{ end }}
+
+    <div class="contact-details">
+      {{ with .Params.email }}
+      <div>
+        <div class="label">E-post</div>
+        <div class="value">{{ . }}</div>
+      </div>
+      {{ end }}
+      {{ if or .Params.instagram_handle .Params.facebook_handle }}
+      <div>
+        <div class="label">Socialt</div>
+        {{ with .Params.instagram_handle }}<div class="value small">@{{ . }} på Instagram</div>{{ end }}
+        {{ with .Params.facebook_handle }}<div class="value small">{{ . }} på Facebook</div>{{ end }}
+      </div>
+      {{ end }}
+      {{ with .Params.usage_note }}
+      <div>
+        <div class="label">Användning av bilder</div>
+        <div class="note">{{ . }}</div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <form class="contact-form" name="kontakt" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/kontakt/?success=1">
+    <input type="hidden" name="form-name" value="kontakt">
+    <p class="hp-field"><label>Lämna det här fältet tomt: <input name="bot-field"></label></p>
+
+    <div class="field">
+      <label for="f-name">Namn</label>
+      <input type="text" id="f-name" name="name" placeholder="Ditt namn" required>
+    </div>
+    <div class="field">
+      <label for="f-email">E-post</label>
+      <input type="email" id="f-email" name="email" placeholder="din@epost.se" required>
+    </div>
+    <div class="field">
+      <label>Vad gäller det?</label>
+      <div class="subject-pills">
+        <input type="radio" id="subj-bild" name="subject" value="Fråga om en bild" checked>
+        <label for="subj-bild">Fråga om en bild</label>
+        <input type="radio" id="subj-boka" name="subject" value="Boka fototillfälle">
+        <label for="subj-boka">Boka fototillfälle</label>
+        <input type="radio" id="subj-ovrigt" name="subject" value="Övrigt">
+        <label for="subj-ovrigt">Övrigt</label>
+      </div>
+    </div>
+    <div class="field">
+      <label for="f-message">Meddelande</label>
+      <textarea id="f-message" name="message" placeholder="Skriv ditt meddelande här…" required></textarea>
+    </div>
+    <button type="submit" class="contact-submit">Skicka meddelande</button>
+  </form>
+</div>
+
+<script>
+  if (window.location.search.indexOf('success') !== -1) {
+    var el = document.getElementById('form-success');
+    if (el) { el.style.display = 'block'; el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  }
+</script>
+{{ end }}

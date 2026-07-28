@@ -1,30 +1,36 @@
 {{ define "main" }}
-<div class="hero">
-  <div class="hero-inner">
-    <a href="/" class="eyebrow">Osterbackaphoto · Sport</a>
-    <h1>{{ .Title | upper }}</h1>
-    <p>{{ len .Pages }} bildposter</p>
+<div class="category-head">
+  <h1>{{ .Title | upper }}</h1>
+  <span class="count">{{ len .Pages }} {{ if eq .Kind "taxonomy" }}sporter{{ else }}bildposter{{ end }}</span>
+</div>
+
+{{ if eq .Kind "taxonomy" }}
+<div class="section">
+  <div class="cards">
+    {{ range .Pages }}
+    <a href="{{ .RelPermalink }}" class="card">
+      <div class="card-photo card-photo-empty"><span>{{ .Title }}</span></div>
+      <div class="card-eyebrow">{{ len .Pages }} bildposter</div>
+    </a>
+    {{ end }}
   </div>
 </div>
+{{ else }}
+<div class="section">
+  <div class="cards">
+    {{ range (.Paginate .Pages.ByDate.Reverse).Pages }}
+      {{ partial "card.html" . }}
+    {{ end }}
+  </div>
 
-<div class="section-label">Bildposter</div>
-
-<div class="tickets">
-  {{ range (.Paginate .Pages.ByDate.Reverse).Pages }}
-    {{ partial "ticket.html" . }}
+  {{ $paginator := .Paginator }}
+  {{ if gt $paginator.TotalPages 1 }}
+  <nav class="pagination">
+    {{ if $paginator.HasPrev }}<a href="{{ $paginator.Prev.URL }}" class="newer">← Nyare</a>{{ end }}
+    <span>Sida {{ $paginator.PageNumber }} av {{ $paginator.TotalPages }}</span>
+    {{ if $paginator.HasNext }}<a href="{{ $paginator.Next.URL }}">Äldre →</a>{{ end }}
+  </nav>
   {{ end }}
 </div>
-
-{{ $paginator := .Paginator }}
-{{ if gt $paginator.TotalPages 1 }}
-<nav class="pagination">
-  {{ if $paginator.HasPrev }}
-    <a href="{{ $paginator.Prev.URL }}">← Nyare</a>
-  {{ end }}
-  <span class="current">Sida {{ $paginator.PageNumber }} av {{ $paginator.TotalPages }}</span>
-  {{ if $paginator.HasNext }}
-    <a href="{{ $paginator.Next.URL }}">Äldre →</a>
-  {{ end }}
-</nav>
 {{ end }}
 {{ end }}

@@ -1,9 +1,35 @@
 {{ define "main" }}
+{{ $allPosts := where site.RegularPages "Section" "posts" }}
+{{ $withImage := where $allPosts.ByDate.Reverse "Params.featured_image" "!=" nil }}
+{{ $latest := first 8 $withImage }}
+{{ $favorites := where $withImage "Params.favorite" true }}
+{{ if eq (len $favorites) 0 }}{{ $favorites = $latest }}{{ end }}
+{{ $favorites = first 8 $favorites }}
+
+{{ $toHeroItems := newScratch }}
+{{ range slice (dict "key" "latest" "posts" $latest) (dict "key" "favorites" "posts" $favorites) }}
+  {{ $items := slice }}
+  {{ range .posts }}
+    {{ $items = $items | append (dict "image" .Params.featured_image "title" .Title "url" .RelPermalink) }}
+  {{ end }}
+  {{ $toHeroItems.Set .key $items }}
+{{ end }}
+
 <div class="hero">
-  <div class="hero-inner">
-    <div class="eyebrow">Osterbackaphoto</div>
-    <h1>Sport i bilder</h1>
+  <div class="hero-copy">
+    <div class="hero-eyebrow">Sport i bilder</div>
+    <h1>Matcher, ögonblick<br>och lokal sport.</h1>
     <p>{{ .Site.Params.description }}</p>
+  </div>
+  <div class="hero-visual">
+    <div class="hero-modes">
+      <button type="button" class="hero-mode-btn active" data-mode="latest">Senaste</button>
+      <button type="button" class="hero-mode-btn" data-mode="favorites">Favoriter</button>
+    </div>
+    <a class="hero-image" id="hero-image" href="#">
+      <div class="hero-image-caption" id="hero-image-caption"></div>
+    </a>
+    <div class="hero-dots" id="hero-dots"></div>
   </div>
 </div>
 
@@ -16,24 +42,100 @@
   <a class="filter-btn" href="/sports/annat">Övrigt</a>
 </div>
 
-<div class="section-label">Senaste bildposter</div>
+<div class="section">
+  <div class="section-head"><h2>Senaste bildposter</h2></div>
+  <div class="cards">
+    {{ range (.Paginate $withImage 15).Pages }}
+      {{ partial "card.html" . }}
+    {{ end }}
+  </div>
 
-<div class="tickets">
-  {{ range (.Paginate (where .Site.RegularPages "Type" "posts").ByDate.Reverse).Pages }}
-    {{ partial "ticket.html" . }}
+  {{ $paginator := .Paginator }}
+  {{ if gt $paginator.TotalPages 1 }}
+  <nav class="pagination">
+    {{ if $paginator.HasPrev }}<a href="{{ $paginator.Prev.URL }}">← Nyare</a>{{ end }}
+    <span>Sida {{ $paginator.PageNumber }} av {{ $paginator.TotalPages }}</span>
+    {{ if $paginator.HasNext }}<a href="{{ $paginator.Next.URL }}">Äldre bildposter →</a>{{ end }}
+  </nav>
   {{ end }}
 </div>
 
-{{ $paginator := .Paginator }}
-{{ if gt $paginator.TotalPages 1 }}
-<nav class="pagination">
-  {{ if $paginator.HasPrev }}
-    <a href="{{ $paginator.Prev.URL }}">← Nyare</a>
-  {{ end }}
-  <span class="current">Sida {{ $paginator.PageNumber }} av {{ $paginator.TotalPages }}</span>
-  {{ if $paginator.HasNext }}
-    <a href="{{ $paginator.Next.URL }}">Äldre →</a>
-  {{ end }}
-</nav>
-{{ end }}
+<div class="instagram-section">
+  <div class="section-head">
+    <h2>Följ @osterbacka_photo</h2>
+    <a href="https://www.instagram.com/osterbacka_photo/" target="_blank" rel="noopener" style="font-size:12px;color:var(--accent);">Instagram-flöde →</a>
+  </div>
+  <div class="instagram-grid">
+    {{ range first 6 $latest }}
+      {{ $igHref := .Params.instagram_url | default "https://www.instagram.com/osterbacka_photo/" }}
+      <a class="instagram-tile" href="{{ $igHref }}" target="_blank" rel="noopener" style="background-image:url('{{ .Params.featured_image }}');background-size:cover;background-position:center;">
+        <div class="instagram-tile-overlay">
+          <span class="card-badge-icon"></span>
+          <span>Visa på Instagram</span>
+        </div>
+      </a>
+    {{ end }}
+  </div>
+</div>
+
+<script id="hero-data" type="application/json">{{ jsonify (dict "latest" ($toHeroItems.Get "latest") "favorites" ($toHeroItems.Get "favorites")) | safeJS }}</script>
+<script>
+(function() {
+  var data = JSON.parse(document.getElementById('hero-data').textContent);
+  var heroImage = document.getElementById('hero-image');
+  var heroCaption = document.getElementById('hero-image-caption');
+  var dotsEl = document.getElementById('hero-dots');
+  var modeButtons = document.querySelectorAll('.hero-mode-btn');
+  var mode = 'latest';
+  var index = 0;
+  var timer = null;
+
+  function items() { return (data[mode] && data[mode].length) ? data[mode] : []; }
+
+  function renderDots() {
+    dotsEl.innerHTML = '';
+    items().forEach(function(item, i) {
+      var dot = document.createElement('button');
+      dot.type = 'button';
+      if (i === index) dot.className = 'active';
+      dot.addEventListener('click', function() { index = i; render(); resetTimer(); });
+      dotsEl.appendChild(dot);
+    });
+  }
+
+  function render() {
+    var list = items();
+    if (!list.length) return;
+    var item = list[index % list.length];
+    heroImage.style.backgroundImage = "url('" + item.image + "')";
+    heroImage.href = item.url;
+    heroCaption.textContent = item.title;
+    renderDots();
+  }
+
+  function resetTimer() {
+    if (timer) clearInterval(timer);
+    timer = setInterval(function() {
+      index = (index + 1) % Math.max(items().length, 1);
+      render();
+    }, 3500);
+  }
+
+  modeButtons.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      mode = btn.dataset.mode;
+      index = 0;
+      modeButtons.forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      render();
+      resetTimer();
+    });
+  });
+
+  if (items().length) {
+    render();
+    resetTimer();
+  }
+})();
+</script>
 {{ end }}

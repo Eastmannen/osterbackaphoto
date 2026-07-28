@@ -1,53 +1,103 @@
 {{ define "main" }}
-<div class="hero">
-  <div class="hero-inner">
-    <a href="/" class="eyebrow">Osterbackaphoto · Sport</a>
-    <h1>{{ .Title | upper }}</h1>
-    <p>{{ len .Pages }} bildposter</p>
-  </div>
+<div class="breadcrumb"><a href="/">Startsidan</a> / <span class="current">{{ .Title }}</span></div>
+
+<div class="category-head">
+  <h1>{{ .Title | upper }}</h1>
+  <span class="count">{{ len .Pages }} bildposter</span>
 </div>
 
 {{ $years := slice }}
 {{ range .Pages }}
   {{ $y := .Date.Format "2006" }}
-  {{ if not (in $years $y) }}
-    {{ $years = $years | append $y }}
-  {{ end }}
+  {{ if not (in $years $y) }}{{ $years = $years | append $y }}{{ end }}
 {{ end }}
 
 {{ if gt (len $years) 1 }}
-<div class="filter-bar year-filter">
-  <button class="filter-btn active" data-year="all">Alla</button>
+<div class="pill-bar year-filter">
+  <button class="pill-btn active" data-year="all">Alla år</button>
   {{ range $years }}
-    <button class="filter-btn" data-year="{{ . }}">{{ . }}</button>
+    <button class="pill-btn" data-year="{{ . }}">{{ . }}</button>
   {{ end }}
 </div>
 {{ end }}
 
-<div class="section-label">Bildposter</div>
+{{ $revealBatch := 24 }}
+<div class="section">
+  <div class="cards" id="cards-grid" data-batch="{{ $revealBatch }}">
+    {{ range $i, $p := .Pages.ByDate.Reverse }}
+      <div class="card-wrap{{ if ge $i $revealBatch }} card-hidden{{ end }}" data-year="{{ $p.Date.Format "2006" }}" data-index="{{ $i }}">
+        {{ partial "card.html" (dict "post" $p "showSport" false) }}
+      </div>
+    {{ end }}
+  </div>
 
-<div class="tickets" id="tickets-grid">
-  {{ range .Pages.ByDate.Reverse }}
-    <div class="ticket-wrap" data-year="{{ .Date.Format "2006" }}">
-      {{ partial "ticket.html" . }}
-    </div>
-  {{ end }}
+  <div class="load-more-row" id="category-reveal-row">
+    <button class="load-more" id="category-reveal-btn">Visa fler bildposter</button>
+  </div>
+  <div class="infinite-status" id="category-infinite-status">
+    <span class="spinner"></span>
+    <span>Laddar fler bildposter …</span>
+  </div>
 </div>
 
 <script>
 (function() {
-  var btns = document.querySelectorAll('.year-filter .filter-btn');
-  if (!btns.length) return;
+  var grid = document.getElementById('cards-grid');
+  var wraps = Array.prototype.slice.call(grid.querySelectorAll('.card-wrap'));
+  var total = wraps.length;
+  var batch = parseInt(grid.dataset.batch, 10) || 24;
+  var revealedCount = Math.min(batch, total);
+  var activeYear = 'all';
+  var isMobile = matchMedia('(max-width: 640px)').matches;
+
+  var revealBtn = document.getElementById('category-reveal-btn');
+  var revealRow = document.getElementById('category-reveal-row');
+  var infiniteStatus = document.getElementById('category-infinite-status');
+
+  function updateLoadMoreUI() {
+    var hasMore = activeYear === 'all' && revealedCount < total;
+    revealRow.style.display = (hasMore && !isMobile) ? 'flex' : 'none';
+    infiniteStatus.style.display = (hasMore && isMobile) ? 'flex' : 'none';
+  }
+
+  function applyView() {
+    wraps.forEach(function(wrap) {
+      var idx = parseInt(wrap.dataset.index, 10);
+      var matchesYear = activeYear === 'all' || wrap.dataset.year === activeYear;
+      var withinBatch = activeYear !== 'all' || idx < revealedCount;
+      wrap.classList.toggle('card-hidden', !(matchesYear && withinBatch));
+    });
+    updateLoadMoreUI();
+  }
+
+  function revealMore() {
+    revealedCount = Math.min(revealedCount + batch, total);
+    applyView();
+  }
+
+  var btns = document.querySelectorAll('.year-filter .pill-btn');
   btns.forEach(function(btn) {
     btn.addEventListener('click', function() {
-      var year = this.dataset.year;
+      activeYear = this.dataset.year;
       btns.forEach(function(b) { b.classList.remove('active'); });
       this.classList.add('active');
-      document.querySelectorAll('.ticket-wrap').forEach(function(wrap) {
-        wrap.style.display = (year === 'all' || wrap.dataset.year === year) ? '' : 'none';
-      });
+      applyView();
     });
   });
+
+  if (revealBtn) revealBtn.addEventListener('click', revealMore);
+
+  if (isMobile) {
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (!entry.isIntersecting) return;
+        if (activeYear === 'all' && revealedCount < total) revealMore();
+      });
+    }, { rootMargin: '300px' });
+    observer.observe(infiniteStatus);
+  }
+
+  applyView();
 })();
 </script>
 {{ end }}

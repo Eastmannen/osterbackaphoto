@@ -2,17 +2,11 @@
 title: "Kontakt"
 date: 2024-01-01
 type: "page"
+layout: "kontakt"
 avatar: "/uploads/esko-avatar.jpg"
+lead: "Frågor om en bild, önskemål om nästa match, eller vill du boka mig för ett fototillfälle? Skicka ett meddelande så återkommer jag så snart jag kan."
+email: "esko.osterbacka@gmail.com"
+instagram_handle: "osterbacka_photo"
+facebook_handle: "osterbacka_photo"
+usage_note: "Bilderna är fria att användas på sociala medier om du taggar @osterbackaphoto."
 ---
-
-Jag heter Esko Österbacka och fotar matcher och annat jag tycker är kul att fånga med kameran – mest fotboll, futsal och innebandy i Västsverige.
-
-Hittar du en bild du vill använda på sociala medier är du välkommen att göra det – tagga gärna [@osterbacka_photo](https://www.instagram.com/osterbacka_photo/) på Instagram.
-
-För andra användningsområden, hör av dig!
-
-**Instagram:** [@osterbacka_photo](https://www.instagram.com/osterbacka_photo/)
-
-**Facebook:** [osterbacka_photo](https://www.facebook.com/osterbacka_photo/)
-
-**E-post:** esko.osterbacka@gmail.com

@@ -1,0 +1,47 @@
+{{/* Expects: . = a posts page. Optional dict param "showSport" (bool, default true) via partial "card.html" (dict "post" . "showSport" false) */}}
+{{ $post := . }}
+{{ $showSport := true }}
+{{ if reflect.IsMap . }}
+  {{ $post = .post }}
+  {{ if isset . "showSport" }}{{ $showSport = .showSport }}{{ end }}
+{{ end }}
+
+{{ $nr := 0 }}
+{{ $allPosts := where site.RegularPages "Section" "posts" }}
+{{ range $i, $p := $allPosts.ByDate }}
+  {{ if $p.Eq $post }}{{ $nr = add $i 1 }}{{ end }}
+{{ end }}
+
+{{ $imgCount := len $post.Params.images }}
+
+<a href="{{ $post.RelPermalink }}" class="card">
+  {{ if $post.Params.featured_image }}
+    <div class="card-photo" style="background-image:url('{{ $post.Params.featured_image }}');">
+  {{ else }}
+    <div class="card-photo card-photo-empty">
+  {{ end }}
+    {{ if gt $imgCount 0 }}
+    <div class="card-badge">
+      <span class="card-badge-icon"></span>
+      <span>{{ $imgCount }} bilder</span>
+    </div>
+    {{ end }}
+  </div>
+  <div class="card-eyebrow">
+    {{ if and $showSport $post.Params.sport }}{{ $post.Params.sport | upper }} · {{ end -}}
+    {{- with $post.Params.series }}{{ . | upper }} · {{ end -}}
+    NR. {{ printf "%03d" $nr }}
+  </div>
+  <div class="card-title-row">
+    <div class="title">{{ $post.Title }}</div>
+    {{ if eq $post.Params.post_type "match" }}
+      {{ if and (ne $post.Params.home_score nil) (ne $post.Params.away_score nil) }}
+        <div class="score">{{ $post.Params.home_score }}–{{ $post.Params.away_score }}</div>
+      {{ end }}
+    {{ end }}
+  </div>
+  <div class="card-meta">
+    {{ with $post.Params.venue }}{{ . }} · {{ end }}{{ $post.Date.Format "2 January 2006" }}
+  </div>
+  {{ with $post.Params.tag }}<div class="card-tag">{{ . }}</div>{{ end }}
+</a>

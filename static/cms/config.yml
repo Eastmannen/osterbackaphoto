@@ -49,6 +49,20 @@ collections:
           field: post_type
           value: match
 
+      - label: "Sportkategori (styr vilken kategori-sida inlägget visas på)"
+        name: "sports"
+        widget: "select"
+        multiple: true
+        required: true
+        hint: "VIKTIGT: Välj samma sport(er) som ovan (eller 'Annat' om det inte är en match). Det är detta fält – inte 'Sport' – som styr om inlägget visas på t.ex. /sports/fotboll."
+        options:
+          - { label: "Fotboll", value: "fotboll" }
+          - { label: "Futsal", value: "futsal" }
+          - { label: "Innebandy", value: "innebandy" }
+          - { label: "Basket", value: "basket" }
+          - { label: "Tennis", value: "tennis" }
+          - { label: "Annat", value: "annat" }
+
       - label: "Klubb"
         name: "club"
         widget: "select"
@@ -115,6 +129,19 @@ collections:
         widget: "image"
         required: false
         hint: "Bilden som visas på kortet på startsidan"
+
+      - label: "Favorit"
+        name: "favorite"
+        widget: "boolean"
+        required: false
+        default: false
+        hint: "Visas i startsidans 'Favoriter'-läge i hero-bilden"
+
+      - label: "Instagram-inlägg (länk)"
+        name: "instagram_url"
+        widget: "string"
+        required: false
+        hint: "Länk till det specifika Instagram-inlägget för denna bild. Lämna tomt så länkar startsidans Instagram-ruta till din profil istället."
 
       - label: "Kort beskrivning"
         name: "excerpt"
