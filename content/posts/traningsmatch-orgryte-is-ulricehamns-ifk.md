@@ -12,7 +12,7 @@ away_team: Ulricehamns IFK
 home_score: 0
 away_score: 0
 venue: Hammarviken Arena, Mölndal
-featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/07/e7401456.jpg
+featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/07/e7401479.jpg
 instagram_url: https://www.instagram.com/p/DbQ18eYiF71/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 excerpt: >-
   Hammarviken Arena, Mölndal, 25 juli 2026. 
