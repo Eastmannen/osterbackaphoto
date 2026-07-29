@@ -3,6 +3,8 @@ title: FC Trollhättan - Ulricehamns IFK
 date: 2026-06-20T10:32:34
 post_type: match
 sport: fotboll
+sports:
+  - fotboll
 club: Ulricehamns IFK
 series: Div1 Mellersta
 home_team: FC Trollhättan
@@ -11,6 +13,7 @@ home_score: 1
 away_score: 0
 venue: Edsborgs IP, Trollhättan
 featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7400721.jpg
+instagram_url: https://www.instagram.com/p/DZzVooQCN3i/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 excerpt: Ulricehamns IFK förlorade torsdagens match mot formstarka FC
   Trollhättan med 1–0. Matchens enda mål kom efter en omdiskuterad situation
   framför UIFK:s mål. Det som borde ha varit en frispark för UIFK…
@@ -76,8 +79,6 @@ images:
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7401309.jpg
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7401319.jpg
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7401344.jpg
-sports:
-  - fotboll
 ---
 
 Ulricehamns IFK förlorade torsdagens match mot formstarka FC Trollhättan med 1–0.
