@@ -14,6 +14,11 @@ collections:
     create: true
     slug: "{{slug}}"
     identifier_field: title
+    sortable_fields:
+      fields: ["date", "title"]
+      default:
+        field: "date"
+        direction: "descending"
     fields:
       - label: "Rubrik"
         name: "title"
