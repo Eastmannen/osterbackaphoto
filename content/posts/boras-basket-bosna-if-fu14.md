@@ -71,6 +71,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/12/e7407935.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/12/e7407962-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/12/e7407981.jpg"
+sport: "basket"
 ---
 
 Kyllaredshallen, Borås, 2023-12-16.

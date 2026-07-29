@@ -73,6 +73,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7407762.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7407767.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7407788.jpg"
+sport: "futsal"
 ---
 
 Seger 6-2 för Borås AIK mot Uddevalla FC i Boråshallen, 2023-01-16.

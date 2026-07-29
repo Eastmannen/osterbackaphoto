@@ -73,6 +73,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/12/e7408757.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/12/e7408768.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/12/e7408784.jpg"
+sport: "futsal"
 ---
 
 RFL Dam Götaland, Boråshallen 2024-12-16. Seger med 12-1 för BAIK Futsal.

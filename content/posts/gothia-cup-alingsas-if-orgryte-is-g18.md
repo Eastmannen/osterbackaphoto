@@ -6,7 +6,7 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Alingsås IF"
-home_team: "Gothia Cup, Alingsås IF"
+home_team: "Alingsås IF (F19)"
 away_team: "Örgryte IS, G18."
 home_score: 6
 away_score: 0
@@ -73,6 +73,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7406770.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7406774.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7406785.jpg"
+sport: "fotboll"
+series: "Gothia Cup 2023"
 ---
 
 Dag 3 slutade med en seger med 6-0 mot Örgryte IS. Det bertyder att Alingsås IF vinner grupp 6 i G18 med 9 poäng, 22 gjorda mål och 0 insläppta mål.

@@ -71,6 +71,10 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/04/e7403112.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/04/e7403122.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/04/e7403219.jpg"
+sport: "innebandy"
+home_team: "Fristad GoIF"
+away_team: "Alingsås IBK"
+venue: "Fristadhallen, Fristad"
 ---
 
 Fristad GoIF - Alingsås IBK, match 2 i kvalet till Allsvenskan slutade med en promenadseger för Fristad GoIF med 6-2. Grattis Fristad GoIF till allsvenskt spel 2023/24.

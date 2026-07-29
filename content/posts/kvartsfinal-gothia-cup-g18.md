@@ -59,6 +59,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7400419.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7400446.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7400421.jpg"
+sport: "fotboll"
+series: "Gothia Cup 2024"
 ---
 
 Kvartsfinal i Gothia Cup G18 för Alingsås IF mot OC Surf North från USA. Matchen slutade med en klar 6-0 seger där målskyttarna för Alingsås IF var Thea Prodér, Elina Österbacka, Tilde Karlsson x2 och Ebba Gabrielsson.

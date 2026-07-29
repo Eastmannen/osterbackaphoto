@@ -36,6 +36,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7400659.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7400664.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7400666.jpg"
+sport: "fotboll"
+series: "Gothia Cup 2024"
 ---
 
 I semifinalen tog tyvärr äventyret slut för Alingsås IF. Där väntade IK Uppsala Fotboll där flertalet av spelarna redan har stor erfarenhet av fotboll på Elitettan-nivå. Stolt över våra tjejer som gjorde en grym turnering och där man når Semifinal för andra året i rad. 6 matcher, 25 mål och 5 insläppta mål. Hatten av för tjejerna!

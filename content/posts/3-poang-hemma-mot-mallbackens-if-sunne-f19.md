@@ -67,6 +67,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7404257.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7404263.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7404268.jpg"
+sport: "fotboll"
+home_team: "Alingsås IF F19"
+away_team: "Mallbackens IF Sunne F19"
 ---
 
 Alingsås IF F19 tog emot Mallbackens IF Sunne F19 i Svenska Spel F19 Höstserie B. Matchen slutade med en övertygande 9-1 seger. Målskyttar för Alingsås IF F19 var Elina Österbacka (3 mål), Thea Prodér (2 mål), Ebba Gabrielsson (1 mål), Kajsa Fransson (1 mål), Moa Strandäng (1 mål) och Agnes Inedahl (1 mål).

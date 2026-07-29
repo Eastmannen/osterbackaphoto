@@ -1,18 +1,17 @@
 ---
 title: 2-2 hemma mot Skultorps IF
-date: 2026-05-10T17:49:57
+date: 2026-05-09 17:49:57
 post_type: match
 sport: fotboll
 club: Ulricehamns IFK
 series: Div 1 Mellersta
-home_team: "2"
-away_team: 2 hemma mot Skultorps IF
+home_team: "Ulricehamns IFK"
+away_team: "Skultorps IF"
 home_score: 2
 away_score: 2
 venue: Lassalyckan, Ulricehamn
 featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/05/e7403200.jpg
-excerpt: Matchen mellan Ulricehamns IFK och Skultorps IF slutade 2-2. UIFK är
-  fortsatt obesegrade.…
+excerpt: Matchen mellan Ulricehamns IFK och Skultorps IF slutade 2-2. UIFK är fortsatt obesegrade.…
 slug: 2-2-hemma-mot-skultorps-if
 images:
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/05/e7403119.jpg

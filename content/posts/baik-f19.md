@@ -32,6 +32,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/01/e7401193.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/01/e7401205.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/01/e7401212.jpg"
+sport: "fotboll"
+venue: "Lyckehallen, Kinna"
 ---
 
 Bilder från F19 Futsal DM i Lyckehallen, Kinna 2025-01-11.

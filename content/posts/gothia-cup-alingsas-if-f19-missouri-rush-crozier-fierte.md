@@ -6,7 +6,7 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Alingsås IF"
-home_team: "Gothia Cup Alingsås IF (F19)"
+home_team: "Alingsås IF (F19)"
 away_team: "Missouri Rush Crozier Fierte"
 home_score: 9
 away_score: 0
@@ -73,6 +73,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7405074-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7405103-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7405120-enhanced-nr.jpg"
+sport: "fotboll"
+series: "Gothia Cup 2023"
 ---
 
 Prioritet Serneke Arena, 2023-07-17.

@@ -69,6 +69,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7400242.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7400248.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7400253.jpg"
+sport: "fotboll"
+venue: "Kungshamn"
 ---
 
 Några bilder från träningslägret för Alingsås IF F17 och F19 , Kungshamn (2023-07-31 - 2027-08-03)

@@ -57,6 +57,10 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7403644.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7403656.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7403667.jpg"
+sport: "futsal"
+home_team: "Borås AIK"
+away_team: "FC Vrhnika"
+venue: "Boråshallen"
 ---
 
 Boråshallen, 2025-08-30. Bilder från gruppfinalen mellan BAIK Futsal och FC Vrhnika från Slovenien som slutade 1-5.

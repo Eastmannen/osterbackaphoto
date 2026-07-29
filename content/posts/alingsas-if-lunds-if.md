@@ -59,6 +59,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7408788.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7408792.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7408804.jpg"
+sport: "fotboll"
+series: "Gothia Cup 2024"
 ---
 
 Gothia Cup G18, Grupp 7, Kortedalavallen, 2024-07-17. Seger med 5-0 för Alingsås IF. Gruppsegrare. Totalt 13 mål gjorda och 2 insläppta. Imorgon 1/8-dels final.

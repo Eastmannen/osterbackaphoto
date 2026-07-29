@@ -40,6 +40,11 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/04/e7402331.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/04/e7402363.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/04/e7402375.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+home_team: "Svärtinge SK"
+away_team: "Ulrichehamns IFK"
+venue: "Billbäcks Arena, Sväringe"
 ---
 
 Ulricehamns IFK tog sin andra seger borta mot Svärtinge SK. Matchen slutade dock bara med 1-0 trots att Ulricehamn ägde större delen av matchen.

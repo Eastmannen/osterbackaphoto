@@ -60,6 +60,11 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7409307.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7409312.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7409316.jpg"
+sport: "fotboll"
+series: "Träningsmatch"
+home_team: "Ulricehamns IFK"
+away_team: "Mariebo IK"
+venue: "Lassalyckan, Ulricehamn"
 ---
 
 21 och 22 mars 2025. Bilder från Ulricehamns IFKs matcher mot Mariebo IK (träningsmatch) och Södra Vings IF (DM-match). Förlust mot Mariebo med 4-5 och seger med 10-0 mot Södra Vings IF.

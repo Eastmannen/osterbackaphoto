@@ -56,6 +56,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/05/e7405427.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/05/e7405447-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/05/e7405462.jpg"
+sport: "fotboll"
 ---
 
 Fredagkväll, Mjörnvallen, Alingsås den 24 maj 2024. Hemmamatch mot Jitex som tyvärr slutar med förlust 2-3.

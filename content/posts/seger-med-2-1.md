@@ -1,19 +1,17 @@
 ---
 title: Seger med 2-1
-date: 2026-05-25T22:02:31
+date: 2026-05-24 22:02:31
 post_type: match
 sport: fotboll
 club: Ulricehamns IFK
 series: Div 1 Mellersta
-home_team: Seger med 2
-away_team: "1"
+home_team: "Ulricehamns IFK"
+away_team: "IK Viljan Strängnäs"
 home_score: 2
 away_score: 1
 venue: Lassalyckan, Ulricehamn
 featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/05/e7405168.jpg
-excerpt: 24 maj 2026, Lassalyckan, Ulricehamn. Ulricehamns IFK tar 3 nya poäng
-  genom segern över IK Viljan Strängnäs med 2-1. Tjejerna är fortfarande
-  obesegrade efter 8 omgångar (4 vinster och 4 oavgjorda) oc…
+excerpt: 24 maj 2026, Lassalyckan, Ulricehamn. Ulricehamns IFK tar 3 nya poäng genom segern över IK Viljan Strängnäs med 2-1. Tjejerna är fortfarande obesegrade efter 8 omgångar (4 vinster och 4 oavgjorda) oc…
 slug: seger-med-2-1
 images:
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/05/e7403896.jpg

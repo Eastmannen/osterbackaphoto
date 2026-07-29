@@ -1,14 +1,14 @@
 ---
 title: "Säsongens sista match"
-date: 2025-10-05T17:10:23
+date: 2025-10-04 17:10:23
 slug: "sasongens-sista-match"
 post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-series: "Division 1. </P>"
-home_score: 3
-away_score: 1
+series: "Div 2 NÖ Götaland"
+home_score: 1
+away_score: 3
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/10/e7408375-1.jpg"
 excerpt: "Säsongens sista match för Ulricehamns IFK borta mot Bankeryds SK i ett regnigt oktoberväder. Matchen slutade seger med 3-1 för Ulricehamn som därmed har 20 vinster, 1 oavgjord och 1 förlust i serien. …"
 images:
@@ -38,6 +38,10 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/10/e7408518.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/10/e7408534.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/10/e7408541.jpg"
+sport: "fotboll"
+home_team: "Bankeryds SK"
+away_team: "Ulrichehamns IFK"
+venue: "Furuvik, Bankeryd"
 ---
 
 Säsongens sista match för Ulricehamns IFK borta mot Bankeryds SK i ett regnigt oktoberväder. Matchen slutade seger med 3-1 för Ulricehamn som därmed har 20 vinster, 1 oavgjord och 1 förlust i serien. Nästa år väntar division 1.

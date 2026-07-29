@@ -11,7 +11,7 @@ home_team: "Eleganterna"
 away_team: "Smedjans IF"
 home_score: 12
 away_score: 8
-venue: "Gamla Fristadhallen, fredag"
+venue: "Fristadhallen"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7401254.jpg"
 excerpt: "Div 3 Västra Götaland, Gamla Fristadhallen, fredag den 9 februari 2024. Seger för Eleganterna (Fristad GoIF Utveckling) mot Smedjans IF med 12-8. Bilder från den 3:e perioden.…"
 images:
@@ -43,6 +43,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7401491.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7401506.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7401528.jpg"
+sport: "innebandy"
 ---
 
 Div 3 Västra Götaland, Gamla Fristadhallen, fredag den 9 februari 2024. Seger för Eleganterna (Fristad GoIF Utveckling) mot Smedjans IF med 12-8. Bilder från den 3:e perioden.

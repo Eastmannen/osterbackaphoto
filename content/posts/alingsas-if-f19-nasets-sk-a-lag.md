@@ -10,7 +10,7 @@ home_team: "Alingsås IF (F19)"
 away_team: "Näsets SK (A-lag)"
 home_score: 2
 away_score: 0
-venue: "Träningsmatch på Noltorpsvallen, Alingsås"
+venue: "Noltorpsvallen, Alingsås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7406298.jpg"
 excerpt: "Träningsmatch på Noltorpsvallen, Alingsås, mot Näsets SK (A-lag) i värsta regnet. Matchen slutar med seger för AIF med 2-0. 2023-03-25.…"
 images:
@@ -71,6 +71,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7407031.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7407069.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7407084.jpg"
+sport: "fotboll"
+series: "Träningsmatch"
 ---
 
 Träningsmatch på Noltorpsvallen, Alingsås, mot Näsets SK (A-lag) i värsta regnet. Matchen slutar med seger för AIF med 2-0. 2023-03-25.

@@ -73,6 +73,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/12/e7400099.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/12/e7400126.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/12/e7400147-enhanced-nr.jpg"
+sport: "futsal"
+venue: "Boråshallen"
 ---
 
 Seger med 7-3 för BAIK Futsal mot Skoftebyns IF i RFL Götaland. Målskyttar Elina Österbacka (3), Madde Mårtensson (2), Frida Rångemyr (1), Donika Shala (1).

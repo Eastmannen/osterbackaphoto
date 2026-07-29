@@ -4,13 +4,13 @@ date: 2023-03-18T09:53:26
 slug: "skepplanda-btk-a-lag-alingsas-if-f19"
 post_type: "match"
 sports:
-  - "tennis"
+  - "fotboll"
 club: "Alingsås IF"
 home_team: "Skepplanda BTK (A"
 away_team: "lag) - Alingsås IF (F19)"
-home_score: 5
-away_score: 3
-venue: "Träningsmatch borta mot Skepplandas A-lag (div II) på Forsvallens Konstgräs. Började tungt med 2 måls underläge. Men sen arbetade sig Alingsås in i matchen och vann till slut m, ed"
+home_score: 3
+away_score: 5
+venue: "Forsvallen, Skepplanda"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7406190-1.jpg"
 excerpt: "Träningsmatch borta mot Skepplandas A-lag (div II) på Forsvallens Konstgräs. Började tungt med 2 måls underläge. Men sen arbetade sig Alingsås in i matchen och vann till slut med 5-3.…"
 images:
@@ -73,6 +73,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7406211.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7406270.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7406279.jpg"
+sport: "fotboll"
+series: "Träningsmatch"
 ---
 
 Träningsmatch borta mot Skepplandas A-lag (div II) på Forsvallens Konstgräs. Började tungt med 2 måls underläge. Men sen arbetade sig Alingsås in i matchen och vann till slut med 5-3.

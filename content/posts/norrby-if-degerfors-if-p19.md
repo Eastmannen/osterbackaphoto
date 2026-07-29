@@ -5,7 +5,7 @@ slug: "norrby-if-degerfors-if-p19"
 post_type: "match"
 sports:
   - "fotboll"
-series: "Superettan Södra Där Norrby If"
+series: "P19 Superettan"
 home_team: "Norrby IF"
 away_team: "Degerfors IF P19"
 home_score: 2
@@ -74,6 +74,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7401631.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7401659.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7401663.jpg"
+sport: "fotboll"
+club: "Norrby IF"
 ---
 
 Ramnavallen, Borås 2025-08-19. Bilder från P19 Superettan Södra där Norrby IF tog emot Degerfors IF. Degerfors tog ledningen och ledde med 0-2, men Norrby IF kom ikapp och matchen slutade 2-2.

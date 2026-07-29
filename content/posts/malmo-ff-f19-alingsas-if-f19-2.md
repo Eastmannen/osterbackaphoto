@@ -65,6 +65,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7403720.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7403727.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7403736.jpg"
+sport: "fotboll"
+venue: "Malmö"
 ---
 
 Alingsås mötte serieledarna Malmö FF i en jämn och hård match i Svenska Spel F19 Höstserien. Malmö gick dock segrande ur striden med 1-0. Alingsås IF ligger fortsatt kvar på andra plats i serien.

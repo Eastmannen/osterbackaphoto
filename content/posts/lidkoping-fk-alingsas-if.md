@@ -10,7 +10,7 @@ home_team: "Lidköping FK"
 away_team: "Alingsås IF"
 home_score: 3
 away_score: 1
-venue: "stserien borta mot Lidköping på Lockörns IP. Mål av Ebba Gabrielsson, Elina"
+venue: "Lockörns IP, Lidköping"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/08/e7401438.jpg"
 excerpt: "Seger med 3-1 för Alingsås IF F19 i Svenska Spel F19 Höstserien borta mot Lidköping på Lockörns IP. Mål av Ebba Gabrielsson, Elina Österbacka och Märta Rhodin.…"
 images:
@@ -72,6 +72,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/08/e7401396-2.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/08/e7401409-2.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/08/e7401438-2.jpg"
+sport: "fotboll"
 ---
 
 Seger med 3-1 för Alingsås IF F19 i Svenska Spel F19 Höstserien borta mot Lidköping på Lockörns IP. Mål av Ebba Gabrielsson, Elina Österbacka och Märta Rhodin.

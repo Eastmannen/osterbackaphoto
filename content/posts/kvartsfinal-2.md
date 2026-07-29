@@ -8,7 +8,7 @@ sports:
 club: "Borås AIK"
 home_score: 14
 away_score: 1
-venue: "en andra kvartsfinalmatchen hemma i Boråshallen. Totalt blev resultatet 19-5 för BAIK Futs, al"
+venue: "Boråshallen"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7407251.jpg"
 excerpt: "BAIK Futsal besgrade IFK Kumla med 14-1 i den andra kvartsfinalmatchen hemma i Boråshallen. Totalt blev resultatet 19-5 för BAIK Futsal.…"
 images:
@@ -72,6 +72,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7407101.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7407107.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7407129.jpg"
+sport: "futsal"
+home_team: "BAIK Futsal"
+away_team: "IFK Kumla"
 ---
 
 BAIK Futsal besgrade IFK Kumla med 14-1 i den andra kvartsfinalmatchen hemma i Boråshallen. Totalt blev resultatet 19-5 för BAIK Futsal.

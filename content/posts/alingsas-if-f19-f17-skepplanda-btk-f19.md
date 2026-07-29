@@ -73,6 +73,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/06/e7403077.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/06/e7403100.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/06/e7403108.jpg"
+sport: "tennis"
+series: "DM F19"
+venue: "Alströmmervallen, Alingsås"
 ---
 
 DM F19 Västra Götaland, Alströmmervallen, 2023-06-28. Seger för Alingsås IF F19/F17 med 9-0.

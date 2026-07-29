@@ -6,11 +6,11 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-series: "Div 2 För Ulriehamns Ifk. </P>"
+series: "Div 2 NÖ Götaland"
 home_team: "Tranås IF"
-away_team: "UIFK"
-home_score: 4
-away_score: 1
+away_team: "Ulricehamns IFK"
+home_score: 1
+away_score: 4
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7402960-1.jpg"
 excerpt: "Seger med 4-1 borta mot Tranås IF. Fortsatt serieledning i div 2 för Ulriehamns IFK.…"
 images:
@@ -58,6 +58,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7403142.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7403153.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7403163.jpg"
+sport: "fotboll"
+venue: "Bredtorps IP, Tranås"
 ---
 
 Seger med 4-1 borta mot Tranås IF. Fortsatt serieledning i div 2 för Ulriehamns IFK.

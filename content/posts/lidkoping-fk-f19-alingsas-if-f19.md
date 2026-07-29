@@ -10,7 +10,7 @@ home_team: "Lidköpings FK F19"
 away_team: "Alingsås IF F19"
 home_score: 1
 away_score: 1
-venue: "stserie B borta i Lidköping på Locktörns IP. Matchen slutar 1-1 trots stort spelövertag för Alingsås, IF"
+venue: "Locktörns IP, Lidköping"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7405140.jpg"
 excerpt: "Seriematch F19 Allsvenskan Höstserie B borta i Lidköping på Locktörns IP. Matchen slutar 1-1 trots stort spelövertag för Alingsås IF F19.…"
 images:
@@ -74,6 +74,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7405359.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7405372.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7405383.jpg"
+sport: "fotboll"
 ---
 
 Seriematch F19 Allsvenskan Höstserie B borta i Lidköping på Locktörns IP. Matchen slutar 1-1 trots stort spelövertag för Alingsås IF F19.

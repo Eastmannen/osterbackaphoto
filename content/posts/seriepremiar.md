@@ -6,7 +6,7 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-series: "Smedbyn Ais I Div 1 Me"
+series: "Div 1 Mellersta"
 home_score: 2
 away_score: 2
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/04/e7408008.jpg"
@@ -72,6 +72,10 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/04/e7408574.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/04/e7408598.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/04/e7408638.jpg"
+sport: "fotboll"
+home_team: "Ulricehamns IFK"
+away_team: "Smedby AIS"
+venue: "Lassalyckan, Ulrichehamn"
 ---
 
 Seriepremiär för Ulricehamns IFK hemma mot Smedbyn AIS i div 1 mellersta som slutar 2-2. Smedbyn AIS kom 4:a förra året och räknas som en av topplagen tillsammans med FC Trollhättan.

@@ -8,7 +8,7 @@ sports:
 club: "Fristad GoIF"
 home_team: "Fristad GoIF"
 away_team: "FBC Lerum"
-venue: "Fristadhallen 2023-08-13, träningsmatch"
+venue: "Fristadhallen"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7403546-enhanced-nr.jpg"
 excerpt: "Fristadhallen 2023-08-13, träningsmatch mellan Fristad GoIF - FBC Lerum.…"
 images:
@@ -72,6 +72,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7403512-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7403531-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7403540.jpg"
+sport: "innebandy"
+series: "Träningsmatch"
 ---
 
 Fristadhallen 2023-08-13, träningsmatch mellan Fristad GoIF - FBC Lerum.

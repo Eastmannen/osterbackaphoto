@@ -74,6 +74,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/05/e7406268.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/05/e7406275.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/05/e7406281.jpg"
+sport: "fotboll"
 ---
 
 Alströmervallen, Alingsås, 2023-05-01.  Seger för AIF med 4-1.

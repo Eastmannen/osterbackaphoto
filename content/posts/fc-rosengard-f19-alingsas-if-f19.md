@@ -8,7 +8,7 @@ sports:
 club: "Alingsås IF"
 home_team: "FC Rosengård (F19)"
 away_team: "Alingsås IF (F19)"
-venue: "Malmö IP. Alingsås inleder matchen väldigt lamt och redan efter 21 minuter står det 3-0 till FC Rosengård. Under inledningen av andra halvlek kommer Alingsås tillbaka och pressar Rosengård. 3-1 i 61:e minuten och med lite stolpe in hade Alingsås känn på både 3-2 och 3-3. Men sen rinner tyvärr siffrorna iväg. FC Rosengård var det bättre laget, men"
+venue: "Malmö"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/05/e7407896.jpg"
 excerpt: "2023-05-21, Malmö IP. Alingsås inleder matchen väldigt lamt och redan efter 21 minuter står det 3-0 till FC Rosengård. Under inledningen av andra halvlek kommer Alingsås tillbaka och pressar Rosengård…"
 images:
@@ -72,6 +72,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/05/e7407773.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/05/e7407780.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/05/e7407790.jpg"
+sport: "fotboll"
+series: "F19 Allsvenskan"
 ---
 
 2023-05-21, Malmö IP. Alingsås inleder matchen väldigt lamt och redan efter 21 minuter står det 3-0 till FC Rosengård. Under inledningen av andra halvlek kommer Alingsås tillbaka och pressar Rosengård. 3-1 i 61:e minuten och med lite stolpe in hade Alingsås känn på både 3-2 och 3-3. Men sen rinner tyvärr siffrorna iväg. FC Rosengård var det bättre laget, men stundtals kunder Alingsås spela riktigt bra. Nya tag nästa vecka.

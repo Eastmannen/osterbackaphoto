@@ -73,6 +73,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7400352.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7400374.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7400389.jpg"
+sport: "fotboll"
 ---
 
 Träningsmatch mellan Eriksbergs IF (A-lag) och Alingsås IF F19, Rosenhill, Göteborg. Seger med 3-0. Målskyttar Kajsa Fransson, Elina Österbacka och Märta Rhodin.

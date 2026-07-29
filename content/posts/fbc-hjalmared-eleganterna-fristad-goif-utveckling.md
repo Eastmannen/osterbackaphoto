@@ -58,6 +58,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7407914.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7407917.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7407929.jpg"
+sport: "innebandy"
+venue: "Hjälmared"
 ---
 
 En hall mitt ute på åkern i Hjälmared, Alingsås en mörk fredagkväll i november. Div 3. Eleganterna intar Hjälmared. Underhållning på hög nivå på många sätt. Tyvärr förlust för Eleganterna.

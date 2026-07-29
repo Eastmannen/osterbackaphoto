@@ -46,6 +46,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/06/e7406758.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/06/e7406774.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/06/e7406777.jpg"
+sport: "fotboll"
 ---
 
 Alströmervallen, Alingsås, 2024-06-24.

@@ -62,6 +62,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7403124.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7403134.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7403139.jpg"
+sport: "fotboll"
+venue: "Mjörnvallen, Alingsås"
 ---
 
 Mjörnvallen, 8 september, 28 grader varmt och en stor hemmaseger för Alingsås IF F19 mot Sunnanå SK F19 med 7-2. Siffrorna hade faktiskt kunnat varit ännu större. Extra kul att det är 7 olika målskyttar för alla målen.

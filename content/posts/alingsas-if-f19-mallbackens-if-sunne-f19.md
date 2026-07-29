@@ -57,6 +57,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/05/e7403730.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/05/e7403736.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/05/e7403745.jpg"
+sport: "fotboll"
 ---
 
 Mjörnvallen, Alingsås, lördag den 4 maj 2024. En match där spelet och bollen inte riktigt rullar som den ska. Matchen slutar 2-2.

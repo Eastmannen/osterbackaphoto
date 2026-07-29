@@ -10,7 +10,7 @@ home_team: "Alingsås IF"
 away_team: "PV United Guerrero"
 home_score: 4
 away_score: 2
-venue: "Kviberg plan 17. Seger i öppningsmatchen med 4-2 på en leråk, er"
+venue: "Göteborg"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7407440-2.jpg"
 excerpt: "Gothia Cup G18 Grupp 7, Kviberg plan 17. Seger i öppningsmatchen med 4-2 på en leråker.…"
 images:
@@ -74,6 +74,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7408156.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7408169.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7408173.jpg"
+sport: "fotboll"
+series: "Gothia Cup 2024"
 ---
 
 Gothia Cup G18 Grupp 7, Kviberg plan 17. Seger i öppningsmatchen med 4-2 på en leråker.

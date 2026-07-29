@@ -6,7 +6,7 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-series: "Div 2 Nö Götaland. </P>"
+series: "Div 2 NÖ Götaland"
 home_team: "Ulricehamns IFK"
 away_team: "FC Vetlanda"
 home_score: 6
@@ -63,6 +63,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7402325.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7402346.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7402363.jpg"
+sport: "fotboll"
+venue: "Lassalyckan, Ulricehamn"
 ---
 
 Enkel seger med 6-0. Upp i serieledning i div 2 NÖ Götaland.

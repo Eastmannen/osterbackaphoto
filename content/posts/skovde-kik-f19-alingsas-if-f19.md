@@ -40,6 +40,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/06/e7406001.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/06/e7406005.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/06/e7406013.jpg"
+sport: "fotboll"
 ---
 
 DM Västra Götaland, förlust med 4-2.

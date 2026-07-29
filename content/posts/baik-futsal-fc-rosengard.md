@@ -10,7 +10,7 @@ home_team: "BAIK Futsal"
 away_team: "FC Rosengård"
 home_score: 4
 away_score: 1
-venue: "Seriepremiär hemma i Boråshallen för BAIK Futsal mot FC Rosengård. Seger m, ed"
+venue: "Boråshallen"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7405872.jpg"
 excerpt: "Seriepremiär hemma i Boråshallen för BAIK Futsal mot FC Rosengård. Seger med 4-1. 2023-10-21,…"
 images:
@@ -52,6 +52,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7406166-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7406177-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7406202.jpg"
+sport: "futsal"
 ---
 
 Seriepremiär hemma i Boråshallen för BAIK Futsal mot FC Rosengård. Seger med 4-1. 2023-10-21,

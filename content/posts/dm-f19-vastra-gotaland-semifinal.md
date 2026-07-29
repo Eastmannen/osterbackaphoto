@@ -6,7 +6,7 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Alingsås IF"
-venue: "F19/F17 mot Vara SK F19 borta på Bendersvallen i Vara klockan 19:00 en onsdagkväll. Trots en mycket blek insats av Alingsås så vinner man matchen lekande lätt mot Vara. Målskyttar Ida Peterson, Elina"
+venue: "Bendersvallen, Vara"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/omslag-1.jpg"
 excerpt: "Alingsås IF F19/F17 mot Vara SK F19 borta på Bendersvallen i Vara klockan 19:00 en onsdagkväll. Trots en mycket blek insats av Alingsås så vinner man matchen lekande lätt mot Vara. Målskyttar Ida Pete…"
 images:
@@ -64,6 +64,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7404757.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7404773.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7404777.jpg"
+sport: "fotboll"
 ---
 
 Alingsås IF F19/F17 mot Vara SK F19 borta på Bendersvallen i Vara klockan 19:00 en onsdagkväll. Trots en mycket blek insats av Alingsås så vinner man matchen lekande lätt mot Vara. Målskyttar Ida Peterson, Elina Österbacka, Nadja Carlman, Kajsa Fransson och Tilde Karlsson.

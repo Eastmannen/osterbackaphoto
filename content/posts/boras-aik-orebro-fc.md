@@ -8,7 +8,7 @@ sports:
 club: "Borås AIK"
 home_team: "Borås AIK"
 away_team: "Örebro FC"
-venue: "Boråshallen 11 decemb, er"
+venue: "Boråshallen"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2022/12/e7401979-1.jpg"
 excerpt: "Boråshallen 11 december 2022.…"
 images:
@@ -72,6 +72,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2022/12/e7402882-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2022/12/e7402919-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2022/12/e7402952-1.jpg"
+sport: "futsal"
 ---
 
 Boråshallen 11 december 2022.

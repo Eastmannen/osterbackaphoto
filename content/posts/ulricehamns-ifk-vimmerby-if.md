@@ -43,6 +43,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7408684.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7408694.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7408737.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+venue: "Lassalyckan, Ulricehamn"
 ---
 
 11 raka utan förlust för Ulricehamns IFK. I returmötet med Vimmerby IF hemma på Lassalyckan vann Ulricehamn med 2-0.

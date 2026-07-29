@@ -7,7 +7,7 @@ sports:
   - "fotboll"
 club: "Ulricehamns IFK"
 home_team: "Ulricehamns IFK"
-away_team: "Toarpsalliansen"
+away_team: "Dalsjöfors GoIF"
 home_score: 5
 away_score: 0
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7403986-1.jpg"
@@ -67,6 +67,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7404185.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7404201.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7404223.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+venue: "Lassalyckan, Ulricehamn"
 ---
 
 Målkalas i andra halvlek! Ulricehamns IFK levererade säsongens första storseger med 5–0 mot Toarpsalliansen.

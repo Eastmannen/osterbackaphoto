@@ -73,6 +73,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7405562-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7405587.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7405600.jpg"
+sport: "futsal"
+venue: "Boråshallen"
 ---
 
 Kvartsfinal 1 RFL, BAIK Futsal - Södertälje FC, Boråshallen, 2024-03-03. Seger med 7-3 i första matchen.

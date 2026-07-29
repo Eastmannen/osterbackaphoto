@@ -6,8 +6,8 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-home_team: "UIFK"
-away_team: "AIF"
+home_team: "Ulrichehamns IFK"
+away_team: "Alingsås IF"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/03/e7407086-1.jpg"
 excerpt: "Bilder från träningsmatchen mellan Ulricehamns IFK och Alingsås IF.…"
 images:
@@ -37,6 +37,11 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/03/e7407062.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/03/e7407092.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/03/e7407086.jpg"
+sport: "fotboll"
+series: "Träningsmatch"
+home_score: 0
+away_score: 5
+venue: "Lassalyckan, Ulrichehamn"
 ---
 
 Bilder från träningsmatchen mellan Ulricehamns IFK och Alingsås IF.

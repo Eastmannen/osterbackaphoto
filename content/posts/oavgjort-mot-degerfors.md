@@ -6,7 +6,7 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-series: "Division 1 Mellersta.</P>"
+series: "Div 1 Mellersta"
 home_score: 1
 away_score: 1
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/04/e7400105-1.jpg"
@@ -72,6 +72,10 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/04/e7409915.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/04/e7409919.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/04/e7409923.jpg"
+sport: "fotboll"
+home_team: "Degerfors IF"
+away_team: "Ulricehamns IFK"
+venue: "Stora Valla, Degerfors"
 ---
 
 Nykomlingen Ulricehamns IFK spelade 1–1 borta mot Degerfors IF under lördagseftermiddagen i division 1 mellersta.

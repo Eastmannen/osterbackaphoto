@@ -63,6 +63,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/12/e7402896.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/12/e7402901-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/12/e7402937-enhanced-nr.jpg"
+sport: "futsal"
+venue: "Boråshallen"
 ---
 
 Lusseblixten 2023 i Boråshallen, 2023-12-01, blev en seger för BAIK Futsal för både herrar och damer.

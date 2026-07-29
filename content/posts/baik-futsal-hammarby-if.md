@@ -10,7 +10,7 @@ home_team: "BAIK Futsal"
 away_team: "Hammarby IF"
 home_score: 3
 away_score: 0
-venue: "Boråshallen, Svenska"
+venue: "Boråshallen"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/01/e7401521-enhanced-nr-1.jpg"
 excerpt: "Boråshallen, Svenska Futsalligan, BAIK Futsal - Hammarby IF. Seger med 3-0 för BAIK Futsal.…"
 images:
@@ -66,6 +66,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/01/e7401876.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/01/e7401887.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/01/e7401892.jpg"
+sport: "futsal"
 ---
 
 Boråshallen, Svenska Futsalligan, BAIK Futsal - Hammarby IF.  Seger med 3-0 för BAIK Futsal.

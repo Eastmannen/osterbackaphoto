@@ -56,6 +56,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7403226.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7403236.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7403240.jpg"
+sport: "annat"
+venue: "Borås"
 ---
 
 Valborgsafton i Borås.

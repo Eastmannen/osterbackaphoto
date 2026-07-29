@@ -8,7 +8,7 @@ sports:
 club: "Borås AIK"
 home_team: "BAIK Futsal"
 away_team: "IFK Göteborg Futsal"
-venue: "Boråshallen, söndag"
+venue: "Boråshallen"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/01/e7400058.jpg"
 excerpt: "Boråshallen, söndag den 28 januari 2024. Svenska futsalligan. Seger för BAIK Futsal.…"
 images:
@@ -51,6 +51,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/01/e7409952-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/01/e7409989-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/01/e7400888.jpg"
+sport: "futsal"
 ---
 
 Boråshallen, söndag den 28 januari 2024. Svenska futsalligan. Seger för BAIK Futsal.

@@ -48,6 +48,11 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7407408.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7407427.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7407431.jpg"
+sport: "fotboll"
+series: "Träningsmatch"
+home_team: "Alingsås IF"
+away_team: "Walddörfer SV Hamburg"
+venue: "Alströmmervallen, Alingsås"
 ---
 
 Träningsmatch för Alingsås IF F19 inför Gothia G18 mot Walddörfer SV Hamburg från Tyskland. Matchen slutade med 7-0. Målskyttar Agnes Inedah, Thea Prodér, Ellen Eklund x2, Elina Österbacka x2, Ebba Gabrielsson.

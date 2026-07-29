@@ -6,8 +6,8 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-home_team: "Seger med 6"
-away_team: "1"
+home_team: "Ulricehamns IFK"
+away_team: "Lindö FF"
 home_score: 6
 away_score: 1
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7403704-1.jpg"
@@ -73,6 +73,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7404138.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7404142.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7404143.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+venue: "Lassalyckan, Ulricehamn"
 ---
 
 Lassalyckan, 2025-09-06. Ulricehamns besegrade Lindö FF väldigt enkelt med 6-1.

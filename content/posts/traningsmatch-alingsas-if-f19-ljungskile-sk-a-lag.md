@@ -60,6 +60,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7409640.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7409648.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7409655.jpg"
+sport: "fotboll"
 ---
 
 Träningsmatch för Alingsås IF F19 mot Ljungskile SK (A-lag) från div 1. Första 5 minuterna står tyvärr tjejerna och sover och släpper in 2 mål. Men sen kommer står Alingsås IF F19 bra upp mot Ljungskile och till och med för matchen under stora delar av matchen. Dock är Ljungskile vassare på fasta situationer och starkare i närkamperna vilket de nyttjar väl och vinner matchen med 5-1.

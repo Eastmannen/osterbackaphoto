@@ -62,6 +62,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/03/e7407809.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/03/e7407835.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/03/e7407850.jpg"
+sport: "fotboll"
+series: "Träningsmatch"
+venue: "Lassalyckan, Ulrichehamn"
 ---
 
 Första halvlek var en svag insats av UIFK, som gick till halvtidsvila med 1–3. I andra halvlek var det däremot spel mot ett mål, med endast något enstaka anfall från Värnamo. Tyvärr slutade matchen 2–3, men om tjejerna spelar som de gjorde i andra halvlek bådar det gott inför seriestarten.

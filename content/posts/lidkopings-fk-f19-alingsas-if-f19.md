@@ -72,6 +72,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/05/e7404853.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/05/e7404859.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/05/e7404863.jpg"
+sport: "fotboll"
 ---
 
 19 maj 2024, Lockörns IP, Lidköping. Match mellan Lidköpings FK F19 och Alingsås IF F19 i Svenska Spel F19 vårserie 2024 där matchen slutar med 1-0 trots ett överväldigande spelövertag för Alingsås IF F19. Andra halvlek är i stort sett bara spel mot Lidköpings mål. Orättvist, men så är det i fotboll ibland.

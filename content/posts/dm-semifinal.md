@@ -8,7 +8,7 @@ sports:
 club: "Alingsås IF"
 home_score: 1
 away_score: 1
-venue: "Alingsås IF och IF Elfsborg på Alströmervallen i Alings, ås"
+venue: "Alströmmervallen, Alingsås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7402557.jpg"
 excerpt: "DM-Semifinal mellan Alingsås IF och IF Elfsborg på Alströmervallen i Alingsås, 3 september 2024. Alingsås IF hade inte med några startspelare från A-laget utan mestadels spelare från dess F19-lag. IF …"
 images:
@@ -71,6 +71,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7402578.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7402584.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7402585.jpg"
+sport: "fotboll"
 ---
 
 DM-Semifinal mellan Alingsås IF och IF Elfsborg på Alströmervallen i Alingsås, 3 september 2024. Alingsås IF hade inte med några startspelare från A-laget utan mestadels spelare från dess F19-lag. IF Elfsborg ställde upp med spelare både från A-lag och U-lag. Matchen slutade 1-1 och gick till straffar där Alingsås IF gick segrande ur matchen.

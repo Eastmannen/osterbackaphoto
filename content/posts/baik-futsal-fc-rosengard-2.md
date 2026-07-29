@@ -6,7 +6,6 @@ post_type: "match"
 sports:
   - "futsal"
 club: "Borås AIK"
-series: "Sm-Finalen. </P>"
 home_team: "BAIK Futsal"
 away_team: "FC Rosengård"
 home_score: 2
@@ -74,6 +73,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7400503.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7400513-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7400527.jpg"
+sport: "futsal"
+venue: "Boråshallen"
 ---
 
 Seger med 2-1 i semifinal 2 för BAIK Futsal mot FC Rosengård. Nu väntar Hammarby IF i SM-finalen.

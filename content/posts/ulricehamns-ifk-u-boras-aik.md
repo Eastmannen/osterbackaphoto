@@ -5,8 +5,8 @@ slug: "ulricehamns-ifk-u-boras-aik"
 post_type: "match"
 sports:
   - "fotboll"
-club: "Ulricehamns IFK"
-series: "Div 5 Matchen Mellan Ulricehamns If"
+club: "Ulricehamns IFK (U)"
+series: "Div 5 Södra"
 home_team: "Ulricehamns IFK (U)"
 away_team: "Borås AIK"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7407742.jpg"
@@ -48,6 +48,10 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7407740.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7407775.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7407552.jpg"
+sport: "fotboll"
+home_score: 1
+away_score: 2
+venue: "Lassalyckan, Ulricehamn"
 ---
 
 Bilder från div 5 matchen mellan Ulricehamns IFK - Borås AIK.

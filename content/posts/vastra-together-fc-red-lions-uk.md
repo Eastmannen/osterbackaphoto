@@ -42,6 +42,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/02/e7405085.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/02/e7405122.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/02/e7405125.jpg"
+sport: "fotboll"
+club: "Las Vegas, USA"
 ---
 
 2025-02-20, Betty Wilson Soccer Complex, Las Vegas. Träningsmatch mellan Västra Together och Red Lions som slutade med seger för Västra Together.

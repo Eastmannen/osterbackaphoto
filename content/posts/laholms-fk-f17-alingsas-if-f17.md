@@ -73,6 +73,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7404018.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7404044.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7404070.jpg"
+sport: "fotboll"
+venue: "Gläninge Park, Laholm"
 ---
 
 Bortamatch för Alingsås IF (F17) på Glänninge Park i Laholm. Matchen slutade med seger, 2-4. Elina fick spela ca 23 minuter (en assist och ett mål) innan hon fick kliva av pga känning i knät. Övriga mål Sofia Grujovic (1) och Kajsa Fransson (2).

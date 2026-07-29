@@ -6,8 +6,8 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Alingsås IF"
-home_team: "1/8"
-away_team: "dels final"
+home_team: "Alingsås IF"
+away_team: "Midland Independent Schools Lionesses"
 home_score: 6
 away_score: 0
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7409334.jpg"
@@ -73,6 +73,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7409556.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7409570.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/07/e7409578.jpg"
+sport: "fotboll"
+series: "Gothia Cup 2024"
 ---
 
 Det blev en 6-0 seger i 1/8-dels finalen för Alingsås IF mot Midland Independent Schools Lionesses från England. Målskyttar blev Tilde Karlsson, Elina Österbacka x 4 och Märtha Rhodin.

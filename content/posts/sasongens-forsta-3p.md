@@ -6,8 +6,8 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-home_score: 2
-away_score: 0
+home_score: 0
+away_score: 2
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/04/e7401709.jpg"
 excerpt: "Seger med 2-0 borta mot Älvsjö AIK FF för Ulricehamns IFK. Målskyttar Ester Selander (1) och Elina Österbacka (1).…"
 images:
@@ -71,6 +71,11 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/04/e7401347.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/04/e7401378.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/04/e7401388.jpg"
+sport: "fotboll"
+series: "Div 1 Mellersta"
+home_team: "Älvsjö AIK FF"
+away_team: "Ulricehamns IFK"
+venue: "Älvsjö IP, Älvsjö"
 ---
 
 Seger med 2-0 borta mot Älvsjö AIK FF för Ulricehamns IFK. Målskyttar Ester Selander (1) och Elina Österbacka (1).

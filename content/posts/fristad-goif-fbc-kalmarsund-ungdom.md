@@ -73,6 +73,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/e7402980.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/e7402987.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/e7403006.jpg"
+sport: "innebandy"
+venue: "Fristadhallen"
 ---
 
 Hemmapremiär för Fristad GoIF herrar i Allsvenskan Södra mot FBC Kalmarsund. Tyvärr förlust med 6-8.

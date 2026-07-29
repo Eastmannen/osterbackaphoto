@@ -6,10 +6,10 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Alingsås IF"
-home_team: "Gothia Cup, kvartsfinal Näsets SK"
-away_team: "Alingsås IF"
-home_score: 6
-away_score: 5
+home_team: "Näsets SK"
+away_team: "Alingsås IF (F19)"
+home_score: 5
+away_score: 6
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7408959.jpg"
 excerpt: "Valhalla IP, 2023-07-21. Kvartsfinalen mot Näsets SK blev oerhört spännande. Tyvärr lyckas inte Alingsås IF vinna mot Näsets SK på ordinarie speltid trots stort övertag, 0-0. Så det hela fick avgöras…"
 images:
@@ -73,6 +73,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7408899.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7408904.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7408951.jpg"
+sport: "fotboll"
+series: "Gothia Cup 2023"
 ---
 
 Valhalla IP, 2023-07-21.

@@ -66,6 +66,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/02/e7404605.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/02/e7404607.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/02/e7404609.jpg"
+sport: "fotboll"
+series: "Träningsmatch"
+venue: "Lassalyckan, Ulricehamn"
 ---
 
 Lassalyckan, Ulricehamn, 2025-02-15. Träningsmatch mellan Ulricehamns IFK och Alingsås KIK som slutade med seger för Ulricehamn med 3-0.

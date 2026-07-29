@@ -57,6 +57,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7404805.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7404821.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7404824-enhanced-nr.jpg"
+sport: "fotboll"
 ---
 
 Gothia Park, Göteborg 20240926, Svenska Spel F19 Höstserie B. BK Häcken får in 2 mål under de första 18 minuterna. Men Alingsås svarar med 2 mål i matchminut 22 och 27. I andra halvleken gör Alingsås till slut  ett tredje mål och håller sedan ställningen matchen ut. 3P in på kontot. 7 matcher spelade, 5 vinster, 1 oavgjord och 1 förlust.

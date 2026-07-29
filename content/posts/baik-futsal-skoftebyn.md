@@ -10,7 +10,7 @@ home_team: "BAIK Futsal"
 away_team: "Skoftebyn"
 home_score: 4
 away_score: 1
-venue: "Boråshallen 26 mars 2025. BAIK Futsal vinner med 4-1 mot Skofteb, yn"
+venue: "Boråshallen"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7409644-enhanced-nr.jpg"
 excerpt: "Boråshallen 26 mars 2025. BAIK Futsal vinner med 4-1 mot Skoftebyn.…"
 images:
@@ -46,6 +46,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7409836.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7409939.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7409965.jpg"
+sport: "futsal"
 ---
 
 Boråshallen 26 mars 2025. BAIK Futsal vinner med 4-1 mot Skoftebyn.

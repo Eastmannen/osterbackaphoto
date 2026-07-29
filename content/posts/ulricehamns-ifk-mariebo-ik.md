@@ -44,6 +44,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7406636.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7406639.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7406646.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+venue: "Lassalyckan, Ulricehamn"
 ---
 
 Den tidig seriefinal mellan Ulricehamns IFK och Mariebo IK slutade 3-3. Målskyttar Ester Selander, Ebba Fritzon och Clara Sjögren.

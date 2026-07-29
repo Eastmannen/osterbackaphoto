@@ -51,6 +51,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7409973-2.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7400353-2.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7400375-2.jpg"
+sport: "futsal"
 ---
 
 Vinst med 13-6 för Borås AIK i Borås Arena, 2023-01-29.

@@ -7,8 +7,8 @@ sports:
   - "futsal"
 club: "Borås AIK"
 series: "Sm-Final Mellan Baik F"
-home_team: "SM"
-away_team: "final Futsal"
+home_team: "BAIK Futsal"
+away_team: "GAIS"
 home_score: 2
 away_score: 0
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/04/e7401486-1.jpg"
@@ -74,6 +74,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/04/e7400918-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/04/e7400929-2.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/04/e7400931-2.jpg"
+sport: "futsal"
+venue: "Boråshallen"
 ---
 
 SM-final mellan BAIK Futsal och GAIS i Boråshallen, 2023-04-01. Seger för BAIK Futsal med 2-0. Nedan bilder från matchen och firandet efteråt.

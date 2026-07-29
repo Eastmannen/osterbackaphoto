@@ -6,9 +6,9 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-series: "Div 1 Med 2 Omgångar Kvar Av Serien"
-home_score: 4
-away_score: 0
+series: "Div 2 NÖ Götaland"
+home_score: 0
+away_score: 4
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7406926.jpg"
 excerpt: "Ulricehamns IFK besegrade tredjeplacerade Wreta Kloster med 4-0 och säkrade seriesegern och avancemanget till div 1 med 2 omgångar kvar av serien.…"
 images:
@@ -72,6 +72,10 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7406478.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7406500.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7406523.jpg"
+sport: "fotboll"
+home_team: "IFK Wreta Kloster"
+away_team: "Ulricehamns IFK"
+venue: "Kungsbrohov, Vreta Kloster"
 ---
 
 Ulricehamns IFK besegrade tredjeplacerade Wreta Kloster med 4-0 och säkrade seriesegern och avancemanget till div 1 med 2 omgångar kvar av serien.

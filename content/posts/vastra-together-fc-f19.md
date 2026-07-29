@@ -53,6 +53,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/11/e7406326-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/11/e7406335-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/11/e7406362-enhanced-nr.jpg"
+sport: "futsal"
+club: "Västra Together"
+venue: "Torslanda"
 ---
 
 Torslanda Futsal Cup 2024, F19. Västra Together FC gick ända fram till semifinal men förlorade med 1-0 mot Stureby FF, som sen vann finalen mot Nol IK.

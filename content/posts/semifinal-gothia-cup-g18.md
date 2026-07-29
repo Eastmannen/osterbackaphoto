@@ -55,6 +55,10 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7409759.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7409776.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7409778.jpg"
+sport: "fotboll"
+series: "Gothia Cup 2023"
+home_team: "Alingsås IF (F19)"
+away_team: "Jitex BK (F19)"
 ---
 
 Överåsvallen, 2023-07-23.

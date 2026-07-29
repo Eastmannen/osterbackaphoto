@@ -40,6 +40,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/12/e7407774.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/12/e7407775.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/12/e7407783-enhanced-nr.jpg"
+sport: "futsal"
+club: "Västra Together"
 ---
 
 Lyckehallen, 1 december 2024. Förlust med 0-3 mot Södra Härene IF.

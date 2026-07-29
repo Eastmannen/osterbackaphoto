@@ -6,7 +6,7 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Alingsås IF"
-venue: "Lördagsträning på Alströmervallen. Fångade de sista 30 minuterna av träningen på bi, ld"
+venue: "Alströmervallen, Alingsås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7408776.jpg"
 excerpt: "Lördagsträning på Alströmervallen. Fångade de sista 30 minuterna av träningen på bild, 2023-01-21.…"
 images:
@@ -32,6 +32,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7408776.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7408777.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7408651.jpg"
+sport: "fotboll"
 ---
 
 Lördagsträning på Alströmervallen. Fångade de sista 30 minuterna av träningen på bild, 2023-01-21.

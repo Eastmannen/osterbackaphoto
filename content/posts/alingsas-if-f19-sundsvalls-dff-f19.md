@@ -10,7 +10,7 @@ home_team: "Alingsås IF F19"
 away_team: "Sundsvalls DFF F19"
 home_score: 7
 away_score: 2
-venue: "F19 mot Sundsvalls DFF F19 på Alströmmervallen. Matchen slutar med vinst för AIF m, ed"
+venue: "Alströmmervallen, Alingsås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7406317.jpg"
 excerpt: "Sista hemmamatchen i serien (Svenska Spel F19 Höstserie B 2023) för Alingsås IF F19 mot Sundsvalls DFF F19 på Alströmmervallen. Matchen slutar med vinst för AIF med 7-2.…"
 images:
@@ -74,6 +74,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7407050.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7407058.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7407067.jpg"
+sport: "fotboll"
 ---
 
 Sista hemmamatchen i serien (Svenska Spel F19 Höstserie B 2023) för Alingsås IF F19 mot Sundsvalls DFF F19 på Alströmmervallen. Matchen slutar med vinst för AIF med 7-2.

@@ -71,6 +71,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7409966-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7409987-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7410015.jpg"
+sport: "innebandy"
+venue: "Fristadhallen"
 ---
 
 Fristadhallen, 18 november 2023. Fristad GoIF (2013) tog emot Rydboholm (2012) i en fartfylld match.

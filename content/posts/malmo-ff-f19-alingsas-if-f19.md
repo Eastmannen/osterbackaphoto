@@ -52,6 +52,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/05/e7404254.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/05/e7404274.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/05/e7404279.jpg"
+sport: "fotboll"
+venue: "Malmö"
 ---
 
 Malmö, 12 maj 2024. Förlust för AIF. 2-1. Nya tag nästa vecka.

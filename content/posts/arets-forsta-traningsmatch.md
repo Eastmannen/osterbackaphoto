@@ -44,6 +44,11 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/02/e7405388.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/02/e7405409.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/02/e7405419.jpg"
+sport: "fotboll"
+series: "Träningsmatch"
+home_team: "Husqvarna FF"
+away_team: "Ulrichehamns IFK"
+venue: "Rosenlunds IP, Jönköping"
 ---
 
 Ulricehamns IFK gör en mycket stark första träningsmatch som nykomlingar i Division 1 Mellersta. Detta mot Husqvarna FF, som vann Division 1 Mellersta förra säsongen och dessutom under året har förstärkt truppen inför spel i Elitettan, står Ulricehamn upp bra.  Matchen slutade 1-0 till Huskvarna FF.

@@ -69,6 +69,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/12/e7406478-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/12/e7406493-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/12/e7406522-enhanced-nr.jpg"
+sport: "fotboll"
+venue: "Pioritet Serneke Arena, Göteborg"
 ---
 
 Under helgen har Alingsås IF F19 spelat fyra träningsmatcher. Laget har mött IFK Göteborg, Aalborg, Djurgårdens IF och Älvsjö AIK. Alingsås IF F19 vann mot de svenska lagen men förlorade mot danska Aalborg. Detta lovar gott inför säsongen 2024. Nedan bilder från de två första matcherna under lördagen.

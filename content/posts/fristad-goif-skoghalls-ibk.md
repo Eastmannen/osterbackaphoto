@@ -71,6 +71,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7405121.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7405124.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/10/e7405146.jpg"
+sport: "innebandy"
+venue: "Fristadhallen"
 ---
 
 Damer Allsvenskan Södra, Fristadhallen, 2023-10-15. En jämn match som slutar med seger för bortlaget Skoghalls IBK. 5-6.

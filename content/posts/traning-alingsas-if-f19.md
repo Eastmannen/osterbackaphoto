@@ -6,7 +6,7 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Alingsås IF"
-venue: "Träning på Alströmersvallen, Alingsås"
+venue: "Alströmersvallen, Alingsås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7404804-1.jpg"
 excerpt: "Träning på Alströmersvallen, Alingsås 2023-01-11.…"
 images:
@@ -70,6 +70,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7404803-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7404804-2-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7404804-1.jpg"
+sport: "fotboll"
 ---
 
 Träning på Alströmersvallen, Alingsås 2023-01-11.

@@ -8,8 +8,8 @@ sports:
 club: "Ulricehamns IFK"
 home_team: "Toarpsalliansen"
 away_team: "Ulricehamns IFK"
-home_score: 7
-away_score: 1
+home_score: 1
+away_score: 7
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7400785-1.jpg"
 excerpt: "Ulricehamns IFK vann derbyt mot Toarpsalliansen med hela 7-1. Efter en trevande start satt UIFK igång maskineriet från 35 minuten, och gjorde 3 mål på 7 minuter. UIFK fortsätter jaga Mariebo IK som le…"
 images:
@@ -70,6 +70,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7400771.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7400777.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7400785.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+venue: "Gårdavallen, Dalsjöfors"
 ---
 
 Ulricehamns IFK vann derbyt mot Toarpsalliansen med hela 7-1. Efter en trevande start satt UIFK igång maskineriet från 35 minuten, och gjorde 3 mål på 7 minuter. UIFK fortsätter jaga Mariebo IK som leder serien med 1 poäng.

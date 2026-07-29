@@ -6,7 +6,7 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Alingsås IF"
-home_team: "Gothia Cup, Alingsås IF (F17)"
+home_team: "Alingsås IF (F19)"
 away_team: "Maverics SC"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/startbild.jpg"
 excerpt: "Alingsås IF (F17) ångar också på i Gothia Cup. 3 vinster i gruppspelet, 9 mål gjorda och 1 insläppt mål.…"
@@ -33,6 +33,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7407245.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7407262.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7407299.jpg"
+sport: "fotboll"
+series: "Gothia Cup 2023"
 ---
 
 Alingsås IF (F17) ångar också på i Gothia Cup. 3 vinster i gruppspelet, 9 mål gjorda och 1 insläppt mål.

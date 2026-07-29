@@ -65,6 +65,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7403901.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7403910.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7403922.jpg"
+sport: "fotboll"
 ---
 
 Mariebovallen, Jönköping, 2023-07-02. 1-2. Seger för Alingsås.

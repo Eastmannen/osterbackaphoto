@@ -74,6 +74,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/e7407386-2-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/e7407404.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/e7407452.jpg"
+sport: "fotboll"
 ---
 
 Alströmmervallen, Alingsås 10 september 2023. Seger ned 1-0 mot Piteå IF och 3p.

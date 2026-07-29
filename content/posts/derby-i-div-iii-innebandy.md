@@ -8,7 +8,7 @@ sports:
 club: "Fristad GoIF"
 home_score: 6
 away_score: 5
-venue: "Fristadhallen 2023-11-26. En jämn match från start, men"
+venue: "Fristadhallen"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7401655-enhanced-nr.jpg"
 excerpt: "Fristad GoIF Utveckling - Borås IBF, div III, Fristadhallen 2023-11-26. En jämn match från start, men där Fristad GoIF Utveckling, Eleganterna vinner matchen med 6-5. Hatrick av Isak Österbacka.…"
 images:
@@ -53,6 +53,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7401878-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7401887-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7401890-enhanced-nr.jpg"
+sport: "innebandy"
 ---
 
 Fristad GoIF Utveckling - Borås IBF, div III, Fristadhallen 2023-11-26. En jämn match från start, men där Fristad GoIF Utveckling, Eleganterna vinner matchen med 6-5. Hatrick av Isak Österbacka.

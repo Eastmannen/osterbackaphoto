@@ -23,6 +23,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7409863.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7409879.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7409884.jpg"
+sport: "fotboll"
+club: "Alingsås IF"
+series: "Gothia Cup 2023"
 ---
 
 Några bilder från prisutdelningen på Gamla Ullevi, 2023-07-22

@@ -8,7 +8,7 @@ sports:
 club: "Alingsås IF"
 home_score: 2
 away_score: 0
-venue: "F F19 tog emot KIF Örebro DFF på Noltorpsvallen, Alingsås"
+venue: "Noltorpsvallen, Alingsås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7401894.jpg"
 excerpt: "Alingsås den 21 april 2024: Alingsås IF F19 tog emot KIF Örebro DFF på Noltorpsvallen, Alingsås. Matchen slutade 2-0. Målskyttar Elina Österbacka och Tilde Karlsson. Agnes Inedahl och Kajsa Fransson v…"
 images:
@@ -69,6 +69,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7401850.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7401855.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7401894.jpg"
+sport: "fotboll"
 ---
 
 Alingsås den 21 april 2024: Alingsås IF F19 tog emot KIF Örebro DFF på Noltorpsvallen, Alingsås. Matchen slutade 2-0. Målskyttar Elina Österbacka och Tilde Karlsson. Agnes Inedahl och Kajsa Fransson var nära att komma med i målprotokollet med sina ribbträffar.

@@ -69,6 +69,10 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/04/e7403344.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/04/e7403348.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/04/e7403359.jpg"
+sport: "futsal"
+home_team: "Borås AIK"
+away_team: "FC Kalmar"
+venue: "Boråshallen"
 ---
 
 SM-final 2 slutar med en förlust med 3-5 för BAIK Futsal mot FC Kalmar. Nästa lördag avgörs vem som blir Svenska Mästare - BAIK Futsal eller FC Kalmar.

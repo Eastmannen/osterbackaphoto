@@ -10,7 +10,7 @@ home_team: "Alingsås IF F19"
 away_team: "Sävedalens IF (A-lag)"
 home_score: 3
 away_score: 2
-venue: "Träningsmatch på Alströmervallen, Alingsås"
+venue: "Alströmervallen, Alingsås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/02/e7403508.jpg"
 excerpt: "Träningsmatch på Alströmervallen, Alingsås mot Sävedalens IF (A-lag) 2023-02-26. Seger för Alingsås med 3-2. Elina gjorde sitt första mål för Alingsås.…"
 images:
@@ -74,6 +74,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/02/e7404417.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/02/e7404431.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/02/e7404443.jpg"
+sport: "fotboll"
+series: "Träningsmatch"
 ---
 
 Träningsmatch på Alströmervallen, Alingsås mot Sävedalens IF (A-lag) 2023-02-26. Seger för Alingsås med 3-2. Elina gjorde sitt första mål för Alingsås.

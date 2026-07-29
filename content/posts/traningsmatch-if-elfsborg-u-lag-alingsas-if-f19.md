@@ -10,7 +10,7 @@ home_team: "IF Elfsborg U"
 away_team: "lag - Alingsås IF F19"
 home_score: 1
 away_score: 3
-venue: "Borås Arena, torsdag"
+venue: "Borås Arena"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7408236.jpg"
 excerpt: "Borås Arena, torsdag den 14 mars 2024. Träningsmatch mellan IF Elfsborgs U-lag och Alingsås IF F19. Matchen slutade 1-3 med seger för Alingsås IF.…"
 images:
@@ -65,6 +65,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7408990-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7409004.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7409010.jpg"
+sport: "fotboll"
 ---
 
 Borås Arena, torsdag den 14 mars 2024. Träningsmatch mellan IF Elfsborgs U-lag och Alingsås IF F19. Matchen slutade 1-3 med seger för Alingsås IF.

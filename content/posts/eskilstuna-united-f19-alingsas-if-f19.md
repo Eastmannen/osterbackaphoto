@@ -72,6 +72,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/e7406330.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/e7406337.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/e7406344.jpg"
+sport: "fotboll"
 ---
 
 Tunavallen, Eskilstuna, 2023-09-03. 1-1.

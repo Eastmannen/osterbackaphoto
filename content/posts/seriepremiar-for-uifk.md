@@ -59,6 +59,11 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/04/e7401776.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/04/e7401779.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/04/e7401790.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+home_team: "Vimmerby IF"
+away_team: "Ulricehamns IFK"
+venue: "XL Bygg Arena, Vimmberby"
 ---
 
 Seriepremiär bort mot Vimmerby IF för Ulricehamns IFK. Matchen slutar tyvärr med förlust med 3-2. Målskyttar för UIFK: Ester Selander och Elina Österbacka.

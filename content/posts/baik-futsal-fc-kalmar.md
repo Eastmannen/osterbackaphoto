@@ -10,7 +10,7 @@ home_team: "BAIK Futsal"
 away_team: "FC Kalmar"
 home_score: 7
 away_score: 0
-venue: "Boråshallen 2023-12-03. Seger m, ed"
+venue: "Boråshallen"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/12/e7404848-enhanced-nr.jpg"
 excerpt: "RFL Dam Götland, Boråshallen 2023-12-03. Seger med 7-0.…"
 images:
@@ -74,6 +74,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/12/e7404314-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/12/e7404335-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/12/e7404342.jpg"
+sport: "futsal"
 ---
 
 RFL Dam Götland, Boråshallen 2023-12-03. Seger med 7-0.

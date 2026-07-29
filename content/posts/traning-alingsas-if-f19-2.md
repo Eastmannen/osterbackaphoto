@@ -6,7 +6,7 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Alingsås IF"
-venue: "Noltorpsvallen. Träning för Alingsås, IF"
+venue: "Noltorpsvallen, Alingsås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7403507-1.jpg"
 excerpt: "Den 21 februari 2024, Noltorpsvallen. Träning för Alingsås IF F19.…"
 images:
@@ -48,6 +48,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7403540-enhanced-nr-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7403568-enhanced-nr-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7403621-1.jpg"
+sport: "fotboll"
 ---
 
 Den 21 februari 2024, Noltorpsvallen. Träning för Alingsås IF F19.

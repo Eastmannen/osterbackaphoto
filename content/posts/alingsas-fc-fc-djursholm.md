@@ -65,6 +65,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2022/12/e7400716-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2022/12/e7400732-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2022/12/e7400754-1.jpg"
+sport: "fotboll"
+series: "Träningsmatch"
+venue: "Prioritet Serneke Arena, Göteborg"
 ---
 
 Träningsmatch 2022-12-03, Prioritet Serneke Arena.

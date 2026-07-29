@@ -57,6 +57,10 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/02/e7406060.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/02/e7406069.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/02/e7406092.jpg"
+sport: "fotboll"
+club: "Ulricehamns IFK"
+series: "Träningsmatch"
+venue: "Edsborgs IP, Trollhättan"
 ---
 
 Bilder från årets andra träningsmatch borta mot FC Trollhättan. Mathen slutar 2-1, men kunde likaväl slutat med seger.

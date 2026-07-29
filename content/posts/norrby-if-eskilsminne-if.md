@@ -10,7 +10,7 @@ home_team: "Norrby IF"
 away_team: "Eskilsminne IF"
 home_score: 6
 away_score: 1
-venue: "Ramnavallens konstgräs. Norrby IF vann matchen m, ed"
+venue: "Ramnavallen, Borås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7408040.jpg"
 excerpt: "P19 Superettan Södra, Ramnavallens konstgräs. Norrby IF vann matchen med 6-1.…"
 images:
@@ -74,6 +74,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7408248.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7408250.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7408256.jpg"
+sport: "fotboll"
+club: "Norrby IF"
 ---
 
 P19 Superettan Södra, Ramnavallens konstgräs. Norrby IF vann matchen med 6-1.

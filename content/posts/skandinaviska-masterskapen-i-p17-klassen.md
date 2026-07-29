@@ -41,6 +41,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2022/12/e7401824.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2022/12/e7401835.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2022/12/e7401843.jpg"
+sport: "fotboll"
 ---
 
 Några bilder från Halmstad - Rosenborgs BK samt IFK Göteborg - FC Köpenhamn. Bilder från 10 och 11 december 2022. Rydahallen, Borås.

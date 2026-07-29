@@ -6,8 +6,8 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Alingsås IF"
-series: "Smatchen I Gothia Cup."
-home_team: "Gothia Cup, Alingsås IF"
+series: "Gothia Cup 2023"
+home_team: "Alingsås IF (F19)"
 away_team: "Umedalens IF"
 home_score: 7
 away_score: 0
@@ -74,6 +74,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7405828.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7405835.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/07/e7405847.jpg"
+sport: "fotboll"
 ---
 
 Seger med 7-0 mot Umedalens IF i den andra gruppspelsmatchen i Gothia Cup.

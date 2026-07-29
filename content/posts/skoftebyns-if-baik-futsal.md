@@ -46,6 +46,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/02/e7403985.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/02/e7404001.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/02/e7404072.jpg"
+sport: "futsal"
+venue: "Trollhättan"
 ---
 
 Älvshögsborgs A-hall, Trollhättan 2025-02-09. Seger för gästande BAIK Futsal med 6-2.

@@ -10,7 +10,7 @@ home_team: "BAIK Futsal (U"
 away_team: "lag) - Falköping FC"
 home_score: 2
 away_score: 4
-venue: "Almåshallen, lördag"
+venue: "Almåshallen, Borås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7408462-2.jpg"
 excerpt: "Almåshallen, lördag den 4 november. BAIK Futsals U-lag tog emot Falköping FC. Matchen slutade 2-4.…"
 images:
@@ -74,6 +74,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7408890.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7408894.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/11/e7408912.jpg"
+sport: "futsal"
 ---
 
 Almåshallen, lördag den 4 november. BAIK Futsals U-lag tog emot Falköping FC. Matchen slutade 2-4.

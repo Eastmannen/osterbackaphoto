@@ -54,6 +54,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7401325.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7401349.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7401373.jpg"
+sport: "futsal"
+venue: "Boråshallen"
 ---
 
 Semifinal 1:3 slutade med seger för BAIK med 4-2.

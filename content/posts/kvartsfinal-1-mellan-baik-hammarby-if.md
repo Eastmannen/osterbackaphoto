@@ -10,7 +10,7 @@ home_team: "Kvartsfinal 1 mellan BAIK"
 away_team: "Hammarby IF"
 home_score: 0
 away_score: 5
-venue: "Boråshallen 26 mars 2023. Kvartalsfinal 1 mellan Borås AIK och Hammbarby IF slutade med förlu, st"
+venue: "Boråshallen"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7407654.jpg"
 excerpt: "Boråshallen 26 mars 2023. Kvartalsfinal 1 mellan Borås AIK och Hammbarby IF slutade med förlust 0-5.…"
 images:
@@ -74,6 +74,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7408541.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7408565.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7408568.jpg"
+sport: "futsal"
 ---
 
 Boråshallen 26 mars 2023. Kvartalsfinal 1 mellan Borås AIK och Hammbarby IF slutade med förlust 0-5.

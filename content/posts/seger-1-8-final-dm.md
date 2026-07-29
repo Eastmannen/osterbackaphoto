@@ -4,12 +4,12 @@ date: 2025-05-21T17:36:25
 slug: "seger-1-8-final-dm"
 post_type: "match"
 sports:
-  - "tennis"
-home_team: "Seger 1/8"
-away_team: "final DM"
-home_score: 2
-away_score: 0
-venue: "Seger med 2-0 borta mot Skepplanda BTK. Målskyttar Ester Selander och Elina Österbac, ka"
+  - "fotboll"
+home_team: "Skepplanda BTK"
+away_team: "Ulricehamns IFK"
+home_score: 0
+away_score: 2
+venue: "Forsvallen, Skepplanda"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7405645.jpg"
 excerpt: "Seger med 2-0 borta mot Skepplanda BTK. Målskyttar Ester Selander och Elina Österbacka.…"
 images:
@@ -54,6 +54,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7405631.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7405646.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7405645.jpg"
+sport: "fotboll"
+club: "Ulricehamns IFK"
+series: "DM - Cup 2025, 1/8-final"
 ---
 
 Seger med 2-0 borta mot Skepplanda BTK. Målskyttar Ester Selander och Elina Österbacka.

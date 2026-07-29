@@ -10,7 +10,7 @@ home_team: "Växjö DFF (F19)"
 away_team: "Alingsås IF (F19)"
 home_score: 1
 away_score: 1
-venue: "Bortamatch mot Växjö på Värendsvallen 3, söndag"
+venue: "Växjö"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7402376.jpg"
 excerpt: "Bortamatch mot Växjö på Värendsvallen 3, söndag 28 april 2024. Första halvlek pressar Växjö på bra och får in ett mål i 45:e minuten. Andra halvek kommer Alingsås tillbaka och kvitterar genom Ebba Ga…"
 images:
@@ -74,6 +74,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7402691.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7402710.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7402717.jpg"
+sport: "fotboll"
 ---
 
 Bortamatch mot Växjö på Värendsvallen 3, söndag 28 april 2024.

@@ -10,7 +10,7 @@ home_team: "Alingsås IF F19"
 away_team: "Eskilstuna United DFF F19"
 home_score: 2
 away_score: 0
-venue: "Säsongens sista seriematch på Noltorpsvallen mot Eskilstuna United slutade med en 2-0 seger. Det betyder att höstserien summerar till 6 segr, ar"
+venue: "Noltorpsvallen, Alingsås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/10/e7405265.jpg"
 excerpt: "Säsongens sista seriematch på Noltorpsvallen mot Eskilstuna United slutade med en 2-0 seger. Det betyder att höstserien summerar till 6 segrar, 1 oavgjord och 1 förlust. Fint avslut för tjejerna.…"
 images:
@@ -64,6 +64,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/10/e7405310.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/10/e7405328.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/10/e7405311.jpg"
+sport: "fotboll"
 ---
 
 Säsongens sista seriematch på Noltorpsvallen mot Eskilstuna United slutade med en 2-0 seger. Det betyder att höstserien summerar till 6 segrar, 1 oavgjord och 1 förlust. Fint avslut för tjejerna.

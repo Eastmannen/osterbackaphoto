@@ -68,6 +68,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/02/e7405831-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/02/e7405832-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/02/e7405850-enhanced-nr.jpg"
+sport: "fotboll"
+club: "Las Vegas, USA"
 ---
 
 Västra Togheter FC F19 spelade två matcher under fredagen den 21 februari 2025 som tyvärr slutade med förluster. Idag väntar sista gruppspelsmatchen.

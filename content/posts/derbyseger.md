@@ -1,6 +1,6 @@
 ---
 title: "Derbyseger"
-date: 2025-11-08T00:53:12
+date: 2025-11-07 00:53:12
 slug: "derbyseger"
 post_type: "match"
 sports:
@@ -71,6 +71,11 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7403500.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7403508.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7403511.jpg"
+sport: "innebandy"
+series: "Div 3"
+home_team: "Fristad GoIF U"
+away_team: "Borås IBF"
+venue: "Fristadhallen, Fristad"
 ---
 
 Eleganterna (Fristad GoIF Utveckling) besegrade Borås IBF med 7-3. Mål av Isak Österbacka (3), Marcus Alm (2), Alexander Wardström Persson (1) och Alexander Karlsson (1).

@@ -10,7 +10,7 @@ home_team: "Alingsås IF F19"
 away_team: "Umeå IK FF F19"
 home_score: 3
 away_score: 1
-venue: "med 3-1 mot Umeå IK FF F19 hemma på Mjörnvallen, Alingsås"
+venue: "Mjörnvallen, Alingsås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7401790-2.jpg"
 excerpt: "2024-09-01. Seger med 3-1 mot Umeå IK FF F19 hemma på Mjörnvallen, Alingsås.…"
 images:
@@ -55,6 +55,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7401786.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7401790.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/09/e7401793.jpg"
+sport: "fotboll"
 ---
 
 2024-09-01. Seger med 3-1 mot Umeå IK FF F19 hemma på Mjörnvallen, Alingsås.

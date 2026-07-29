@@ -7,7 +7,7 @@ sports:
   - "basket"
 home_team: "Borås Basket"
 away_team: "Högsbo Basket"
-venue: "Kyllaredshallen 20241222. Tyvärr förlust för Borås basket. Matchen sluta, de"
+venue: "Kyllaredshallen, Borås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/12/e7408808-enhanced-nr.jpg"
 excerpt: "Kyllaredshallen 20241222. Tyvärr förlust för Borås basket. Matchen slutade 53-66.…"
 images:
@@ -51,6 +51,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/12/e7409216.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/12/e7409224.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/12/e7409227.jpg"
+sport: "basket"
 ---
 
 Kyllaredshallen 20241222. Tyvärr förlust för Borås basket. Matchen slutade 53-66.

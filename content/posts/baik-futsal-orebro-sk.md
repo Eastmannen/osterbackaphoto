@@ -10,7 +10,7 @@ home_team: "BAIK Futsal"
 away_team: "Örebro SK"
 home_score: 7
 away_score: 6
-venue: "Boråshallen, söndag"
+venue: "Boråshallen"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7408159.jpg"
 excerpt: "Boråshallen, söndag den 10 mars 2024, kvartsfinal 1:3 mellan BAIK och Örebro i Svenska Futsalligan. En galet spännande match som fick avgöras i förlängning där BAIK till slut tog hem segern i den förs…"
 images:
@@ -71,6 +71,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7408081.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7408107.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7408159.jpg"
+sport: "futsal"
 ---
 
 Boråshallen, söndag den 10 mars 2024, kvartsfinal 1:3 mellan BAIK och Örebro i Svenska Futsalligan. En galet spännande match som fick avgöras i förlängning där BAIK till slut tog hem segern i den första kvartsfinalen med 7-6.

@@ -1,8 +1,8 @@
 ---
 title: "Elganterna 3P mot Sandared"
-date: 2025-10-26T23:07:07
+date: 2025-10-22 23:07:07
 slug: "elganterna-3p-mot-sandared"
-post_type: "other"
+post_type: "match"
 sports:
   - "innebandy"
 club: "Fristad GoIF"
@@ -58,6 +58,13 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/10/e7409513.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/10/e7409527.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/10/e7409529.jpg"
+sport: "innebandy"
+series: "Div 3"
+home_team: "Fristad GoIF U"
+away_team: "Sandareds IBS"
+home_score: 5
+away_score: 4
+venue: "Fristadhallen, Fristad"
 ---
 
 2025-10-25, Eleganterna (Fristad GoIF Utveckling) tog säsongens andra seger genom hemmasegern mot Sandareds IBS.

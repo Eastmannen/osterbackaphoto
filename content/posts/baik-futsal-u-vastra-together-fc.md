@@ -64,6 +64,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/11/e7406877.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/11/e7406942-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/11/e7406947-enhanced-nr.jpg"
+sport: "futsal"
 ---
 
 Fredriksborgshallen i Borås, 16 november 2024. Seger med 4-3 för Västra Together FC.

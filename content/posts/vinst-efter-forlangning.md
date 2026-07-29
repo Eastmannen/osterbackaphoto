@@ -1,6 +1,6 @@
 ---
 title: Vinst efter förlängning
-date: 2025-11-02T14:18:49
+date: 2025-10-31 14:18:49
 post_type: match
 sport: innebandy
 club: Fristad GoIF
@@ -9,8 +9,7 @@ away_team: Fristad GoIF Utveckling
 home_score: 2
 away_score: 3
 featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400199-1.jpg
-excerpt: Eleganterna (Fristad GoIF Utveckling) vann över Fritsla IF efter
-  förlängning med 3-2.…
+excerpt: Eleganterna (Fristad GoIF Utveckling) vann över Fritsla IF efter förlängning med 3-2.…
 slug: vinst-efter-forlangning
 images:
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7400004.jpg
@@ -63,7 +62,9 @@ images:
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409966.jpg
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/11/e7409991.jpg
 sports:
-  - fotboll
+  - "innebandy"
+series: "Div 3"
+venue: "Fritsla"
 ---
 
 Eleganterna (Fristad GoIF Utveckling) vann över Fritsla IF efter förlängning med 3-2.

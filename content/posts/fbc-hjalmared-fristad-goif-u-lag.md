@@ -37,6 +37,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/10/e7405593.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/10/e7405598.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/10/e7405600.jpg"
+sport: "innebandy"
+venue: "Hjälmared"
 ---
 
 Fredag den 18 oktober 2024. Seger för Eleganterna med 7-3 mot FBC Hjälmared.

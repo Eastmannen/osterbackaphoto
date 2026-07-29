@@ -6,7 +6,7 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-series: "Div 5 Serien. Tyvärr Blev Det Förlu"
+series: "Div 5 Södra"
 home_team: "BAIK"
 away_team: "Ulricehamn U-lag"
 home_score: 3
@@ -41,6 +41,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7408999.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7409009.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7409027.jpg"
+sport: "fotboll"
 ---
 
 Ulricehamns IFKs U-lag mötte BAIK borta i div 5 serien. Tyvärr blev det förlust för Ulricehamn med 3-4 trots bättre spel i andra halvlek.

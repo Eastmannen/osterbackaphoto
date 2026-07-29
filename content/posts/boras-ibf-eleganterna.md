@@ -32,6 +32,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7404067-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7404116.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7404131.jpg"
+sport: "innebandy"
 ---
 
 Daltorpshallen, Borås, 2024-02-24. En het, och emellanåt hetsig, match mellan Borås IBF och Eleganterna.

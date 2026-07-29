@@ -56,6 +56,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/01/e7409357-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/01/e7409386-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/01/e7409424-1.jpg"
+sport: "futsal"
+venue: "Boråshallen"
 ---
 
 Regionala Futsalligan, Boråshallen, 2024-01-22. Seger för BAIK Futsal med 8-1.

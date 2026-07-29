@@ -6,8 +6,8 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-home_score: 3
-away_score: 1
+home_score: 1
+away_score: 3
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7409514-1.jpg"
 excerpt: "Ulricehamns IFK vann med 3-1 borta mot Jönköping Södra IF. När vårsäsongen summeras så har laget 11 vinster, 1 oavgjord och 1 förlust. 1 poäng bakom Mariebo IK. Serien drar igång 9 augusti för Ulriceh…"
 images:
@@ -63,6 +63,11 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7409487.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7409514.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7409523.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+home_team: "Jönköping Södra IF"
+away_team: "Ulricehamns IFK"
+venue: "Jordbrovallen, Jönköping"
 ---
 
 Ulricehamns IFK vann med 3-1 borta mot Jönköping Södra IF. När vårsäsongen summeras så har laget 11 vinster, 1 oavgjord och 1 förlust. 1 poäng bakom Mariebo IK. Serien drar igång 9 augusti för Ulricehamns IFK då man möter Svärtinge SK hemma på Lassalyckan.

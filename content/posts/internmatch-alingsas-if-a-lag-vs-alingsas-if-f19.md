@@ -6,8 +6,6 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Alingsås IF"
-home_team: "Internmatch Alingsås IF (A"
-away_team: "lag) vs Alingsås IF (F19)"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7401411-enhanced-nr.jpg"
 excerpt: "Några bilder från internmatchen mellan A-lag och F19.…"
 images:
@@ -38,6 +36,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7401569.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7401575.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/08/e7401578-enhanced-nr.jpg"
+sport: "fotboll"
+series: "Träningsmatch"
+venue: "Alströmmervallen, Alingsås"
 ---
 
 Några bilder från internmatchen mellan A-lag och F19.

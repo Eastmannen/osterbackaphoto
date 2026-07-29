@@ -63,6 +63,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7407703.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7407727.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7407739.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+venue: "Lassalyckan, Ulricehamn"
 ---
 
 Seger med 8-0 mot Bankeryds SK för Ulricehamns IFK. Det innebär att Ulricehamns IFK nu har 9 segrar, 1 oavgjord och 1 förlust efter halva säsongen.

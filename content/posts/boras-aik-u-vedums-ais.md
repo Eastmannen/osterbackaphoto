@@ -10,7 +10,7 @@ home_team: "Borås AIK (U)"
 away_team: "Vedums AIS"
 home_score: 5
 away_score: 3
-venue: "i Sjöbohallen i Bor, ås"
+venue: "Sjöbohallen, Borås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/02/e7401619.jpg"
 excerpt: "Sista futsalmatchen för BAIKs u-lag för säsongen 2022/23 slutade med seger, 5-3 i Sjöbohallen i Borås, 2023-02-08.…"
 images:
@@ -74,6 +74,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/02/e7401986.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/02/e7402044.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/02/e7402045.jpg"
+sport: "futsal"
 ---
 
 Sista futsalmatchen för BAIKs u-lag för säsongen 2022/23 slutade med seger, 5-3 i Sjöbohallen i Borås, 2023-02-08.

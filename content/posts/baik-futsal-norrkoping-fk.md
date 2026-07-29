@@ -10,7 +10,7 @@ home_team: "BAIK Futsal"
 away_team: "Norrköping FK"
 home_score: 14
 away_score: 2
-venue: "Boråshallen 2024-02-18. Seger med 14-2 för BAIK Futsal som mötte ett sargat Norrköing som tyvärr inte hade någon av sina ordinarier målvakter m, ed"
+venue: "Boråshallen"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7401962.jpg"
 excerpt: "Boråshallen 2024-02-18. Seger med 14-2 för BAIK Futsal som mötte ett sargat Norrköing som tyvärr inte hade någon av sina ordinarier målvakter med.…"
 images:
@@ -55,6 +55,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7402581.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7402706.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/02/e7402725.jpg"
+sport: "futsal"
 ---
 
 Boråshallen 2024-02-18. Seger med 14-2 för BAIK Futsal som mötte ett sargat Norrköing som tyvärr inte hade någon av sina ordinarier målvakter med.

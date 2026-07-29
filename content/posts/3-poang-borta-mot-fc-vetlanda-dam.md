@@ -6,8 +6,8 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-home_score: 7
-away_score: 1
+home_score: 1
+away_score: 7
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7404397-1.jpg"
 excerpt: "Vetlanda 10 maj 2025. Seger med 7-1 för Ulricehamns IFK borta mot FC Vetlanda. Målskyttar: Ester Selander x2, Julia Andersson, Ebba Fritzson x2, Wilma Johansson och Elina Österbacka.…"
 images:
@@ -61,6 +61,11 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7404751.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7404774.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7404775.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+home_team: "FC Vetlanda"
+away_team: "Ulricehamns IFK"
+venue: "Heds Arena, Vetlanda"
 ---
 
 Vetlanda 10 maj 2025. Seger med 7-1 för Ulricehamns IFK borta mot FC Vetlanda. Målskyttar: Ester Selander x2, Julia Andersson, Ebba Fritzson x2, Wilma Johansson och Elina Österbacka.

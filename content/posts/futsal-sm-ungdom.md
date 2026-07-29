@@ -2,7 +2,7 @@
 title: "Futsal SM Ungdom"
 date: 2023-01-15T21:36:03
 slug: "futsal-sm-ungdom"
-post_type: "other"
+post_type: "match"
 sports:
   - "futsal"
 club: "Borås AIK"
@@ -69,6 +69,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7406561-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7406569-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/01/e7406585-1.jpg"
+sport: "futsal"
 ---
 
 Gruppspel för Borås AIK F16/07 mot Dalsjöfors GoIF, Bergdalens IK och Brämhults IK 2023-01-14.

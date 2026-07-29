@@ -73,6 +73,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/05/e7408826.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/05/e7408879.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/05/e7408896.jpg"
+sport: "fotboll"
+series: "F19 Allsvenskan"
 ---
 
 Bilder från matchen mellan Alingsås IF (F19) - Lidköpings FK (F19) som slutade med en tung förlust för Alingsås. Sett till matchbilden borde Alingsås gjort 2-3 mål, men avsluten var inte tillräckligt vassa idag. Lidköping fick ett tidigt slumpmål, och utökar ledningen i slutet av matchen när Alingsås försöker forcera fram en kvittering.

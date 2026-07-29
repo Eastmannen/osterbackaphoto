@@ -55,6 +55,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7400971.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7400980.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/04/e7400984.jpg"
+sport: "fotboll"
 ---
 
 Seriepremiär i F19 Allsvenskan borta mot Linköping FC i stormvindar. Matchen slutade med förlust med 2-1 för Alingsås.

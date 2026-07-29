@@ -1,6 +1,6 @@
 ---
 title: "Hemmapremiär mot Jönköping Södra IF"
-date: 2025-04-20T15:01:52
+date: 2025-04-17 15:01:52
 slug: "hemmapremiar-mot-jonkoping-sodra-if"
 post_type: "match"
 sports:
@@ -44,6 +44,11 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/04/e7402035-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/04/e7402050-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/04/e7402055-enhanced-nr.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+home_team: "Ulricehamns IFK"
+away_team: "Jönköping Södra IF"
+venue: "Lassalyckan, Ulricehamn"
 ---
 
 Hemmapremiär för Ulricehamns IFK mot Jönköping Södra IF under skärtorsdagskvällen. Seger med 2-0 efter mål av Elina Österbacka (hörna) och Clara Sjögren.

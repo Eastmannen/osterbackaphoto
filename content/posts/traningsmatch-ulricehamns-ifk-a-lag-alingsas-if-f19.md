@@ -6,8 +6,8 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-home_team: "Ulricehamns IFK (A"
-away_team: "lag) - Alingsås IF F19"
+home_team: "Ulricehamns IFK"
+away_team: "Alingsås IF F19"
 home_score: 4
 away_score: 1
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7405929-enhanced-nr.jpg"
@@ -45,6 +45,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7406497-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7406539-enhanced-nr.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2024/03/e7406544-enhanced-nr.jpg"
+sport: "fotboll"
+series: "Träningsmatch"
+venue: "Lassalyckan, Ulricehamn"
 ---
 
 Lassalyckan, Ulricehamn, fredag den 8 mars 2024 klockan 19:00.

@@ -6,8 +6,8 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-home_team: "Seger med 4"
-away_team: "2 mot Tranås FF"
+home_team: "Ulricehamns IFK"
+away_team: "Tranås FF"
 home_score: 4
 away_score: 2
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7405239-1.jpg"
@@ -68,6 +68,9 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7405239.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7405231.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/05/e7405236.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+venue: "Lassalyckan, Ulricehamn"
 ---
 
 Seger med 4-2 mot Tranås FF för Ulricehamns IFK. Målskyttar: Julia Andersson x 2, Ebba Fritzson och Elina Österbacka.

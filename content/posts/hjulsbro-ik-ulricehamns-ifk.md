@@ -46,6 +46,11 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7407165.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7407182.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/06/e7407175.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+home_score: 0
+away_score: 2
+venue: "ICA Signalen Arena, Linköping"
 ---
 
 Linköping, 2025-06-08. 3 poäng borta mot Hjulsbro IK för Ulricehamns. Målskyttar Lina Lindgren och Elina Österbacka.

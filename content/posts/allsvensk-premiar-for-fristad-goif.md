@@ -69,6 +69,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/fristadgoif20230924-58.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/fristadgoif20230924-59.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/fristadgoif20230924-60.jpg"
+sport: "innebandy"
+venue: "Fristadhallen"
 ---
 
 Allsvensk premiär för Fristad GoIF hemma i Fristadhallen mot Olofströms IBK. En jämn match som tyvärr slutade med förlust med 9-10.

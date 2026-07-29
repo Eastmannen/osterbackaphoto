@@ -6,12 +6,12 @@ post_type: "match"
 sports:
   - "fotboll"
 club: "Alingsås IF"
-series: "Div 3) Tisdag Kväll Den 28 Mars 202"
-home_team: "Vinninga AIF (A"
-away_team: "lag)- Alingsås IF (F19)"
+series: "DM - Cup"
+home_team: "Vinninga AIF"
+away_team: "Alingsås IF (F19)"
 home_score: 3
 away_score: 2
-venue: "DM-match borta på Ågårdsvallen i Lidköping mot Vinninga AIF A-lag (div 3) tisdag kväll den 28 mars 2023. Matchen slutar 3-2 med seger för Vinninga AIF efter förlängning och avgörande mål i 119:e minuten. Tung förlust en kväll där Alingsås F19-lag inte riktigt kom upp i sin vanliga kapacitet. I 9 fall av 10 ska AIFs unga talanger köra över den här typen av lag, men"
+venue: "Ågårdsvallen, Lidköping"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7408688-1.jpg"
 excerpt: "DM-match borta på Ågårdsvallen i Lidköping mot Vinninga AIF A-lag (div 3) tisdag kväll den 28 mars 2023. Matchen slutar 3-2 med seger för Vinninga AIF efter förlängning och avgörande mål i 119:e minut…"
 images:
@@ -75,6 +75,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7409371.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7409395.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7409405.jpg"
+sport: "fotboll"
 ---
 
 DM-match borta på Ågårdsvallen i Lidköping mot Vinninga AIF A-lag (div 3) tisdag kväll den 28 mars 2023. Matchen slutar 3-2 med seger för Vinninga AIF efter förlängning och avgörande mål i 119:e minuten. Tung förlust en kväll där Alingsås F19-lag inte riktigt kom upp i sin vanliga kapacitet. I 9 fall av 10 ska AIFs unga talanger köra över den här typen av lag, men denna gång var det tyvärr stolpe ut. Men tjejerna får ta nya tag och förbereda sig för F19-allsvenskan som snart drar igång. Gammal var äldst denna kväll.

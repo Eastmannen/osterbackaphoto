@@ -72,6 +72,10 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7404909-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7404930-1.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7404961-1.jpg"
+sport: "fotboll"
+series: "Div 2 NÖ Götaland"
+home_team: "Mariebo IK"
+away_team: "Ulricehamns IFK"
 ---
 
 Stadparksvallen, Jönköping. Fredag den 12 september 2025. Seriefinal mellan Mariebo IK och Ulricehamns IFK. Seger med 2-1 för Ulricehamns IFK som går upp i 7 poängs ledning med 3 matcher kvar.

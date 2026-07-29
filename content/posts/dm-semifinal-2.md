@@ -1,16 +1,16 @@
 ---
 title: "DM-semifinal"
-date: 2025-09-18T23:05:43
+date: 2025-09-17 23:05:43
 slug: "dm-semifinal-2"
 post_type: "match"
 sports:
   - "fotboll"
 club: "Ulricehamns IFK"
-home_team: "DM"
-away_team: "semifinal"
+home_team: "IF Elfsborg"
+away_team: "Ulricehamns IFK"
 home_score: 2
 away_score: 0
-venue: "hamns IFK borta mot IF Elfsborg på Borås Arena. Ulricehamns IFK stod upp bra mot Elfsborg från Elitettan och matchen slutade med en förlust m, ed"
+venue: "Borås Arena"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7405234-1.jpg"
 excerpt: "Semifinal för Ulricehamns IFK borta mot IF Elfsborg på Borås Arena. Ulricehamns IFK stod upp bra mot Elfsborg från Elitettan och matchen slutade med en förlust med 2-0.…"
 images:
@@ -54,6 +54,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7405604.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7405634.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/09/e7405620.jpg"
+sport: "fotboll"
+series: "DM - Cup 2025, Semifinal"
 ---
 
 Semifinal för Ulricehamns IFK borta mot IF Elfsborg på Borås Arena. Ulricehamns IFK stod upp bra mot Elfsborg från Elitettan och matchen slutade med en förlust med 2-0.

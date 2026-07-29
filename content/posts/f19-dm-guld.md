@@ -8,7 +8,7 @@ sports:
 club: "Alingsås IF"
 home_score: 2
 away_score: 1
-venue: "alen i F19 DM Västra Götaland på Noltorpsvallen slutade med seger för Alingsås IF F19/F17. Matchen slutade 2-1 till Alings, ås"
+venue: "Noltorpsvallen, Alingsås"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/e7408731.jpg"
 excerpt: "Finalen i F19 DM Västra Götaland på Noltorpsvallen slutade med seger för Alingsås IF F19/F17. Matchen slutade 2-1 till Alingsås.…"
 images:
@@ -66,6 +66,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/e7408729.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/e7408730.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/09/e7408731.jpg"
+sport: "fotboll"
 ---
 
 Finalen i F19 DM Västra Götaland på Noltorpsvallen slutade med seger för Alingsås IF F19/F17. Matchen slutade 2-1 till Alingsås.

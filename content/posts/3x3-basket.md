@@ -35,6 +35,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7409858.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7409864.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/08/e7409867.jpg"
+venue: "Storatorget, Borås"
 ---
 
 Nocco Sweden 3x3 Tour – Stop #5 i Borås Idag spelade Jolines lag 3x3 på Borås Torg – och Osterbackaphoto var givetvis på plats med kameran 📸 I första matchen mötte de Skokloster. Skokloster gick hela vägen till final – och vann hela turneringen för F16 🏆 Jolines lag – Lianna, Ariella och Zanneta – kämpade starkt och bjöd på härlig basketglädje mitt på torget i Borås 🏀💪

@@ -8,7 +8,7 @@ sports:
 club: "Alingsås IF"
 home_team: "IFK Göteborg"
 away_team: "Alingsås IF"
-venue: "Pioritet Serneke Arena Götebo, rg"
+venue: "Pioritet Serneke Arena, Göteborg"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7405180.jpg"
 excerpt: "IFK Göteborg F17 vs Alingsås IF F19, Pioritet Serneke Arena Göteborg 2023-03-11, 1-2.…"
 images:
@@ -72,6 +72,7 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7405189.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7405200.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2023/03/e7405210.jpg"
+sport: "fotboll"
 ---
 
 IFK Göteborg F17 vs Alingsås IF F19, Pioritet Serneke Arena Göteborg 2023-03-11, 1-2.

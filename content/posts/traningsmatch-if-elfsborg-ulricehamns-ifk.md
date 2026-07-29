@@ -1,6 +1,6 @@
 ---
 title: "Träningsmatch IF Elfsborg - Ulricehamns IFK"
-date: 2025-03-14T23:10:00
+date: 2025-03-12 23:10:00
 slug: "traningsmatch-if-elfsborg-ulricehamns-ifk"
 post_type: "match"
 sports:
@@ -10,7 +10,7 @@ home_team: "IF Elfsborg"
 away_team: "Ulricehamns IFK"
 home_score: 7
 away_score: 2
-venue: "men i andra halvlek blev planen skottad från snön., Seger"
+venue: "Borås Arena"
 featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7407902.jpg"
 excerpt: "Borås Arena, 2025-03-12. Träningsmatch mellan Elitettanlaget IF Elfsborg mot Div 2 laget Ulricehamns IFK. Tyvärr var förutsättningarna för första halvlek usla, men i andra halvlek blev planen skottad …"
 images:
@@ -63,6 +63,8 @@ images:
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7407904.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7407927.jpg"
   - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2025/03/e7407928.jpg"
+sport: "fotboll"
+series: "Träningsmatch"
 ---
 
 Borås Arena, 2025-03-12. Träningsmatch mellan Elitettanlaget IF Elfsborg mot Div 2 laget Ulricehamns IFK. Tyvärr var förutsättningarna för första halvlek usla, men i andra halvlek blev planen skottad från snön.
