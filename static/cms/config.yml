@@ -153,10 +153,12 @@ collections:
         name: "images"
         widget: "list"
         required: false
+        hint: "Visar en miniatyr per bild. Klicka på en rad för att byta bild via uppladdning eller 'Choose URL'."
         field:
           label: "Bild-URL"
           name: "url"
-          widget: "string"
+          widget: "image"
+          choose_url: true
 
       - label: "Etikett / tag"
         name: "tag"
