@@ -3,6 +3,8 @@ title: Hertzöga BK - Ulrichehamns IFK
 date: 2026-05-30T18:14:31
 post_type: match
 sport: fotboll
+sports:
+  - fotboll
 club: Ulricehamns IFK
 series: Div 1 Mellersta
 home_team: Hertzöga BK
@@ -11,6 +13,7 @@ home_score: 1
 away_score: 1
 venue: Ilanda IP, Karlstad
 featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/05/e7406752-1.jpg
+instagram_url: https://www.instagram.com/p/DY-CsJriAbI/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 excerpt: >-
   Ilanda IP, Karlstad 30 maj 2026. 
 
@@ -77,8 +80,6 @@ images:
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/05/e7407323.jpg
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/05/e7407337.jpg
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/05/e7407346.jpg
-sports:
-  - fotboll
 ---
 
 Ilanda IP, Karlstad 30 maj 2026. Hertzöga BK - Ulrichemans IFK slutar 1-1, vilket tyvärr känns som en förlust för UIFK.
