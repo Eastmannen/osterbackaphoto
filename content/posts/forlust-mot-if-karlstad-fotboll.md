@@ -3,6 +3,8 @@ title: Förlust mot IF Karlstad Fotboll
 date: 2026-06-14T21:31:16
 post_type: match
 sport: fotboll
+sports:
+  - fotboll
 club: Ulricehamns IFK
 series: Div 1 Mellersta
 home_team: Ulricehamns IFK
@@ -11,6 +13,7 @@ home_score: 0
 away_score: 2
 venue: Lassalyckan, Ulricehamn
 featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7400171.jpg
+instagram_url: https://www.instagram.com/p/DZlBy6ekajW/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 excerpt: Bilder från matchen mellan Ulricehamns IFK och IF Karlstad Fotboll
   slutade 0-2.…
 slug: forlust-mot-if-karlstad-fotboll
@@ -68,8 +71,6 @@ images:
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7400698.jpg
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7400701.jpg
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7400705.jpg
-sports:
-  - fotboll
 ---
 
 Bilder från matchen mellan Ulricehamns IFK och IF Karlstad Fotboll slutade 0-2.
