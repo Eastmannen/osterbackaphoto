@@ -16,12 +16,15 @@ import boto3
 import requests
 from botocore.config import Config
 
-# ── Konfiguration ──────────────────────────────────────────────────────────────
-R2_ACCESS_KEY_ID     = "9ee3d34d9109328ff783d9ec4232a963"
-R2_SECRET_ACCESS_KEY = "0432d8202c3be2675bc5d09744c02e8274669a7db155c15a99a74259c2b54cfb"
-R2_ENDPOINT          = "https://cab444a744a475ef6d605811c4f09051.r2.cloudflarestorage.com"
-R2_BUCKET            = "osterbackaphoto-media"
-R2_PUBLIC_URL        = "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev"
+from r2_config import load_r2_config
+
+# ── Konfiguration (läses från lokal .env-fil, se r2_config.py) ────────────────
+_r2 = load_r2_config()
+R2_ACCESS_KEY_ID     = _r2["R2_ACCESS_KEY_ID"]
+R2_SECRET_ACCESS_KEY = _r2["R2_SECRET_ACCESS_KEY"]
+R2_ENDPOINT          = _r2["R2_ENDPOINT"]
+R2_BUCKET            = _r2["R2_BUCKET"]
+R2_PUBLIC_URL        = _r2["R2_PUBLIC_URL"]
 
 POSTS_DIR = Path(__file__).parent / "content" / "posts"
 # ──────────────────────────────────────────────────────────────────────────────

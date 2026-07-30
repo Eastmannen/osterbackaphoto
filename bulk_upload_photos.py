@@ -19,15 +19,9 @@ from pathlib import Path
 from datetime import datetime
 
 import boto3
-import requests
 from botocore.config import Config
 
-# ── Samma R2-konfiguration som migrate_images_to_r2.py ─────────────────────────
-R2_ACCESS_KEY_ID     = "9ee3d34d9109328ff783d9ec4232a963"
-R2_SECRET_ACCESS_KEY = "0432d8202c3be2675bc5d09744c02e8274669a7db155c15a99a74259c2b54cfb"
-R2_ENDPOINT          = "https://cab444a744a475ef6d605811c4f09051.r2.cloudflarestorage.com"
-R2_BUCKET            = "osterbackaphoto-media"
-R2_PUBLIC_URL        = "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev"
+from r2_config import load_r2_config
 
 POSTS_DIR = Path(__file__).parent / "content" / "posts"
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp"}
@@ -61,6 +55,8 @@ def main():
     if len(sys.argv) < 2:
         print("Användning: python3 bulk_upload_photos.py /sökväg/till/bildmapp")
         sys.exit(1)
+
+    r2 = load_r2_config()
 
     folder = Path(sys.argv[1]).expanduser()
     if not folder.is_dir():
@@ -114,9 +110,9 @@ def main():
 
     s3 = boto3.client(
         "s3",
-        endpoint_url=R2_ENDPOINT,
-        aws_access_key_id=R2_ACCESS_KEY_ID,
-        aws_secret_access_key=R2_SECRET_ACCESS_KEY,
+        endpoint_url=r2["R2_ENDPOINT"],
+        aws_access_key_id=r2["R2_ACCESS_KEY_ID"],
+        aws_secret_access_key=r2["R2_SECRET_ACCESS_KEY"],
         config=Config(signature_version="s3v4"),
         region_name="auto",
     )
@@ -130,8 +126,8 @@ def main():
         content_type = mimetypes.guess_type(photo.name)[0] or "image/jpeg"
         try:
             with open(photo, "rb") as f:
-                s3.put_object(Bucket=R2_BUCKET, Key=key, Body=f.read(), ContentType=content_type)
-            url = f"{R2_PUBLIC_URL}/{key}"
+                s3.put_object(Bucket=r2["R2_BUCKET"], Key=key, Body=f.read(), ContentType=content_type)
+            url = f"{r2['R2_PUBLIC_URL']}/{key}"
             uploaded_urls.append(url)
             print(f"  [{i}/{len(photos)}] ✓ {photo.name}")
         except Exception as e:
