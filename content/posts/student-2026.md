@@ -2,8 +2,11 @@
 title: Student 2026
 date: 2026-06-13T23:26:40
 post_type: other
+sports:
+  - annat
 venue: Borås
 featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7409419.jpg
+instagram_url: https://www.instagram.com/p/DZiqVNxiCi_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 excerpt: Bilder från EKE23A och Elinas student…
 slug: student-2026
 images:
@@ -67,8 +70,6 @@ images:
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7409420.jpg
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7409429.jpg
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7409444.jpg
-sports:
-  - annat
 ---
 
 Bilder från EKE23A och Elinas student

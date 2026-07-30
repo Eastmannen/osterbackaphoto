@@ -3,6 +3,8 @@ title: Kvittering i 95:e minuten
 date: 2026-06-07T11:05:40
 post_type: match
 sport: fotboll
+sports:
+  - fotboll
 club: Ulricehamns IFK
 series: Div 1 Mellersta
 home_team: Ulricehamns IFK
@@ -11,6 +13,7 @@ home_score: 1
 away_score: 1
 venue: Lassalyckan, Ulricehamn
 featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7407695.jpg
+instagram_url: https://www.instagram.com/p/DZR6RlXCPQi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 excerpt: Ulricehamns IFK är fortsatt obesegrade i div 1 mellersta. 4 segrar och
   6 oavgjorda. Tar man även hänsyn till serien förra året innebär detta att UIFK
   är obesegrade i 31 raka matcher i seriesammanhang.…
@@ -76,8 +79,6 @@ images:
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7408255.jpg
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7408279.jpg
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/06/e7408284.jpg
-sports:
-  - fotboll
 ---
 
 Ulricehamns IFK är fortsatt obesegrade i div 1 mellersta. 4 segrar och 6 oavgjorda. Tar man även hänsyn till serien förra året innebär detta att UIFK är obesegrade i 31 raka matcher i seriesammanhang. Senaste förlusten var 12 april 2025 mot Vimmerby i säsongspremiären i div 2 NÖ.
