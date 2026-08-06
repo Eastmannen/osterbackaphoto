@@ -13,6 +13,7 @@ home_score: 1
 away_score: 2
 venue: Lassalyckan, Ulricehamn
 featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/08/uifk-pressade-ife-till-forlangning-i-svenska-cupen-E7402030.jpg
+instagram_url: https://www.instagram.com/p/DbsgIQ3iOUZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 excerpt: Ulricehamns IFK, nykomlingen i division 1 Mellersta, stod för en
   disciplinerad och stark insats mot ett formstarkt Elfsborg, som efter tolv
   matcher i Elitettan fortfarande är obesegrat och endast har släppt in tre mål
