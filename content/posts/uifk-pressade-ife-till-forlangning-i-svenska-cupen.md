@@ -14,9 +14,9 @@ away_score: 2
 venue: Lassalyckan, Ulricehamn
 featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/08/uifk-pressade-ife-till-forlangning-i-svenska-cupen-E7402030.jpg
 excerpt: UIFK stod för en disciplinerad och stark insats mot ett Elfsborg som
-  endast släppt in två mål i årets seriespel. I den 89 minuten var Ulricehamn
-  dessutom ytterst nära att avgöra matchen – men en ribbträff räddade IF
-  Elfsborg. 
+  efter 12 matcher i Elitettan inte förlorat en enda match och endast släppt in
+  tre mål i årets seriespel. I den 89 minuten var Ulricehamn dessutom ytterst
+  nära att avgöra matchen – men en ribbträff räddade IF Elfsborg. 
 slug: uifk-pressade-ife-till-forlangning-i-svenska-cupen
 images:
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/08/uifk-pressade-ife-till-forlangning-i-svenska-cupen-E7402025.jpg
@@ -84,7 +84,7 @@ images:
 ---
 Ulricehamns IFK tog emot IF Elfsborg på Lassalyckan i Svenska cupen.
 
-UIFK stod för en disciplinerad och stark insats mot ett Elfsborg som endast släppt in två mål i årets seriespel. I den 89 minuten var Ulricehamn dessutom ytterst nära att avgöra matchen – men en ribbträff räddade IF Elfsborg. 
+UIFK stod för en disciplinerad och stark insats mot ett Elfsborg som efter 12 matcher i Elitettan inte förlorat en enda match och endast släppt in tre mål i årets seriespel. I den 89 minuten var Ulricehamn dessutom ytterst nära att avgöra matchen – men en ribbträff räddade IF Elfsborg. 
 
 I förlängningen drog Elfsborg till slut det längsta strået och säkrade avancemanget i Svenska cupen.
 
