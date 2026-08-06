@@ -13,10 +13,10 @@ home_score: 1
 away_score: 2
 venue: Lassalyckan, Ulricehamn
 featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/08/uifk-pressade-ife-till-forlangning-i-svenska-cupen-E7402030.jpg
-excerpt: UIFK stod för en disciplinerad och stark insats mot ett Elfsborg som
-  efter 12 matcher i Elitettan inte förlorat en enda match och endast släppt in
-  tre mål i årets seriespel. I den 89 minuten var Ulricehamn dessutom ytterst
-  nära att avgöra matchen – men en ribbträff räddade IF Elfsborg. 
+excerpt: Ulricehamns IFK, nykomlingen i division 1 Mellersta, stod för en
+  disciplinerad och stark insats mot ett formstarkt Elfsborg, som efter tolv
+  matcher i Elitettan fortfarande är obesegrat och endast har släppt in tre mål
+  i årets seriespel.
 slug: uifk-pressade-ife-till-forlangning-i-svenska-cupen
 images:
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/08/uifk-pressade-ife-till-forlangning-i-svenska-cupen-E7402025.jpg
@@ -84,8 +84,10 @@ images:
 ---
 Ulricehamns IFK tog emot IF Elfsborg på Lassalyckan i Svenska cupen.
 
-UIFK stod för en disciplinerad och stark insats mot ett Elfsborg som efter 12 matcher i Elitettan inte förlorat en enda match och endast släppt in tre mål i årets seriespel. I den 89 minuten var Ulricehamn dessutom ytterst nära att avgöra matchen – men en ribbträff räddade IF Elfsborg. 
+Ulricehamns IFK, nykomlingen i division 1 Mellersta, stod för en disciplinerad och stark insats mot ett formstarkt Elfsborg, som efter tolv matcher i Elitettan fortfarande är obesegrat och endast har släppt in tre mål i årets seriespel.
 
-I förlängningen drog Elfsborg till slut det längsta strået och säkrade avancemanget i Svenska cupen.
+Trots skillnaden i serienivå stod UIFK upp mycket bra och var dessutom ytterst nära att avgöra matchen i den 89 minuten – men ribban räddade IF Elfsborg.
+
+Matchen gick till förlängning, där Elfsborg till slut drog det längsta strået och säkrade avancemanget i Svenska cupen.
 
 En imponerande prestation av Ulricehamns IFK inför en välfylld läktare på Lassalyckan.
