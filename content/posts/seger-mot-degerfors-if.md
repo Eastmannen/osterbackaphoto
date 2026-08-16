@@ -12,7 +12,7 @@ away_team: Degerfors IF
 home_score: 2
 away_score: 0
 venue: Lassalyckan, Ulricehamn
-featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/08/seger-mot-degerfors-if-E7403532.jpg
+featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/08/seger-mot-degerfors-if-E7404555.jpg
 excerpt: >
   Ulricehamns IFK tog en komfortabel seger hemma mot Degerfors IF i en match som
   hemmalaget kontrollerade från första minuten.
