@@ -1,5 +1,5 @@
 ---
-title: 3 poäng bort mot IK Viljan Strängngnäs
+title: 3 poäng borta mot IK Viljan Strängngnäs
 date: 2026-09-19T00:00:00
 post_type: match
 sport: fotboll
