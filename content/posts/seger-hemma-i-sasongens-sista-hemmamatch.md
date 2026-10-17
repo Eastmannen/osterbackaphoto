@@ -1,5 +1,5 @@
 ---
-title: Seger hemma i säsongens sista hemmamatch
+title: Seger i säsongens sista hemmamatch
 date: 2026-10-17T00:00:00
 post_type: match
 sport: fotboll
