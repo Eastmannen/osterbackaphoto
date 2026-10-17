@@ -11,9 +11,12 @@ home_team: Ulricehamns IFK
 away_team: P18 IK
 home_score: 3
 away_score: 0
-featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/10/seger-hemma-i-sasongens-sista-hemmamatch-E7408930.jpg
-slug: seger-hemma-i-sasongens-sista-hemmamatch
 venue: Lassalyckan, Ulricehamn
+featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/10/seger-hemma-i-sasongens-sista-hemmamatch-E7408930.jpg
+excerpt: UIFK avslutade hemmasäsongen på Lassalyckan med en 3–0-seger mot P18
+  IK. Kajsa Fransson, Ida Backlund och Elina Österbacka gjorde målen, och redan
+  före halvtimmen var slutresultatet på plats.
+slug: seger-hemma-i-sasongens-sista-hemmamatch
 images:
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/10/seger-hemma-i-sasongens-sista-hemmamatch-E7408222.jpg
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/10/seger-hemma-i-sasongens-sista-hemmamatch-E7408227.jpg
@@ -108,3 +111,8 @@ images:
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/10/seger-hemma-i-sasongens-sista-hemmamatch-E7408948.jpg
   - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/10/seger-hemma-i-sasongens-sista-hemmamatch-E7408957.jpg
 ---
+UIFK avslutade hemmasäsongen på Lassalyckan med en 3–0-seger mot P18 IK. Kajsa Fransson, Ida Backlund och Elina Österbacka gjorde målen, och redan före halvtimmen var slutresultatet på plats.
+
+Första halvlek var den bättre, med fint passningsspel och bra kontroll från UIFK. Efter paus blev matchen alltmer något avslagen, men tre poäng och hållen nolla blev ett fint sätt att runda av årets hemmamatcher. 
+
+Nästa vecka väntar säsongens sista match, borta mot Smedby. Förhoppningsvis blir det en seger som avslutning och en sjundeplats i tabellen.
