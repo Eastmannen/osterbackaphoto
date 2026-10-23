@@ -12,7 +12,7 @@ away_team: Sandareds IBS
 home_score: 2
 away_score: 6
 venue: Nya Fristadshallen
-featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/10/eleganterna-foll-i-derbyt-mot-sandared-E7408966.jpg
+featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/10/eleganterna-foll-i-derbyt-mot-sandared-E7409111.jpg
 excerpt: "Fredagskväll, derby och gott om folk i Fristadhallen! Fristad GoIF
   Eleganterna tog emot Sandareds IBS, som var det bättre laget för kvällen och
   tog hem segern med 6–2. "
