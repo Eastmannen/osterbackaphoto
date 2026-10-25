@@ -11,12 +11,18 @@
   status = 200
 
 # ---------------------------------------------------------------------------
-# Shop MVP – gäller ENDAST testmiljöer (Deploy Preview och Branch deploy).
-# Produktionen påverkas inte: den använder [build] ovan och kör "hugo" som förut.
-# shop/build.sh tar bara med shoppen om SHOP_ENABLED=true i aktuell kontext.
+# Shop MVP – gäller ENDAST testmiljöer. Produktionen påverkas inte: den använder
+# [build] ovan och kör "hugo" som förut.
+#
+# - Deploy Preview (pull requests) och branch deploy av "feature/shop-mvp"
+#   kör shop/build.sh.
+# - shop/build.sh vägrar köra i produktion, tar bort /cms (Decap skriver till
+#   main) och markerar testsidorna noindex.
+# - Shoppen tas bara med om SHOP_ENABLED=true OCH grenen är feature/shop-mvp.
+# - Branch deploys av andra grenar använder [build] ovan.
 # ---------------------------------------------------------------------------
 [context.deploy-preview]
   command = "sh shop/build.sh"
 
-[context.branch-deploy]
+[context."feature/shop-mvp"]
   command = "sh shop/build.sh"
