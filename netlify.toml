@@ -9,3 +9,14 @@
   from = "/cms"
   to = "/cms/index.html"
   status = 200
+
+# ---------------------------------------------------------------------------
+# Shop MVP – gäller ENDAST testmiljöer (Deploy Preview och Branch deploy).
+# Produktionen påverkas inte: den använder [build] ovan och kör "hugo" som förut.
+# shop/build.sh tar bara med shoppen om SHOP_ENABLED=true i aktuell kontext.
+# ---------------------------------------------------------------------------
+[context.deploy-preview]
+  command = "sh shop/build.sh"
+
+[context.branch-deploy]
+  command = "sh shop/build.sh"

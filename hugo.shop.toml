@@ -1,0 +1,42 @@
+# Extra Hugo-konfiguration för shoppen.
+#
+# Läses ENDAST av shop/build.sh i testmiljöer när SHOP_ENABLED=true:
+#   hugo --config hugo.toml,hugo.shop.toml
+# Produktionen kör bara "hugo" och läser aldrig denna fil.
+#
+# OBS: När egna mounts anges slutar Hugo använda sina standardmounts.
+# Därför anges alla standardmappar uttryckligen nedan, oförändrade.
+
+# --- Sajtens befintliga mappar (samma som Hugos standard) ---
+[[module.mounts]]
+  source = "content"
+  target = "content"
+[[module.mounts]]
+  source = "layouts"
+  target = "layouts"
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
+[[module.mounts]]
+  source = "static"
+  target = "static"
+[[module.mounts]]
+  source = "data"
+  target = "data"
+[[module.mounts]]
+  source = "i18n"
+  target = "i18n"
+[[module.mounts]]
+  source = "archetypes"
+  target = "archetypes"
+
+# --- Shoppen (mapparna fylls i kommande etapper) ---
+[[module.mounts]]
+  source = "shop/content"
+  target = "content/shop"
+[[module.mounts]]
+  source = "shop/layouts"
+  target = "layouts/shop"
+[[module.mounts]]
+  source = "shop/assets"
+  target = "assets/shop"
