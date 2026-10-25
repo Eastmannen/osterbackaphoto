@@ -44,6 +44,7 @@ fi
 rm -rf public/cms
 echo "shop/build.sh: /cms borttagen ur testbygget"
 
-# Skydd 4: noindex för hela testbygget.
-printf '/*\n  X-Robots-Tag: noindex, nofollow\n' > public/_headers
+# Skydd 4: noindex för hela testbygget. Läggs till sist i en eventuell
+# befintlig _headers så att andra header-regler bevaras.
+printf '\n/*\n  X-Robots-Tag: noindex, nofollow\n' >> public/_headers
 echo "shop/build.sh: noindex satt för testbygget"

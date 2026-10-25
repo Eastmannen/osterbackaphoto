@@ -27,3 +27,9 @@ Kräver git, python3 och Hugo 0.147.0. Testet bevisar att:
 2. `shop/build.sh` vägrar produktion och saknad kontext,
 3. testbygget med shoppen av = produktionen, utom att `/cms` är borttagen och noindex tillagd,
 4. med shoppen på tillkommer/ändras bara `/shop` och `sitemap.xml`.
+
+## Krav i kommande etapper
+
+- Varje Netlify Function ska själv kontrollera `SHOP_ENABLED` vid varje anrop och svara "inte tillgänglig" om den inte är exakt `true`.
+- `shop/verify-build.sh` ska då utökas med test att shop-API och Checkout är otillgängliga när shoppen är avstängd.
+- `SHOP_ENABLED` sätts uttryckligen till `false` i Production och `true` i testkontexterna. Saknad variabel behandlas alltid som `false`.

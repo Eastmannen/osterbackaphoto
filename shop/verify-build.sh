@@ -51,8 +51,8 @@ run_build(){ local name="$1"; shift; local src="$TMP/src-$name"; copy_tree "$src
   if (cd "$src" && env -i PATH="$PATH" HOME="$HOME" "$@" sh shop/build.sh) >"$TMP/log-$name" 2>&1; then
     mv "$src/public" "$TMP/out-$name"; return 0; else return 1; fi; }
 
-# Tillåtna skillnader i testbyggen: /cms borttagen, _headers tillagd.
-only_test_diffs(){ grep -vE '^(D cms/|A _headers$)' || true; }
+# Tillåtna skillnader i testbyggen: /cms borttagen, _headers tillagd eller utökad.
+only_test_diffs(){ grep -vE '^(D cms/|[AM] _headers$)' || true; }
 
 echo
 echo "1. Produktionen efter en merge (\"hugo\" på grenen) = dagens produktion"
