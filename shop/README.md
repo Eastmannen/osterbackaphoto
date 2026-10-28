@@ -34,3 +34,14 @@ Kräver git, python3 och Hugo 0.147.0. Testet bevisar att:
 - `shop/verify-build.sh` ska då utökas med test att shop-API och Checkout är otillgängliga när shoppen är avstängd.
 - `SHOP_ENABLED` sätts uttryckligen till `false` i Production och `true` i testkontexterna. Saknad variabel behandlas alltid som `false`.
 - Stripe-webhooken (etapp 6) ska registrera `stripe_event` och uppdatera ordern **atomiskt** i samma databastransaktion (t.ex. en databasfunktion/RPC), så att en krasch mitt i aldrig lämnar en händelse markerad som hanterad utan att ordern uppdaterats.
+
+## Beslut under bygget
+
+- **2026-10-28 – Signatur:** Esko exporterar rena original. Uppladdaren lägger på signaturen och sparar både
+  rent original och signerad version (privat). Version 1 säljer den signerade. Tillvalet "utan signatur" kan
+  läggas till senare utan omexport.
+- **2026-10-28 – Galleri:** Alla publicerade bilder i matchen visas i tagningsordning. Filter på lag + nummer
+  är en genväg; otaggade bilder säljs som vanligt. Esko taggar bara nummer som tydligt syns.
+- **2026-10-28 – Förhandsbild:** signerad bild nedskalad till högst 1200 px med stor diagonal vattenstämpel
+  "osterbackaphoto.com", utan metadata.
+

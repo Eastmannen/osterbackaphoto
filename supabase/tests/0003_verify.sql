@@ -1,0 +1,295 @@
+-- =============================================================================
+-- OsterbackaPhoto Shop – kontroll av databasen efter migrering 0003
+--
+-- Körs i Supabase SQL-editor EFTER 0001, 0002 och 0003.
+-- Kontrollerar hela schemat (0001 + 0002 + 0003), inklusive prov som körs som rollen
+-- shop_admin. Ändrar ingenting permanent:
+-- all testdata skapas i ett block som rullas tillbaka. Resultatet visas som en
+-- tabell med en rad per kontroll (OK/FEL) och en sammanfattning sist.
+-- =============================================================================
+
+create temp table if not exists _kontroll (nr int, kontroll text, resultat text);
+truncate _kontroll;
+
+do $$
+declare
+  tabeller text[] := array['team','match','image','image_tag','price','shop_order','order_image','stripe_event'];
+  r text[] := '{}';
+  n int;
+  t_home uuid; t_away uuid; t_other uuid; t_x uuid;
+  m1 uuid; m2 uuid; i1 uuid; o1 uuid; o2 uuid; t_sa uuid; m_sa uuid; i_sa uuid;
+begin
+  ---------------------------------------------------------------------------
+  -- A. Struktur och åtkomst (läser bara systemtabeller)
+  ---------------------------------------------------------------------------
+  select count(*) into n from pg_tables where schemaname = 'public' and tablename = any (tabeller);
+  r := r || case when n = 8 then 'OK|Alla 8 tabeller finns' else format('FEL|Alla 8 tabeller finns (hittade %s)', n) end;
+
+  select count(*) into n from pg_class c join pg_namespace s on s.oid = c.relnamespace
+   where s.nspname = 'public' and c.relname = any (tabeller) and c.relrowsecurity;
+  r := r || case when n = 8 then 'OK|Row Level Security är på för alla tabeller' else format('FEL|Row Level Security är på för alla tabeller (%s av 8)', n) end;
+
+  select count(*) into n from unnest(tabeller) t
+   where has_table_privilege('anon', 'public.' || t, 'SELECT,INSERT,UPDATE,DELETE');
+  r := r || case when n = 0 then 'OK|Webbläsaren (anon) har ingen åtkomst till tabellerna' else format('FEL|anon har åtkomst till %s tabeller', n) end;
+
+  select count(*) into n from unnest(tabeller) t
+   where has_table_privilege('authenticated', 'public.' || t, 'SELECT,INSERT,UPDATE,DELETE');
+  r := r || case when n = 0 then 'OK|Inloggade användare (authenticated) har ingen åtkomst' else format('FEL|authenticated har åtkomst till %s tabeller', n) end;
+
+  select count(*) into n from unnest(tabeller) t
+   where has_table_privilege('service_role', 'public.' || t, 'SELECT')
+     and has_table_privilege('service_role', 'public.' || t, 'INSERT')
+     and has_table_privilege('service_role', 'public.' || t, 'UPDATE');
+  r := r || case when n = 8 then 'OK|Shoppens serverkod (service_role) når alla tabeller' else format('FEL|service_role når bara %s av 8 tabeller', n) end;
+
+  r := r || case when exists (select 1 from pg_roles where rolname = 'shop_admin' and not rolcanlogin and not rolbypassrls)
+                 then 'OK|Rollen shop_admin finns, utan inloggning (aktiveras i etapp 3)'
+                 else 'FEL|Rollen shop_admin saknas eller kan redan logga in' end;
+
+  select count(*) into n from unnest(array['team','match','image','image_tag']) t
+   where has_table_privilege('shop_admin', 'public.' || t, 'SELECT');
+  r := r || case when n = 4 then 'OK|shop_admin kan hantera lag, matcher, bilder och taggar' else format('FEL|shop_admin når bara %s av 4 tabeller', n) end;
+
+  select count(*) into n from unnest(array['price','shop_order','order_image','stripe_event']) t
+   where has_table_privilege('shop_admin', 'public.' || t, 'SELECT,INSERT,UPDATE,DELETE');
+  r := r || case when n = 0 then 'OK|shop_admin når inte ordrar, kunders e-post eller priser' else format('FEL|shop_admin når %s skyddade tabeller', n) end;
+
+  select count(*) into n from pg_policies where schemaname = 'public' and 'shop_admin' = any (roles);
+  r := r || case when n = 4 then 'OK|4 åtkomstregler (policies) för shop_admin' else format('FEL|%s åtkomstregler för shop_admin (väntat 4)', n) end;
+
+  select count(*) into n from pg_trigger where not tgisinternal
+     and tgname in ('image_tag_team_check', 'match_team_change_check', 'image_match_change_block', 'image_storage_key_immutable');
+  r := r || case when n = 4 then 'OK|4 skyddsregler (triggers) finns' else format('FEL|%s skyddsregler finns (väntat 4)', n) end;
+
+  r := r || case when exists (select 1 from pg_indexes where schemaname = 'public' and indexname = 'shop_order_stripe_payment_id_unique')
+                 then 'OK|Stripe-betalnings-id (PaymentIntent) är unikt' else 'FEL|Unikt index för stripe_payment_id saknas' end;
+
+  r := r || case when not has_column_privilege('shop_admin', 'public.image', 'original_r2_key', 'UPDATE')
+                  and not has_column_privilege('shop_admin', 'public.image', 'preview_key', 'UPDATE')
+                  and not has_column_privilege('shop_admin', 'public.image', 'match_id', 'UPDATE')
+                  and has_column_privilege('shop_admin', 'public.image', 'status', 'UPDATE')
+                  and has_column_privilege('shop_admin', 'public.image', 'hidden_reason', 'UPDATE')
+                 then 'OK|shop_admin får bara ändra status/döljning/mått på bilder, inte lagringsnycklar'
+                 else 'FEL|shop_admin har fel kolumnrättigheter på bilder' end;
+
+  r := r || case when exists (select 1 from information_schema.columns where table_schema = 'public' and table_name = 'image'
+                                 and column_name = 'signed_r2_key' and is_nullable = 'NO')
+                  and exists (select 1 from information_schema.columns where table_schema = 'public' and table_name = 'image'
+                                 and column_name = 'taken_at')
+                 then 'OK|Bilder har signerad version (krävs) och tagningstid'
+                 else 'FEL|Kolumnerna signed_r2_key/taken_at saknas eller är fel' end;
+
+  r := r || case when not has_column_privilege('shop_admin', 'public.image', 'signed_r2_key', 'UPDATE')
+                  and not has_column_privilege('shop_admin', 'public.image', 'taken_at', 'UPDATE')
+                 then 'OK|shop_admin kan inte ändra signerad nyckel eller tagningstid'
+                 else 'FEL|shop_admin kan ändra signerad nyckel eller tagningstid' end;
+
+  ---------------------------------------------------------------------------
+  -- B. Regler med testdata – allt rullas tillbaka
+  ---------------------------------------------------------------------------
+  begin
+    insert into public.team (name, slug) values ('Kontroll Hemma', 'kontroll-hemma-0001') returning id into t_home;
+    insert into public.team (name, slug) values ('Kontroll Borta', 'kontroll-borta-0001') returning id into t_away;
+    insert into public.team (name, slug) values ('Kontroll Annat', 'kontroll-annat-0001') returning id into t_other;
+    insert into public.match (slug, date, home_team_id, away_team_id)
+      values ('kontroll-match-0001', current_date, t_home, t_away) returning id into m1;
+    insert into public.match (slug, date, home_team_id, away_team_id)
+      values ('kontroll-match-0001-b', current_date, t_home, t_other) returning id into m2;
+    insert into public.image (match_id, filename, preview_key, original_r2_key, signed_r2_key, taken_at)
+      values (m1, 'IMG_0001.jpg', 'kontroll/0001-preview.jpg', 'kontroll/0001-original.jpg', 'kontroll/0001-signerad.jpg', now()) returning id into i1;
+
+    -- Taggar
+    begin
+      insert into public.image_tag values (i1, t_home, 17);
+      r := r || text 'OK|Tagg "hemma 17" godtas';
+    exception when others then r := r || ('FEL|Tagg "hemma 17" godtas: ' || sqlerrm); end;
+
+    begin
+      insert into public.image_tag values (i1, t_away, 17);
+      r := r || text 'OK|Samma nummer i bortalaget ("borta 17") godtas och hålls isär';
+    exception when others then r := r || ('FEL|"borta 17" godtas: ' || sqlerrm); end;
+
+    begin
+      insert into public.image_tag values (i1, t_other, 8);
+      r := r || text 'FEL|Tagg på lag som inte spelar matchen stoppas';
+    exception when check_violation then r := r || text 'OK|Tagg på lag som inte spelar matchen stoppas'; end;
+
+    begin
+      insert into public.image_tag values (i1, t_home, 17);
+      r := r || text 'FEL|Dubbel tagg stoppas';
+    exception when unique_violation then r := r || text 'OK|Dubbel tagg stoppas'; end;
+
+    begin
+      update public.match set away_team_id = t_other where id = m1;
+      r := r || text 'FEL|Matchens lag kan inte bytas när taggar finns';
+    exception when check_violation then r := r || text 'OK|Matchens lag kan inte bytas när taggar finns'; end;
+
+    begin
+      update public.image set match_id = m2 where id = i1;
+      r := r || text 'FEL|En bild kan inte flyttas till en annan match';
+    exception when check_violation then r := r || text 'OK|En bild kan inte flyttas till en annan match'; end;
+
+    begin
+      insert into public.match (slug, date, home_team_id, away_team_id)
+        values ('kontroll-samma-lag', current_date, t_home, t_home);
+      r := r || text 'FEL|En match kan inte ha samma lag som hemma och borta';
+    exception when check_violation then r := r || text 'OK|En match kan inte ha samma lag som hemma och borta'; end;
+
+    -- Döljning
+    begin
+      update public.image set status = 'hidden' where id = i1;
+      r := r || text 'FEL|Dold bild kräver tidpunkt och skäl';
+    exception when check_violation then r := r || text 'OK|Dold bild kräver tidpunkt och skäl'; end;
+
+    begin
+      update public.image set status = 'hidden', hidden_at = now(), hidden_reason = 'Kontroll' where id = i1;
+      r := r || text 'OK|Bild kan döljas med tidpunkt och skäl';
+    exception when others then r := r || ('FEL|Bild kan döljas med tidpunkt och skäl: ' || sqlerrm); end;
+
+    -- Pris
+    begin
+      insert into public.price (amount, active) values (3900, true);
+      insert into public.price (amount, active) values (4900, true);
+      r := r || text 'FEL|Högst ett aktivt pris åt gången';
+    exception when unique_violation then r := r || text 'OK|Högst ett aktivt pris åt gången'; end;
+
+    -- Ordrar
+    insert into public.shop_order (amount, currency, stripe_session_id, access_token_hash, consent_at)
+      values (3900, 'sek', 'cs_test_kontroll_0001', 'hash-kontroll-0001', now()) returning id into o1;
+
+    begin
+      insert into public.shop_order (amount, currency, stripe_session_id, access_token_hash, consent_at)
+        values (3900, 'sek', 'cs_test_kontroll_0001', 'hash-kontroll-0002', now());
+      r := r || text 'FEL|Samma Stripe Checkout-session kan inte registreras två gånger';
+    exception when unique_violation then r := r || text 'OK|Samma Stripe Checkout-session kan inte registreras två gånger'; end;
+
+    begin
+      update public.shop_order set status = 'paid' where id = o1;
+      r := r || text 'FEL|Betald order kräver betalningstidpunkt';
+    exception when check_violation then r := r || text 'OK|Betald order kräver betalningstidpunkt'; end;
+
+    begin
+      insert into public.order_image values (o1, i1, 3900);
+      delete from public.image where id = i1;
+      r := r || text 'FEL|En köpt bild kan inte raderas';
+    exception when foreign_key_violation then r := r || text 'OK|En köpt bild kan inte raderas'; end;
+
+    begin
+      insert into public.stripe_event (id, type) values ('evt_kontroll_0001', 'checkout.session.completed');
+      insert into public.stripe_event (id, type) values ('evt_kontroll_0001', 'checkout.session.completed');
+      r := r || text 'FEL|Samma Stripe-händelse kan bara registreras en gång';
+    exception when unique_violation then r := r || text 'OK|Samma Stripe-händelse kan bara registreras en gång'; end;
+
+    -- 0002: PaymentIntent unik
+    begin
+      update public.shop_order set stripe_payment_id = 'pi_test_kontroll_0001' where id = o1;
+      insert into public.shop_order (amount, currency, stripe_session_id, stripe_payment_id, access_token_hash, consent_at)
+        values (3900, 'sek', 'cs_test_kontroll_0002', 'pi_test_kontroll_0001', 'hash-kontroll-0003', now());
+      r := r || text 'FEL|Samma Stripe-betalning (PaymentIntent) kan inte kopplas till två ordrar';
+    exception when unique_violation then r := r || text 'OK|Samma Stripe-betalning (PaymentIntent) kan inte kopplas till två ordrar'; end;
+
+    -- 0002: leverans kräver betalning
+    begin
+      update public.shop_order set delivery_status = 'sent', delivery_email_sent_at = now() where id = o1;
+      r := r || text 'FEL|Leveransmejl kan inte markeras som skickat för obetald order';
+    exception when check_violation then r := r || text 'OK|Leveransmejl kan inte markeras som skickat för obetald order'; end;
+
+    begin
+      update public.shop_order set status = 'paid', paid_at = now(), delivery_status = 'sent', delivery_email_sent_at = now() where id = o1;
+      r := r || text 'OK|Betald order kan markeras som levererad';
+    exception when others then r := r || ('FEL|Betald order kan markeras som levererad: ' || sqlerrm); end;
+
+    -- 0002: lagringsnycklar oföränderliga, även för databasägaren/serverkoden
+    begin
+      update public.image set original_r2_key = 'kontroll/annat-original.jpg' where id = i1;
+      r := r || text 'FEL|En bilds original-nyckel kan aldrig ändras';
+    exception when check_violation then r := r || text 'OK|En bilds original-nyckel kan aldrig ändras'; end;
+
+    -- 0003: signerad nyckel krävs och är oföränderlig
+    begin
+      insert into public.image (match_id, filename, preview_key, original_r2_key)
+        values (m1, 'IMG_0002.jpg', 'kontroll/0002-preview.jpg', 'kontroll/0002-original.jpg');
+      r := r || text 'FEL|En bild måste ha en signerad version';
+    exception when not_null_violation then r := r || text 'OK|En bild måste ha en signerad version'; end;
+
+    begin
+      update public.image set signed_r2_key = 'kontroll/annan-signerad.jpg' where id = i1;
+      r := r || text 'FEL|En bilds signerade nyckel kan aldrig ändras';
+    exception when check_violation then r := r || text 'OK|En bilds signerade nyckel kan aldrig ändras'; end;
+
+    -- 0002: prov som körs SOM rollen shop_admin
+    begin
+      set local role shop_admin;
+
+      begin
+        insert into public.team (name, slug) values ('Kontroll SA Hemma', 'kontroll-sa-hemma-0001') returning id into t_sa;
+        insert into public.match (slug, date, home_team_id, away_team_id)
+          values ('kontroll-sa-match-0001', current_date, t_sa, t_away) returning id into m_sa;
+        insert into public.image (match_id, filename, preview_key, original_r2_key, signed_r2_key, taken_at, width, height)
+          values (m_sa, 'SA_0001.jpg', 'kontroll/sa-preview.jpg', 'kontroll/sa-original.jpg', 'kontroll/sa-signerad.jpg', now(), 6000, 4000) returning id into i_sa;
+        insert into public.image_tag values (i_sa, t_away, 17);
+        r := r || text 'OK|Som shop_admin: skapa lag, match, bild och tagg fungerar';
+      exception when others then r := r || ('FEL|Som shop_admin: skapa lag, match, bild och tagg: ' || sqlerrm); end;
+
+      begin
+        update public.image set status = 'hidden', hidden_at = now(), hidden_reason = 'Kontroll' where id = i_sa;
+        update public.match set status = 'published' where id = m_sa;
+        r := r || text 'OK|Som shop_admin: dölja bild och publicera match fungerar';
+      exception when others then r := r || ('FEL|Som shop_admin: dölja bild och publicera match: ' || sqlerrm); end;
+
+      begin
+        update public.image set original_r2_key = 'kontroll/sa-annat.jpg' where id = i_sa;
+        r := r || text 'FEL|Som shop_admin: ändra original-nyckel nekas';
+      exception when insufficient_privilege then r := r || text 'OK|Som shop_admin: ändra original-nyckel nekas'; end;
+
+      begin
+        delete from public.image where id = i_sa;
+        r := r || text 'FEL|Som shop_admin: radera bild nekas';
+      exception when insufficient_privilege then r := r || text 'OK|Som shop_admin: radera bild nekas'; end;
+
+      begin
+        perform 1 from public.shop_order limit 1;
+        r := r || text 'FEL|Som shop_admin: läsa ordrar och kunders e-post nekas';
+      exception when insufficient_privilege then r := r || text 'OK|Som shop_admin: läsa ordrar och kunders e-post nekas'; end;
+
+      begin
+        perform 1 from public.price limit 1;
+        r := r || text 'FEL|Som shop_admin: läsa priser nekas';
+      exception when insufficient_privilege then r := r || text 'OK|Som shop_admin: läsa priser nekas'; end;
+
+      begin
+        update public.team set slug = 'kontroll-sa-nytt' where id = t_sa;
+        r := r || text 'FEL|Som shop_admin: ändra lagets slug nekas';
+      exception when insufficient_privilege then r := r || text 'OK|Som shop_admin: ändra lagets slug nekas'; end;
+
+      reset role;
+    exception when others then
+      r := r || ('FEL|Kunde inte köra prov som shop_admin: ' || sqlerrm);
+    end;
+
+    raise exception 'kontroll_klar_rulla_tillbaka';
+  exception when others then
+    if sqlerrm <> 'kontroll_klar_rulla_tillbaka' then
+      r := r || ('FEL|Testdata kunde inte skapas: ' || sqlerrm);
+    end if;
+  end;
+
+  -- Bekräfta att ingen testdata finns kvar.
+  select count(*) into n from public.team where slug like 'kontroll-%0001';
+  r := r || case when n = 0 then 'OK|All testdata är borttagen' else 'FEL|Testdata finns kvar' end;
+
+  insert into _kontroll (nr, kontroll, resultat)
+  select ord::int, split_part(x, '|', 2), split_part(x, '|', 1)
+  from unnest(r) with ordinality as u(x, ord);
+end;
+$$;
+
+select nr, resultat, kontroll from _kontroll
+union all
+select 999,
+       case when count(*) filter (where resultat = 'FEL') = 0 then 'OK' else 'FEL' end,
+       format('SAMMANFATTNING: %s av %s kontroller godkända',
+              count(*) filter (where resultat = 'OK'), count(*))
+from _kontroll
+order by nr;
