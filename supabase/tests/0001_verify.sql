@@ -136,8 +136,8 @@ begin
     begin
       insert into public.shop_order (amount, currency, stripe_session_id, access_token_hash, consent_at)
         values (3900, 'sek', 'cs_test_kontroll_0001', 'hash-kontroll-0002', now());
-      r := r || text 'FEL|Samma Stripe-betalning kan inte registreras två gånger';
-    exception when unique_violation then r := r || text 'OK|Samma Stripe-betalning kan inte registreras två gånger'; end;
+      r := r || text 'FEL|Samma Stripe Checkout-session kan inte registreras två gånger';
+    exception when unique_violation then r := r || text 'OK|Samma Stripe Checkout-session kan inte registreras två gånger'; end;
 
     begin
       update public.shop_order set status = 'paid' where id = o1;

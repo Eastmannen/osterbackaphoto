@@ -33,3 +33,4 @@ Kräver git, python3 och Hugo 0.147.0. Testet bevisar att:
 - Varje Netlify Function ska själv kontrollera `SHOP_ENABLED` vid varje anrop och svara "inte tillgänglig" om den inte är exakt `true`.
 - `shop/verify-build.sh` ska då utökas med test att shop-API och Checkout är otillgängliga när shoppen är avstängd.
 - `SHOP_ENABLED` sätts uttryckligen till `false` i Production och `true` i testkontexterna. Saknad variabel behandlas alltid som `false`.
+- Stripe-webhooken (etapp 6) ska registrera `stripe_event` och uppdatera ordern **atomiskt** i samma databastransaktion (t.ex. en databasfunktion/RPC), så att en krasch mitt i aldrig lämnar en händelse markerad som hanterad utan att ordern uppdaterats.
