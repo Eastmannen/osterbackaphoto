@@ -5,7 +5,8 @@ OsterbackaPhoto Shop – uppladdare.
 Tar en mapp med RENA JPEG-original exporterade från Lightroom och:
   1. läser nyckelord home:NN / away:NN (stora/små bokstäver spelar ingen roll),
      tagningstid och kontrollerar att ingen GPS-position finns,
-  2. skapar en SIGNERAD version (Eskos signatur nere till höger, full upplösning),
+  2. skapar en SIGNERAD version (signaturen "@osterbackaphoto.com" nere till vänster,
+     som i Eskos Lightroom-export, full upplösning),
   3. skapar en FÖRHANDSBILD (högst 1200 px, stor vattenstämpel, ingen metadata),
   4. laddar upp rent original + signerad version till den privata bucketen och
      förhandsbilden till preview-bucketen,
@@ -148,8 +149,6 @@ def main(argv: list[str]) -> int:
         if args.miljo == "produktion":
             confirm_production()
         print(cfg.describe())
-    if cfg.signature_path is None:
-        warnings.append("Ingen signatur-PNG hittades (shop_tools/assets/signatur.png) – tillfällig textsignatur används")
 
     results = {"uppladdade": 0, "fanns_redan": 0, "med_taggar": 0, "utan_taggar": 0}
 

@@ -7,7 +7,7 @@ Tar en mapp med **rena** JPEG-original från Lightroom och laddar upp en match t
 För varje bild:
 
 1. Läser nyckelord `home:NN` / `away:NN` (stora/små bokstäver spelar ingen roll), tagningstid och kontrollerar GPS.
-2. Skapar en **signerad version** i full upplösning (signaturen nere till höger, GPS borttagen).
+2. Skapar en **signerad version** i full upplösning ("@osterbackaphoto.com" nere till vänster som i Lightroom-exporten, GPS borttagen).
 3. Skapar en **förhandsbild**: högst 1200 px, stor diagonal vattenstämpel, ingen metadata.
 4. Laddar upp rent original + signerad version (privat bucket) och förhandsbild (publik bucket).
 5. Registrerar match, bild och taggar i databasen som `draft`.
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 cp .env.example .env        # fyll sedan i .env
 ```
 
-Lägg signaturen som `assets/signatur.png` (PNG med genomskinlig bakgrund). Utan den används en tillfällig textsignatur.
+Signaturen är som standard texten `@osterbackaphoto.com` i vitt med 62 % opacitet nere till vänster – samma inställningar som Eskos vattenstämpel i Lightroom. Texten kan ändras med `SHOP_SIGNATURE_TEXT`. Läggs en PNG som `assets/signatur.png` används den i stället.
 
 ### Användning
 

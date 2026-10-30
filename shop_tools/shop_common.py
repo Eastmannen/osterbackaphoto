@@ -27,7 +27,21 @@ PREVIEW_MAX_PX = 1200
 PREVIEW_QUALITY = 80
 SIGNED_QUALITY = 95
 DEFAULT_WATERMARK_TEXT = "osterbackaphoto.com"
-DEFAULT_SIGNATURE_TEXT = "OsterbackaPhoto"
+
+# Signaturen efterliknar Eskos vattenstämpel i Lightroom (2026-10-30):
+# "@osterbackaphoto.com", vit, opacitet 62, nere till vänster,
+# förflyttning 5 vågrätt / 3 lodrätt, ingen skugga.
+DEFAULT_SIGNATURE_TEXT = "@osterbackaphoto.com"
+SIGNATURE_OPACITY = 0.62
+SIGNATURE_WIDTH = 0.16        # textens bredd som andel av bildens bredd
+SIGNATURE_OFFSET_X = 0.05     # andel av bildens bredd
+SIGNATURE_OFFSET_Y = 0.03     # andel av bildens höjd
+
+# Förhandsbildens vattenstämpel (stark, 2026-10-30: "mycket starkare,
+# både större och lite mer markerad").
+PREVIEW_TEXT_WIDTH = 0.80     # varje rads bredd som andel av bildens bredd
+PREVIEW_ALPHA_CENTER = 175
+PREVIEW_ALPHA_OTHER = 115
 
 # ---------------------------------------------------------------------------
 # Konfiguration
@@ -73,6 +87,7 @@ class Config:
     preview_public_url: str = ""
     signature_path: Path | None = None
     watermark_text: str = DEFAULT_WATERMARK_TEXT
+    signature_text: str = DEFAULT_SIGNATURE_TEXT
     font_path: str | None = None
 
     def describe(self) -> str:
@@ -106,6 +121,7 @@ def load_config(environment: str) -> Config:
         preview_public_url=os.environ.get(prefix + "PREVIEW_PUBLIC_URL", ""),
         signature_path=Path(sig) if Path(sig).exists() else None,
         watermark_text=os.environ.get("SHOP_WATERMARK_TEXT", DEFAULT_WATERMARK_TEXT),
+        signature_text=os.environ.get("SHOP_SIGNATURE_TEXT", DEFAULT_SIGNATURE_TEXT),
         font_path=os.environ.get("SHOP_FONT_PATH") or None,
     )
 
@@ -119,6 +135,7 @@ def render_only_config() -> Config:
         preview_bucket="", original_bucket="", db_url="",
         signature_path=sig if sig.exists() else None,
         watermark_text=os.environ.get("SHOP_WATERMARK_TEXT", DEFAULT_WATERMARK_TEXT),
+        signature_text=os.environ.get("SHOP_SIGNATURE_TEXT", DEFAULT_SIGNATURE_TEXT),
         font_path=os.environ.get("SHOP_FONT_PATH") or None,
     )
 
@@ -314,28 +331,33 @@ def _oriented_rgb(data: bytes) -> tuple[Image.Image, bytes | None, Image.Exif]:
     return im, icc, exif
 
 
+def _fit_font(draw: ImageDraw.ImageDraw, text: str, target_w: int, font_path: str | None):
+    """Teckenstorlek så att texten blir target_w pixlar bred."""
+    size = 100
+    font = _font(size, font_path)
+    l, _, r, _ = draw.textbbox((0, 0), text, font=font)
+    size = max(10, int(size * target_w / max(1, r - l)))
+    return _font(size, font_path)
+
+
 def _apply_signature(img: Image.Image, cfg: Config) -> Image.Image:
-    """Lägger Eskos signatur nere till höger."""
-    out = img.copy()
-    short = min(out.size)
-    margin = int(short * 0.025)
+    """Lägger Eskos signatur nere till vänster, som i hans Lightroom-export."""
+    out = img.convert("RGBA")
+    mx, my = int(out.width * SIGNATURE_OFFSET_X), int(out.height * SIGNATURE_OFFSET_Y)
     if cfg.signature_path:
         sig = Image.open(cfg.signature_path).convert("RGBA")
-        target_w = int(out.width * 0.18)
-        ratio = target_w / sig.width
-        sig = sig.resize((target_w, max(1, int(sig.height * ratio))), Image.LANCZOS)
-        pos = (out.width - sig.width - margin, out.height - sig.height - margin)
-        out.paste(sig, pos, sig)
-        return out
-    # Tillfällig textsignatur tills Eskos PNG finns.
-    draw = ImageDraw.Draw(out, "RGBA")
-    font = _font(max(12, int(short * 0.028)), cfg.font_path)
-    text = DEFAULT_SIGNATURE_TEXT
+        target_w = int(out.width * SIGNATURE_WIDTH)
+        sig = sig.resize((target_w, max(1, int(sig.height * target_w / sig.width))), Image.LANCZOS)
+        out.alpha_composite(sig, (mx, out.height - sig.height - my))
+        return out.convert("RGB")
+    layer = Image.new("RGBA", out.size, (0, 0, 0, 0))
+    draw = ImageDraw.Draw(layer)
+    text = cfg.signature_text
+    font = _fit_font(draw, text, int(out.width * SIGNATURE_WIDTH), cfg.font_path)
     l, t, r, b = draw.textbbox((0, 0), text, font=font)
-    x, y = out.width - (r - l) - margin, out.height - (b - t) - margin
-    draw.text((x + 2, y + 2), text, font=font, fill=(0, 0, 0, 110))
-    draw.text((x, y), text, font=font, fill=(255, 255, 255, 220))
-    return out
+    draw.text((mx - l, out.height - my - b), text, font=font,
+              fill=(255, 255, 255, int(255 * SIGNATURE_OPACITY)))
+    return Image.alpha_composite(out, layer).convert("RGB")
 
 
 def make_signed_jpeg(data: bytes, cfg: Config) -> bytes:
@@ -363,16 +385,18 @@ def make_preview_jpeg(signed_data: bytes, cfg: Config) -> bytes:
     diag = int((w * w + h * h) ** 0.5)
     layer = Image.new("RGBA", (diag, diag), (0, 0, 0, 0))
     draw = ImageDraw.Draw(layer)
-    font = _font(max(18, int(w * 0.085)), cfg.font_path)
     text = cfg.watermark_text
+    font = _fit_font(draw, text, int(w * PREVIEW_TEXT_WIDTH), cfg.font_path)
     l, t, r, b = draw.textbbox((0, 0), text, font=font)
     tw, th = r - l, b - t
-    step = int(th * 4.2)
+    step = int(th * 2.6)
+    stroke = max(1, th // 14)
     for i, y in enumerate(range(-diag, diag * 2, step)):
         x = (diag - tw) // 2 + (tw // 2 if i % 2 else 0) - tw // 4
-        alpha = 120 if abs(y - diag // 2) < step else 55
-        draw.text((x + 2, y + 2), text, font=font, fill=(0, 0, 0, alpha // 2))
-        draw.text((x, y), text, font=font, fill=(255, 255, 255, alpha))
+        for dx in (-tw - th, 0, tw + th):
+            alpha = PREVIEW_ALPHA_CENTER if abs(y - diag // 2) < step else PREVIEW_ALPHA_OTHER
+            draw.text((x + dx, y), text, font=font, fill=(255, 255, 255, alpha),
+                      stroke_width=stroke, stroke_fill=(0, 0, 0, alpha // 2))
     layer = layer.rotate(30, resample=Image.BICUBIC)
     left, top = (diag - w) // 2, (diag - h) // 2
     layer = layer.crop((left, top, left + w, top + h))
