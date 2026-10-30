@@ -9,12 +9,13 @@ I produktion körs de först efter uttryckligt godkännande.
 | --- | --- |
 | `migrations/0001_init.sql` | Tabeller, regler, Row Level Security och rollen `shop_admin` (utan inloggning) |
 | `migrations/0002_hardening.sql` | Unikt `stripe_payment_id`, leverans kräver betalning, oföränderliga lagringsnycklar, kolumnspecifika rättigheter för `shop_admin` |
+| `migrations/0003_signed_and_taken_at.sql` | Signerad version (`signed_r2_key`, krävs och är oföränderlig) och tagningstid (`taken_at`) för galleriets ordning |
 
 En körd migrering ändras aldrig. Rättelser görs i en ny numrerad fil.
 
 ## Kontroll
 
-Efter varje migrering körs motsvarande fil i `tests/`. Den senaste (`tests/0002_verify.sql`) kontrollerar hela schemat,
+Efter varje migrering körs motsvarande fil i `tests/`. Den senaste (`tests/0003_verify.sql`) kontrollerar hela schemat,
 inklusive prov som körs som rollen `shop_admin`.
 Skriptet ändrar ingenting permanent och visar en rad per kontroll (OK/FEL) samt en sammanfattning.
 
