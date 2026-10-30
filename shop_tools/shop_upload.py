@@ -5,8 +5,8 @@ OsterbackaPhoto Shop – uppladdare.
 Tar en mapp med RENA JPEG-original exporterade från Lightroom och:
   1. läser nyckelord home:NN / away:NN (stora/små bokstäver spelar ingen roll),
      tagningstid och kontrollerar att ingen GPS-position finns,
-  2. skapar en SIGNERAD version (signaturen "@osterbackaphoto.com" nere till vänster,
-     som i Eskos Lightroom-export, full upplösning),
+  2. skapar en SIGNERAD version (signaturen "@osterbackaphoto.com" nere till höger,
+     full upplösning),
   3. skapar en FÖRHANDSBILD (högst 1200 px, stor vattenstämpel, ingen metadata),
   4. laddar upp rent original + signerad version till den privata bucketen och
      förhandsbilden till preview-bucketen,

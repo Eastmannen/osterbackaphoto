@@ -28,12 +28,12 @@ PREVIEW_QUALITY = 80
 SIGNED_QUALITY = 95
 DEFAULT_WATERMARK_TEXT = "osterbackaphoto.com"
 
-# Signaturen efterliknar Eskos vattenstämpel i Lightroom (2026-10-30):
-# "@osterbackaphoto.com", vit, opacitet 62, nere till vänster,
-# förflyttning 5 vågrätt / 3 lodrätt, ingen skugga.
+# Signaturen bygger på Eskos vattenstämpel i Lightroom ("@osterbackaphoto.com",
+# vit, opacitet 62, ingen skugga) men enligt beslut 2026-10-30 placerad
+# nere till HÖGER och betydligt större än på den nuvarande sajten.
 DEFAULT_SIGNATURE_TEXT = "@osterbackaphoto.com"
 SIGNATURE_OPACITY = 0.62
-SIGNATURE_WIDTH = 0.16        # textens bredd som andel av bildens bredd
+SIGNATURE_WIDTH = 0.32        # textens bredd som andel av bildens bredd
 SIGNATURE_OFFSET_X = 0.05     # andel av bildens bredd
 SIGNATURE_OFFSET_Y = 0.03     # andel av bildens höjd
 
@@ -341,21 +341,21 @@ def _fit_font(draw: ImageDraw.ImageDraw, text: str, target_w: int, font_path: st
 
 
 def _apply_signature(img: Image.Image, cfg: Config) -> Image.Image:
-    """Lägger Eskos signatur nere till vänster, som i hans Lightroom-export."""
+    """Lägger Eskos signatur nere till höger."""
     out = img.convert("RGBA")
     mx, my = int(out.width * SIGNATURE_OFFSET_X), int(out.height * SIGNATURE_OFFSET_Y)
     if cfg.signature_path:
         sig = Image.open(cfg.signature_path).convert("RGBA")
         target_w = int(out.width * SIGNATURE_WIDTH)
         sig = sig.resize((target_w, max(1, int(sig.height * target_w / sig.width))), Image.LANCZOS)
-        out.alpha_composite(sig, (mx, out.height - sig.height - my))
+        out.alpha_composite(sig, (out.width - sig.width - mx, out.height - sig.height - my))
         return out.convert("RGB")
     layer = Image.new("RGBA", out.size, (0, 0, 0, 0))
     draw = ImageDraw.Draw(layer)
     text = cfg.signature_text
     font = _fit_font(draw, text, int(out.width * SIGNATURE_WIDTH), cfg.font_path)
     l, t, r, b = draw.textbbox((0, 0), text, font=font)
-    draw.text((mx - l, out.height - my - b), text, font=font,
+    draw.text((out.width - mx - r, out.height - my - b), text, font=font,
               fill=(255, 255, 255, int(255 * SIGNATURE_OPACITY)))
     return Image.alpha_composite(out, layer).convert("RGB")
 
