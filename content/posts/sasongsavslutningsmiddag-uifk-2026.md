@@ -1,98 +1,101 @@
 ---
-title: "Säsongsavslutningsmiddag UIFK 2026"
+title: Säsongsavslutningsmiddag UIFK 2026
 date: 2026-11-07T00:00:00
-slug: "sasongsavslutningsmiddag-uifk-2026"
-post_type: "other"
-sport: "annat"
+post_type: other
+sport: annat
 sports:
-  - "annat"
-club: "Ulricehamns IFK"
-venue: "Hotell Lassalyckan, Ulricehamn"
-featured_image: "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400081.jpg"
+  - annat
+club: Ulricehamns IFK
+venue: Hotell Lassalyckan, Ulricehamn
+featured_image: https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400154.jpg
+excerpt: "Bilder från Ulricehamns IFKs säsongsavslutningsmiddag på Hotell
+  Lassalyckan, Ulricehamn. "
+slug: sasongsavslutningsmiddag-uifk-2026
 images:
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400081.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400087.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400096.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400106.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400111.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400113.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400121.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400124.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400129.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400138.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400139.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400142.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400143.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400145.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400148.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400150.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400151.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400154.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400161.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400162.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400166.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400190.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400195.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400211.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400214.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400216.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400220.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400221.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400222.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400226.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400231.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400268.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400274.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400277.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400309.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400311.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400328.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400337.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400341.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400354.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400368.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400370.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400373.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400379.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400380.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400393.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400401.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400420.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400421.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400424.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400426.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400435.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400439.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400442.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400447.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400466.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400473.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400479.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400493.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400496.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400503.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400507.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400512.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400514.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400516.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400519.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400524.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400525.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400531.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400534.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400546.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400551.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400558.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400563.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400571.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400594.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400601.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400610.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400633.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400639.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400662.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400669.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400671.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400673.jpg"
-  - "https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400679.jpg"
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400081.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400087.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400096.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400106.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400111.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400113.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400121.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400124.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400129.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400138.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400139.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400142.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400143.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400145.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400148.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400150.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400151.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400154.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400161.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400162.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400166.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400190.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400195.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400211.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400214.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400216.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400220.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400221.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400222.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400226.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400231.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400268.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400274.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400277.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400309.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400311.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400328.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400337.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400341.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400354.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400368.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400370.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400373.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400379.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400380.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400393.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400401.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400420.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400421.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400424.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400426.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400435.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400439.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400442.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400447.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400466.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400473.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400479.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400493.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400496.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400503.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400507.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400512.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400514.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400516.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400519.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400524.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400525.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400531.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400534.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400546.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400551.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400558.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400563.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400571.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400594.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400601.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400610.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400633.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400639.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400662.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400669.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400671.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400673.jpg
+  - https://pub-ef305913c29145ed99390d0f52ff6dee.r2.dev/wp-content/uploads/2026/11/sasongsavslutningsmiddag-uifk-2026-E7400679.jpg
 ---
+Bilder från Ulricehamns IFKs säsongsavslutningsmiddag på Hotell Lassalyckan, Ulricehamn.
